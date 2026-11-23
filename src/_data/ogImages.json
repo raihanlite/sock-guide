@@ -1,74 +1,78 @@
 {
-  "img-01.jpg": {
-    "height": 1707,
-    "width": 1280
-  },
-  "img-02.jpg": {
-    "height": 2276,
-    "width": 1280
-  },
-  "img-03.jpg": {
-    "height": 1707,
-    "width": 1280
-  },
-  "img-04.jpg": {
-    "height": 960,
-    "width": 1280
-  },
-  "img-05.jpg": {
-    "height": 2400,
-    "width": 1600
-  },
-  "img-06.jpg": {
-    "height": 960,
-    "width": 1280
-  },
-  "img-07.jpg": {
-    "height": 1081,
-    "width": 1280
-  },
-  "img-08.jpg": {
-    "height": 2133,
-    "width": 1600
-  },
-  "img-09.jpg": {
-    "height": 853,
-    "width": 1280
-  },
-  "img-10.jpg": {
-    "height": 960,
-    "width": 1280
-  },
-  "img-11.jpg": {
-    "height": 829,
-    "width": 1280
-  },
-  "img-43.jpg": {
-    "height": 1253,
-    "width": 1880
-  },
-  "img-50.jpg": {
-    "height": 1253,
-    "width": 1880
-  },
-  "img-51.jpg": {
-    "height": 1253,
-    "width": 1880
-  },
-  "img-52.jpg": {
-    "height": 1254,
-    "width": 1880
-  },
-  "img-58.jpg": {
-    "height": 1240,
-    "width": 1880
-  },
-  "img-59.jpg": {
-    "height": 1253,
-    "width": 1880
-  },
-  "img-66.jpg": {
-    "height": 758,
-    "width": 1500
-  }
+ "img-01.jpg": {
+  "height": 1707,
+  "width": 1280
+ },
+ "img-02.jpg": {
+  "height": 2276,
+  "width": 1280
+ },
+ "img-03.jpg": {
+  "height": 1707,
+  "width": 1280
+ },
+ "img-04.jpg": {
+  "height": 960,
+  "width": 1280
+ },
+ "img-05.jpg": {
+  "height": 2400,
+  "width": 1600
+ },
+ "img-06.jpg": {
+  "height": 960,
+  "width": 1280
+ },
+ "img-07.jpg": {
+  "height": 1081,
+  "width": 1280
+ },
+ "img-08.jpg": {
+  "height": 2133,
+  "width": 1600
+ },
+ "img-09.jpg": {
+  "height": 853,
+  "width": 1280
+ },
+ "img-10.jpg": {
+  "height": 960,
+  "width": 1280
+ },
+ "img-11.jpg": {
+  "height": 829,
+  "width": 1280
+ },
+ "img-43.jpg": {
+  "height": 1253,
+  "width": 1880
+ },
+ "img-50.jpg": {
+  "height": 1253,
+  "width": 1880
+ },
+ "img-51.jpg": {
+  "height": 1253,
+  "width": 1880
+ },
+ "img-52.jpg": {
+  "height": 1254,
+  "width": 1880
+ },
+ "img-58.jpg": {
+  "height": 1240,
+  "width": 1880
+ },
+ "img-59.jpg": {
+  "height": 1253,
+  "width": 1880
+ },
+ "img-66.jpg": {
+  "height": 758,
+  "width": 1500
+ },
+ "img-67.jpg": {
+  "height": 1253,
+  "width": 1880
+ }
 }
