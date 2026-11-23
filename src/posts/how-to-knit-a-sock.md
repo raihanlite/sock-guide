@@ -4,7 +4,7 @@ title: "How to Knit a Sock"
 date: 2026-11-23
 category: Guides
 image: "artifact/img-76.jpg"
-imageAlt: "Close-up of hands knitting with red yarn and wooden needles"
+imageAlt: "Close-up of hands knitting with red yarn"
 imageCredit: "Ksenia Chernaya, via Pexels"
 tags: posts
 docTitle: "How to Knit a Sock: Yarn, Needles, Heels and Grafting the Toe"
