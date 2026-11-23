@@ -17,7 +17,7 @@ No sock makes you jump higher — a good one keeps your foot still and dry. The 
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Nike Elite Crew Basketball Socks (Dry Elite 1.5)</h3>
 <figure><img src="/img/artifact/img-101.jpg" alt="Nike Elite Crew Basketball Socks in black and white, product shot" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -30,9 +30,9 @@ No sock makes you jump higher — a good one keeps your foot still and dry. The 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01LQZJC42" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best cushion + ventilation</span>
 <h3>Nike Elite Versatility Crew Basketball Socks</h3>
 <figure><img src="/img/artifact/img-102.jpg" alt="Nike Elite Versatility Crew Basketball Socks in black, product shot" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -45,9 +45,9 @@ No sock makes you jump higher — a good one keeps your foot still and dry. The 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01A76MET6" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best Under Armour</span>
 <h3>Under Armour Drive Basketball Crew Socks</h3>
 <figure><img src="/img/artifact/img-103.jpg" alt="Under Armour Drive Basketball Crew Socks in black, product shot" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -60,9 +60,9 @@ No sock makes you jump higher — a good one keeps your foot still and dry. The 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01J1Y8WZA" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best adidas</span>
 <h3>adidas Creator 365 Basketball Crew Socks</h3>
 <figure><img src="/img/artifact/img-104.jpg" alt="adidas Creator 365 Basketball Crew Socks in black and white, product shot" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -75,9 +75,9 @@ No sock makes you jump higher — a good one keeps your foot still and dry. The 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07D9DR1VP" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best value</span>
 <h3>AND1 Men's Cushioned Crew Socks, 12-Pack</h3>
 <figure><img src="/img/artifact/img-105.webp" alt="AND1 Men's Cushioned Crew Socks, 12-pack, product shot" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -90,9 +90,9 @@ No sock makes you jump higher — a good one keeps your foot still and dry. The 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B0CWB1BGMT" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best grip sock</span>
 <h3>Gain The Edge Grip Socks 2.0, Mid-Calf</h3>
 <figure><img src="/img/artifact/img-97.jpg" alt="Gain The Edge Grip Socks 2.0 in white, product shot" /><figcaption>Photo: Gain The Edge</figcaption></figure>
@@ -105,7 +105,7 @@ No sock makes you jump higher — a good one keeps your foot still and dry. The 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://gaintheedgeofficial.com/products/1-grip-socks-2-0-midcalf-length-white" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0DQV2CWKJ" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

@@ -15,7 +15,7 @@ Six running socks for daily miles, racing and blister-prone feet — merino, com
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Darn Tough Run No Show Tab Ultra-Lightweight</h3>
 <figure><img src="/img/artifact/img-44.webp" alt="Darn Tough Run No Show Tab Ultra-Lightweight running sock in black" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -28,9 +28,9 @@ Six running socks for daily miles, racing and blister-prone feet — merino, com
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/collections/best-sellers-men/products/mens-merino-wool-run-no-show-tab-ultra-lightweight-running-socks?variant=37874238030010" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B08MWX9WRB" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best medium cushion</span>
 <h3>Balega Enduro Quarter</h3>
 <figure><img src="/img/artifact/img-45.webp" alt="Balega Enduro Quarter running sock in legion blue" /><figcaption>Photo: Balega</figcaption></figure>
@@ -43,9 +43,9 @@ Six running socks for daily miles, racing and blister-prone feet — merino, com
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://balega.com/products/enduro-quarter" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B09SQ1ZTJV" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for racing</span>
 <h3>Feetures Elite Ultra Light No Show Tab</h3>
 <figure><img src="/img/artifact/img-46.jpg" alt="Feetures Elite Ultra Light No Show Tab socks in black, teal and green" /><figcaption>Photo: Feetures</figcaption></figure>
@@ -58,9 +58,9 @@ Six running socks for daily miles, racing and blister-prone feet — merino, com
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://feetures.com/products/elite-ultra-light-no-show-tab-sock" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0C8RGYVM4" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best compression</span>
 <h3>CEP Core Run Midcut Compression Socks 5.0</h3>
 <figure><img src="/img/artifact/img-47.webp" alt="CEP Core Run Midcut Compression Socks 5.0 in black and lime" /><figcaption>Photo: CEP</figcaption></figure>
@@ -73,9 +73,9 @@ Six running socks for daily miles, racing and blister-prone feet — merino, com
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://ceprunning.com/collections/womens-mid-cut-compression-socks/products/core-run-mid-cut-compression-socks-5-0" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0FLSBD3QV" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for blisters</span>
 <h3>Injinji Run Lightweight No-Show</h3>
 <figure><img src="/img/artifact/img-48.webp" alt="Injinji Run Lightweight No-Show toe sock in black" /><figcaption>Photo: Injinji</figcaption></figure>
@@ -88,9 +88,9 @@ Six running socks for daily miles, racing and blister-prone feet — merino, com
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.injinji.com/run-lightweight-no-show-black-large-toesocks.html" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0BRL98P9H" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best budget</span>
 <h3>Saucony Bolt RunDry Performance No-Show, 6-pack</h3>
 <figure><img src="/img/artifact/img-49.webp" alt="Saucony Bolt RunDry Performance No-Show socks, 6-pack in grey, white and black" /><figcaption>Photo: Garage Gym Reviews</figcaption></figure>
@@ -103,7 +103,7 @@ Six running socks for daily miles, racing and blister-prone feet — merino, com
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07GB4XB4F" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

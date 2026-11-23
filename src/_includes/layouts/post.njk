@@ -1,12 +1,13 @@
 ---
 layout: layouts/base.njk
 ---
+<article>
 {% set a = artifact.posts[page.fileSlug] %}
-<div class="article-head">
+<header class="article-head">
   <p class="crumb">{{ a.label or category }}</p>
   <h1>{{ title }}</h1>
   <p class="pub-date">{{ date | displayDate(page.fileSlug) }}</p>
-</div>
+</header>
 {% if image %}<figure class="article-hero"><img src="{{ ('/img/' ~ image) | url }}" alt="{{ imageAlt }}">{% if imageCredit %}<figcaption>Photo: {{ imageCredit }}</figcaption>{% endif %}</figure>{% endif %}
 {# AdSense slot (in-article). Empty and hidden until a real publisher ID is added; no ad script loads. #}
 <div class="ad-slot" data-ad-slot="in-article" hidden aria-hidden="true"></div>
@@ -17,3 +18,4 @@ layout: layouts/base.njk
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Article","headline":{{ title | dump | safe }},"image":"https://raihanlite.github.io/sock-guide/img/{{ image }}","datePublished":"{{ date | isoDate }}","author":{"@type":"Organization","name":"Sock Guide"},"publisher":{"@type":"Organization","name":"Sock Guide"}}
 </script>
+</article>

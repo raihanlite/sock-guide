@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
 ---
-<div class="cat-head"><h1>{{ title }}</h1></div>
-<div class="feat-grid2">
+<header class="cat-head"><h1>{{ title }}</h1></header>
+<section class="feat-grid2" aria-label="{{ title }}">
 {# Category membership is an explicit slug list (artifact order) so pages
    can group posts across frontmatter categories — e.g. Sports lists the
    alpaca, heated and tennis guides, as in the artifact. Falls back to the
@@ -26,4 +26,4 @@ layout: layouts/base.njk
     </div>
   </a>
 {% endfor %}
-</div>
+</section>

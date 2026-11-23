@@ -19,7 +19,7 @@ This guide is the buying half: six socks that actually cope, picked from 2026 gu
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Darn Tough Hiker Boot Midweight with Full Cushion</h3>
 <figure><img src="/img/artifact/img-53.webp" alt="Darn Tough Hiker Boot Midweight with Full Cushion hiking sock in black" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -32,9 +32,9 @@ This guide is the buying half: six socks that actually cope, picked from 2026 gu
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/collections/men/products/mens-merino-wool-hiker-boot-full-cushion-midweight-hiking-socks?variant=42348132925626" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B09LZ9W6PP" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best lightweight merino</span>
 <h3>Smartwool PhD Outdoor Light Crew</h3>
 <figure><img src="/img/artifact/img-54.jpg" alt="Smartwool PhD Outdoor Light Crew hiking socks in desert sand" /><figcaption>Photo: Evo</figcaption></figure>
@@ -47,9 +47,9 @@ This guide is the buying half: six socks that actually cope, picked from 2026 gu
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.evo.com/socks/smartwool-phd-outdoor-light-crew" target="_blank" rel="noopener">Evo</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best budget</span>
 <h3>Dickies Men's Dri-Tech Original Moisture Control Crew Socks, 6-pack</h3>
 <figure><img src="/img/artifact/img-55.jpg" alt="Dickies Dri-Tech Original Moisture Control Crew Socks, white 6-pack" /><figcaption>Photo: Dickies</figcaption></figure>
@@ -62,9 +62,9 @@ This guide is the buying half: six socks that actually cope, picked from 2026 gu
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B008M5S09S" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://www.walmart.com/ip/Genuine-Dickies-Men-s-Dri-Tech-Moisture-Control-Crew-Socks-6-Pack/129482346" target="_blank" rel="noopener">Walmart</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best toe socks</span>
 <h3>Injinji Run Lightweight No-Show</h3>
 <figure><img src="/img/artifact/img-48.webp" alt="Injinji Run Lightweight No-Show toe sock in black" /><figcaption>Photo: Injinji</figcaption></figure>
@@ -77,9 +77,9 @@ This guide is the buying half: six socks that actually cope, picked from 2026 gu
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.injinji.com/run-lightweight-no-show-black-large-toesocks.html" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0BRL98P9H" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for odour</span>
 <h3>Silverlight Hiking Socks</h3>
 <figure><img src="/img/artifact/img-56.webp" alt="Silverlight Hiking Socks in black, three pairs" /><figcaption>Photo: Silverlight</figcaption></figure>
@@ -92,9 +92,9 @@ This guide is the buying half: six socks that actually cope, picked from 2026 gu
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://silverlight.store/socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best everyday synthetic</span>
 <h3>Saucony Men's Mesh Ventilating Comfort Fit Performance No-Show, 6-pack</h3>
 <figure><img src="/img/artifact/img-57.jpg" alt="Saucony Mesh Ventilating Comfort Fit Performance No-Show socks, white 6-pack" /><figcaption>Photo: Saucony</figcaption></figure>
@@ -107,7 +107,7 @@ This guide is the buying half: six socks that actually cope, picked from 2026 gu
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01D2GRTIE" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

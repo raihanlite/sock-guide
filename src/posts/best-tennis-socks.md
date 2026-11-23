@@ -16,7 +16,7 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Thorlos Tennis Crew Thick Cushion</h3>
 <figure><img src="/img/artifact/img-31.webp" alt="Thorlos TX maximum cushion crew tennis sock in white with a tan toe pad" /><figcaption>Photo: Thorlo</figcaption></figure>
@@ -29,9 +29,9 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://thorlo.com/products/TX0000-unisex-tennis-maximum-cushion-crew-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Tennis Warehouse best overall</span>
 <h3>Feetures High Performance Cushion</h3>
 <figure><img src="/img/artifact/img-32.webp" alt="Feetures High Performance Max Cushion quarter socks in white" /><figcaption>Photo: Feetures</figcaption></figure>
@@ -44,9 +44,9 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://feetures.com/products/high-performance-max-cushion-quarter?variant=40416915685448&amp;gender=women" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Light cushion</span>
 <h3>Thorlo Experia</h3>
 <figure><img src="/img/artifact/img-33.webp" alt="Thorlo Experia XCCU light cushion low-cut sock in blue and grey" /><figcaption>Photo: Thorlo</figcaption></figure>
@@ -59,9 +59,9 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://thorlo.com/products/xccu00-unisex-fitness-light-cushion-low-cut-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best durability</span>
 <h3>Fitsok</h3>
 <figure><img src="/img/artifact/img-34.jpg" alt="Fitsok CF2 Cushion Quarter socks in black, grey and white" /><figcaption>Photo: Fitsok</figcaption></figure>
@@ -74,9 +74,9 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://fitsok.com/products/cf2-cushion-quarter-gray" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Budget pick</span>
 <h3>adidas Athletic Cushioned Crew</h3>
 <figure><img src="/img/artifact/img-35.jpg" alt="adidas Cushioned Crew socks in white, three pairs" /><figcaption>Photo: adidas</figcaption></figure>
@@ -89,9 +89,9 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 <div><b>Price:</b> Check current price — sold in multi-packs</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B0DHJ4R739" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best no-show</span>
 <h3>Balega Blister Resist No Show</h3>
 <figure><img src="/img/artifact/img-36.webp" alt="Balega Blister Resist No Show Tab sock in black" /><figcaption>Photo: Balega</figcaption></figure>
@@ -104,7 +104,7 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://balega.com/collections/socks-by-cushioning/products/blister-resist-no-show-tab?variant=49008710942913" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
 ## Comparison table
 

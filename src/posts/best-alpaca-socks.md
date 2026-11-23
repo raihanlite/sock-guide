@@ -16,7 +16,7 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best value</span>
 <h3>Clohill Alpaca Socks</h3>
 <figure><img src="/img/artifact/img-19.jpg" alt="Clohill men&#x27;s alpaca crew socks in navy, worn" /><figcaption>Photo: Clohill</figcaption></figure>
@@ -29,9 +29,9 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 <div><b>Price:</b> ~$18 (Adventure Alan, Jul 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.clohill.com/products/mens-crew-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for the trail</span>
 <h3>Paka Trail</h3>
 <figure><img src="/img/artifact/img-20.webp" alt="PAKA Trail 3/4 Crew alpaca socks in grey, worn while putting on a hiking shoe" /><figcaption>Photo: PAKA</figcaption></figure>
@@ -44,9 +44,9 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 <div><b>Price:</b> ~$24 (Adventure Alan, Jul 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.pakaapparel.com/products/trail-3-4-crew-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Premium warmth</span>
 <h3>Hollow Alpaca Socks</h3>
 <figure><img src="/img/artifact/img-21.webp" alt="Hollow ankle performance alpaca sock in black" /><figcaption>Photo: Hollow</figcaption></figure>
@@ -59,9 +59,9 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 <div><b>Price:</b> ~$27 (Adventure Alan, Jul 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://hollowsocks.com/products/ankle-performance-alpaca-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best quarter height</span>
 <h3>Karu Quarter</h3>
 <figure><img src="/img/artifact/img-22.webp" alt="Karu alpaca wool quarter socks in black, worn on a pebble beach" /><figcaption>Photo: Karu</figcaption></figure>
@@ -74,9 +74,9 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 <div><b>Price:</b> ~$30 (Adventure Alan, Jul 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://karusocks.com/products/alpaca-wool-quarter-socks?color=Black&amp;quantity=3&amp;size=S" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for training</span>
 <h3>Warrior Cross Trainers</h3>
 <figure><img src="/img/artifact/img-23.webp" alt="Warrior cushioned cross trainer alpaca crew socks in grey with charcoal heel and toe" /><figcaption>Photo: Warrior Alpaca Socks</figcaption></figure>
@@ -89,9 +89,9 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 <div><b>Price:</b> ~$23 (Adventure Alan, Jul 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.warrioralpacasocks.com/cushioned-cross-trainer-high-performance-athletic-crew-socks/" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Small-maker pick</span>
 <h3>Alpacas of Montana</h3>
 <figure><img src="/img/artifact/img-24.jpg" alt="Alpacas of Montana Terrain Performance alpaca socks in charcoal with blue heel, toe and sole" /><figcaption>Photo: Alpacas of Montana</figcaption></figure>
@@ -104,7 +104,7 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 <div><b>Price:</b> ~$27 (Adventure Alan, Jul 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://alpacasofmontana.com/collections/performance-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
 ## Comparison table
 

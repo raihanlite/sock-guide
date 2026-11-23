@@ -27,7 +27,7 @@ One fit rule decides most of it: check the school's sock policy before you buy â
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall / bulk pack</span>
 <h3>Hanes Boys' Double Tough Cushioned Crew Socks, 12-Pack</h3>
 <figure><img src="/img/artifact/img-107.jpg" alt="Hanes Boys' Double Tough Cushioned Crew Socks, 12-pack of white crew socks with grey heel and toe" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -40,9 +40,9 @@ One fit rule decides most of it: check the school's sock policy before you buy â
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.hanes.com/products/hanes-boys-cushioned-crew-socks-12-pack/brlc12" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B00S4GMSOI" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for school uniforms</span>
 <h3>COTTON DAY Soft Cotton Crew Dress Socks, 6-Pack</h3>
 <figure><img src="/img/artifact/img-108.jpg" alt="COTTON DAY Soft Cotton Crew Dress Socks, 6-pack of plain grey crew socks" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -55,9 +55,9 @@ One fit rule decides most of it: check the school's sock policy before you buy â
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07XCK3C33" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for PE &amp; sport</span>
 <h3>adidas Kids Cushioned Crew Socks, 6-Pack</h3>
 <figure><img src="/img/artifact/img-109.jpg" alt="adidas Kids Cushioned Crew Socks, 6-pack of white crew socks with grey heel and toe" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -70,9 +70,9 @@ One fit rule decides most of it: check the school's sock policy before you buy â
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B0BZQXJ573" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best unisex everyday crew</span>
 <h3>Amazon Essentials Kids Cotton Cushioned Crew Socks, 10-Pack</h3>
 <figure><img src="/img/artifact/img-110.jpg" alt="Amazon Essentials Kids Cotton Cushioned Crew Socks, 10-pack of black crew socks" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -85,9 +85,9 @@ One fit rule decides most of it: check the school's sock policy before you buy â
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07JXFXFDN" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for older kids / training</span>
 <h3>Under Armour Youth Training Cotton Crew Socks, 6-Pack</h3>
 <figure><img src="/img/artifact/img-111.jpg" alt="Under Armour Youth Training Cotton Crew Socks, 6-pack of black crew socks" /><figcaption>Photo: ShoeMall</figcaption></figure>
@@ -100,9 +100,9 @@ One fit rule decides most of it: check the school's sock policy before you buy â
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B0CHHBCQZX" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best knee-high for uniform</span>
 <h3>Jefferies School Uniform Cable Knee High Socks, 3-Pack</h3>
 <figure><img src="/img/artifact/img-112.jpg" alt="Jefferies School Uniform Cable Knee High Socks, 3-pack of navy cable-knit knee-high socks" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -115,7 +115,7 @@ One fit rule decides most of it: check the school's sock policy before you buy â
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B00DVFWSTC" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

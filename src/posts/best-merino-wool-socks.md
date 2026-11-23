@@ -21,7 +21,7 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Darn Tough Standard Issue Mid-Calf Light Cushion</h3>
 <figure><img src="/img/artifact/img-60.jpg" alt="Darn Tough Standard Issue Mid-Calf Light Cushion sock in medium grey" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -34,9 +34,9 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/mens-merino-wool-the-standard-mid-calf-cushioned-lightweight-lifestyle-socks?variant=37874232131770" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B013WKUXP6" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best lightweight hiking</span>
 <h3>Darn Tough Light Hiker Micro Crew Cushion</h3>
 <figure><img src="/img/artifact/img-61.jpg" alt="Darn Tough Light Hiker Micro Crew Cushion hiking sock in seafoam" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -49,9 +49,9 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/mens-merino-wool-light-hiker-micro-crew-cushioned-lightweight-hiking-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B07N1TPX78" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for hiking &amp; wide feet</span>
 <h3>Smartwool Hike Light Cushion Crew</h3>
 <figure><img src="/img/artifact/img-62.jpg" alt="Smartwool Hike Light Cushion Crew hiking sock" /><figcaption>Photo: Smartwool</figcaption></figure>
@@ -64,9 +64,9 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.smartwool.com/products/hike-crew-socks-sw001614" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for running</span>
 <h3>Smartwool Run Cold Weather Targeted Cushion Crew</h3>
 <figure><img src="/img/artifact/img-63.jpg" alt="Smartwool Run Cold Weather Targeted Cushion Crew running sock in nightfall blue" /><figcaption>Photo: Smartwool</figcaption></figure>
@@ -79,9 +79,9 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.smartwool.com/products/run-cold-weather-crew-socks-sw001905" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0B2XNJLV3" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best everyday</span>
 <h3>Bombas Men's Merino Wool Blend Half Calf Socks</h3>
 <figure><img src="/img/artifact/img-65.jpg" alt="Bombas Men's Merino Wool Blend Half Calf Sock in sea blue" /><figcaption>Photo: Bombas</figcaption></figure>
@@ -94,9 +94,9 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://shop.bombas.com/products/mens-merino-wool-blend-half-calf-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for cold weather</span>
 <h3>Smartwool Hike Classic Edition Extra Cushion Crew</h3>
 <figure><img src="/img/artifact/img-64.jpg" alt="Smartwool Hike Classic Edition Extra Cushion Crew hiking sock in alpine blue" /><figcaption>Photo: Smartwool</figcaption></figure>
@@ -109,7 +109,7 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.smartwool.com/products/hike-classic-edition-crew-socks-sw012900" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0FNH72R75" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

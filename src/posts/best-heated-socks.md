@@ -19,7 +19,7 @@ This guide is for everyday winter wear — the commute, the school run, the ski 
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for everyday wear</span>
 <h3>ORORO Mojave Heated Socks 3.5</h3>
 <figure><img src="/img/artifact/img-68.jpg" alt="ORORO Mojave Point heated socks in black" /><figcaption>Photo: ORORO</figcaption></figure>
@@ -33,9 +33,9 @@ This guide is for everyday winter wear — the commute, the school run, the ski 
 <div><b>Best for:</b> Everyday winter wear, commuting, hiking, skiing</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.ororowear.com/products/mojave-point-unisex-heated-socks-3-5" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best value</span>
 <h3>Savior Heat Heated Socks</h3>
 <figure><img src="/img/artifact/img-69.jpg" alt="Savior Heat Stable Fit heated ski socks" /><figcaption>Photo: Savior Heat</figcaption></figure>
@@ -49,9 +49,9 @@ This guide is for everyday winter wear — the commute, the school run, the ski 
 <div><b>Best for:</b> Value, winter recreation, long days out</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://saviorheat.com/products/sos202g3-rapid-warm-heated-ski-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.walmart.com/ip/SAVIOR-HEAT-Heated-Socks-for-Men-Women-Rechargeable-Battery-Electric-Socks-Winter-Foot-Warmer-Outdoor-Skiing-Hunting-Fishing/3911585156" target="_blank" rel="noopener">Walmart</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best first pair</span>
 <h3>ActionHeat 3.7V Wool Rechargeable Heated Socks 2.0 with Remote</h3>
 <figure><img src="/img/artifact/img-70.jpg" alt="ActionHeat 3.7V Wool heated socks 2.0 with remote and batteries" /><figcaption>Photo: ActionHeat</figcaption></figure>
@@ -65,9 +65,9 @@ This guide is for everyday winter wear — the commute, the school run, the ski 
 <div><b>Best for:</b> A first pair, everyday cold, commuting</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://actionheat.com/products/actionheat-wool-3-7v-rechargeable-heated-socks-2-0-with-remote" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for skiing</span>
 <h3>Lenz Heat Sock 6.1 Toe Cap Merino Compression</h3>
 <figure><img src="/img/artifact/img-71.jpg" alt="Lenz Heat Sock 6.1 Toe Cap Merino Compression heated sock" /><figcaption>Photo: Lenz</figcaption></figure>
@@ -82,9 +82,9 @@ This guide is for everyday winter wear — the commute, the school run, the ski 
 <div><b>Best for:</b> Skiing, tight ski and snowboard boots</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://lenzproducts.com/en/products/heat-sock-6-1-toe-cap-merino-compression" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0BLZMWJNW" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for all-day skiing</span>
 <h3>Therm-ic Powersocks Heat Fusion Uni</h3>
 <figure><img src="/img/artifact/img-72.jpg" alt="Therm-ic Powersocks Heat Fusion Uni heated ski socks" /><figcaption>Photo: Therm-ic</figcaption></figure>
@@ -98,9 +98,9 @@ This guide is for everyday winter wear — the commute, the school run, the ski 
 <div><b>Best for:</b> All-day skiing, ski touring</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.therm-ic.com/products/614-powersocks-heat-fusion-uni" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best budget</span>
 <h3>Snow Deer Heated Socks</h3>
 <figure><img src="/img/artifact/img-28.jpg" alt="Snow Deer 7.4V rechargeable heated socks in black" /><figcaption>Photo: Snow Deer</figcaption></figure>
@@ -113,7 +113,7 @@ This guide is for everyday winter wear — the commute, the school run, the ski 
 <div><b>Best for:</b> Budget everyday winter, a first heated sock</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07SZQ31FN" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

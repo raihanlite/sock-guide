@@ -17,7 +17,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Bombas Men's Solids Half Calf Sock, 4-Pack</h3>
 <figure><img src="/img/artifact/img-79.jpg" alt="Bombas Men's Solids Half Calf Sock 4-Pack in mixed colours, layflat" /><figcaption>Photo: Bombas</figcaption></figure>
@@ -30,9 +30,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://bombas.com/products/mens-solids-half-calf-sock-4-pack" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best budget / work</span>
 <h3>Dickies Men's Dri-Tech Original Moisture Control Crew Socks, 6-pack</h3>
 <figure><img src="/img/artifact/img-55.jpg" alt="Dickies Dri-Tech Original Moisture Control Crew Socks, white 6-pack" /><figcaption>Photo: Dickies</figcaption></figure>
@@ -45,9 +45,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B008M5S09S" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://www.walmart.com/ip/Genuine-Dickies-Men-s-Dri-Tech-Moisture-Control-Crew-Socks-6-Pack/129482346" target="_blank" rel="noopener">Walmart</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best everyday merino</span>
 <h3>Darn Tough The Standard Crew Cushioned Lightweight Lifestyle Socks</h3>
 <figure><img src="/img/artifact/img-81.jpg" alt="Darn Tough The Standard Crew Cushioned Lightweight Lifestyle Sock in rye" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -60,9 +60,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/mens-merino-wool-the-standard-crew-cushioned-lightweight-lifestyle-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B01GUELZ3A" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best dress</span>
 <h3>Mack Weldon Everyday Extended Crew Sock</h3>
 <figure><img src="/img/artifact/img-80.jpg" alt="Mack Weldon Everyday Extended Crew Sock in grey heather" /><figcaption>Photo: Mack Weldon</figcaption></figure>
@@ -75,9 +75,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://mackweldon.com/products/everyday-extended-crew-sock" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for running</span>
 <h3>Darn Tough Run No Show Tab Ultra-Lightweight</h3>
 <figure><img src="/img/artifact/img-44.webp" alt="Darn Tough Run No Show Tab Ultra-Lightweight running sock in black" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -90,9 +90,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/collections/best-sellers-men/products/mens-merino-wool-run-no-show-tab-ultra-lightweight-running-socks?variant=37874238030010" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B08MWX9WRB" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for cold weather</span>
 <h3>Smartwool Hike Classic Edition Extra Cushion Crew</h3>
 <figure><img src="/img/artifact/img-64.jpg" alt="Smartwool Hike Classic Edition Extra Cushion Crew hiking sock in alpine blue" /><figcaption>Photo: Smartwool</figcaption></figure>
@@ -105,7 +105,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.smartwool.com/products/hike-classic-edition-crew-socks-sw012900" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0FNH72R75" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

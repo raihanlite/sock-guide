@@ -6,7 +6,7 @@ description: "Sock Guide helps you choose the right socks for the job: best work
 isHome: true
 ---
 {# Featured guide: Best Work Socks (artifact hero copy/image) #}
-<div class="hero">
+<section class="hero" aria-label="Featured guide">
 {% for p in collections.posts %}{% if p.fileSlug == "best-work-socks" %}
 {% set a = artifact.posts[p.fileSlug] %}
   <a class="hero-link" href="{{ '/posts/best-work-socks/' | url }}">
@@ -18,13 +18,13 @@ isHome: true
   </div>
   </a>
 {% endif %}{% endfor %}
-</div>
+</section>
 
 {# AdSense slot (leaderboard, after hero). Empty and hidden until a real publisher ID is added; no ad script loads. #}
 <div class="ad-slot" data-ad-slot="leaderboard" hidden aria-hidden="true"></div>
 
 {# Row of 3 cards, in artifact order: Work Boots, Alpaca, Heated #}
-<div class="feat-row">
+<section class="feat-row" aria-label="Featured guides">
 {% for slug in ["best-socks-for-work-boots", "best-alpaca-socks", "best-heated-socks-for-hunting"] %}
 {% for p in collections.posts %}{% if p.fileSlug == slug %}
 {% set a = artifact.posts[p.fileSlug] %}
@@ -37,10 +37,10 @@ isHome: true
   </a>
 {% endif %}{% endfor %}
 {% endfor %}
-</div>
+</section>
 
 {# Latest posts + sidebar #}
-<div class="latest">
+<section class="latest" aria-labelledby="latest">
   <div>
     <div class="section-head" id="latest"><h2>LATEST POSTS</h2></div>
     <div class="post-list" id="postList">
@@ -75,7 +75,7 @@ isHome: true
       <p class="news-done" role="status">Your email app is opening — send the message there to finish subscribing.</p>
     </div>
   </aside>
-</div>
+</section>
 
 <script>
 (function () {

@@ -17,7 +17,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Bombas Women's Solids Half Calf Sock, 4-Pack</h3>
 <figure><img src="/img/artifact/img-83.jpg" alt="Bombas Women's Solids Half Calf Sock 4-Pack in mixed colours, layflat" /><figcaption>Photo: Bombas</figcaption></figure>
@@ -30,9 +30,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://shop.bombas.com/products/womens-solids-half-calf-sock-4-pack" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best budget / work</span>
 <h3>Dickies Women's Dri-Tech Moisture Control Crew Socks, 6-pack</h3>
 <figure><img src="/img/artifact/img-84.jpg" alt="Dickies Women's Dri-Tech Moisture Control Crew Socks, assorted colours 6-pack" /><figcaption>Photo: Dickies</figcaption></figure>
@@ -45,9 +45,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B08YMGZY6C" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best everyday merino</span>
 <h3>Darn Tough Women's Lightweight Lifestyle Cushion 2-Pack</h3>
 <figure><img src="/img/artifact/img-85.jpg" alt="Darn Tough Women's Lightweight Lifestyle Cushion 2-Pack crew socks in dark teal" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -60,9 +60,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/womens-lightweight-lifestyle-cushion-2-pack" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for flats &amp; loafers</span>
 <h3>Smartwool Women's Everyday No Show Socks (Zero Cushion)</h3>
 <figure><img src="/img/artifact/img-86.jpg" alt="Smartwool Women's Everyday No Show Socks in black" /><figcaption>Photo: Smartwool</figcaption></figure>
@@ -75,9 +75,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.smartwool.com/products/womens-everyday-no-show-socks-sw001994" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0BKWXGPKJ" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for running</span>
 <h3>Balega Hidden Comfort Mini Crew, 3-Pack</h3>
 <figure><img src="/img/artifact/img-87.jpg" alt="Balega Hidden Comfort Mini Crew 3-Pack running socks in white, black and charcoal" /><figcaption>Photo: Balega</figcaption></figure>
@@ -90,9 +90,9 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://balega.com/products/3-pack-hidden-comfort-mini-crew" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for hiking &amp; cold weather</span>
 <h3>Darn Tough Women's Hiker Micro Crew Midweight</h3>
 <figure><img src="/img/artifact/img-88.jpg" alt="Darn Tough Women's Hiker Micro Crew Midweight hiking sock in glacier" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -105,7 +105,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/womens-merino-wool-hiker-micro-crew-cushioned-midweight-hiking-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B008RSEXJG" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

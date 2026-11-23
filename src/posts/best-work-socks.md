@@ -16,7 +16,7 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Darn Tough Steely Boot Midweight</h3>
 <figure><img src="/img/artifact/img-12.jpg" alt="Darn Tough Steely Boot Midweight work sock in charcoal grey with an orange toe and cuff" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -29,9 +29,9 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 <div><b>Price:</b> ~$25–28 per pair</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01AITYWZQ" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://darntough.com/collections/new/products/mens-merino-wool-limited-edition-steely-boot-midweight-work-socks?variant=46377552052410" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Max cushion</span>
 <h3>Thorlos 12-Hour Shift</h3>
 <figure><img src="/img/artifact/img-13.webp" alt="Thorlo 12-Hour Shift maximum-cushion work socks in white with grey padding" /><figcaption>Photo: Thorlo</figcaption></figure>
@@ -44,9 +44,9 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 <div><b>Price:</b> ~$18–22 per pair</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07GHBN5BL" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://thorlo.com/products/wcou00-unisex-work-maximum-cushion-over-calf-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for hot jobs</span>
 <h3>Carhartt Force Midweight Crew</h3>
 <figure><img src="/img/artifact/img-14.jpg" alt="Carhartt Force Midweight Crew socks in black, three pairs" /><figcaption>Photo: Carhartt</figcaption></figure>
@@ -59,9 +59,9 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 <div><b>Price:</b> ~$10–14 per pair</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B09L9PXK9K" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://www.carhartt.com/product/802211/carhartt-force-midweight-crew-sock-3-pack" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Budget pick</span>
 <h3>Dickies Dri-Tech 6-Pack</h3>
 <figure><img src="/img/artifact/img-15.jpg" alt="Dickies Dri-Tech Crew performance work socks in their 6-pair retail pack" /><figcaption>Photo: Dickies</figcaption></figure>
@@ -74,9 +74,9 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 <div><b>Price:</b> ~$6–8 (as reported, Nov 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01N6YAVNM" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://www.walmart.com/ip/Genuine-Dickies-Men-s-Dri-Tech-Moisture-Control-Crew-Socks-6-Pack/129482346" target="_blank" rel="noopener">Walmart</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best for cold</span>
 <h3>Smartwool Work Heavy Crew</h3>
 <p>A heavy merino crew for winter sites, cold stores and outdoor work.</p>
@@ -87,9 +87,9 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 <div><b>Best for:</b> Cold-weather and outdoor winter work</div>
 <div><b>Price:</b> ~$22–26 per pair</div>
 </div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Steel-toe specialist</span>
 <h3>Fox River Steel-Toe 2-Pack</h3>
 <figure><img src="/img/artifact/img-16.webp" alt="Fox River Steel-Toe Heavyweight Crew work sock in black with a tan heel and toe" /><figcaption>Photo: Fox River</figcaption></figure>
@@ -102,7 +102,7 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 <div><b>Price:</b> Not listed in our sources — check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://foxsox.com/collections/womens-work-socks/products/mens-steel-toe-heavyweight-crew-work-sock-2-pack?variant=31529255600171" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
 ## Comparison table
 

@@ -26,7 +26,7 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall funny gift</span>
 <h3>Socksmith Significant Otter</h3>
 <figure><img src="/img/picks/socksmith-significant-otter.jpg" alt="Socksmith Significant Otter women&#x27;s crew socks with otters holding paws" /><figcaption>Photo: Socksmith</figcaption></figure>
@@ -39,9 +39,9 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 <div><b>Height:</b> Crew</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.socksmith.com/products/womens-otter-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B01B28W1Z0" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For the dog person</span>
 <h3>Sock It to Me Corgi Love</h3>
 <figure><img src="/img/picks/sockittome-corgi-love.jpg" alt="Sock It to Me Corgi Love quarter socks with a corgi design, worn" /><figcaption>Photo: Sock It to Me</figcaption></figure>
@@ -54,9 +54,9 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 <div><b>Height:</b> Quarter</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.sockittome.com/products/corgi-love-quarter-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For the cozy one</span>
 <h3>Sock It to Me Magic Mushrooms Slipper Socks</h3>
 <figure><img src="/img/picks/sockittome-magic-mushrooms-slipper.jpg" alt="Sock It to Me Magic Mushrooms women&#x27;s slipper socks, worn" /><figcaption>Photo: Sock It to Me</figcaption></figure>
@@ -69,9 +69,9 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 <div><b>Height:</b> Slipper sock (house wear)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.sockittome.com/products/magic-mushrooms-slipper-socks-cz0015" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For the outdoorsy one</span>
 <h3>Darn Tough Men's Number 2 Micro Crew</h3>
 <figure><img src="/img/picks/darn-tough-number-2.png" alt="Darn Tough Men&#x27;s Number 2 Micro Crew cushioned hiking sock in seafoam" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -84,9 +84,9 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 <div><b>Height:</b> Micro crew</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/mens-merino-wool-number-2-micro-crew-cushioned-midweight-hiking-socks?variant=37874215354554" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B07N1TM2SJ" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For kids</span>
 <h3>Socksmith Kids' Significant Otter</h3>
 <figure><img src="/img/picks/socksmith-kids-otter.jpg" alt="Socksmith Kids&#x27; Significant Otter cotton crew socks" /><figcaption>Photo: Socksmith</figcaption></figure>
@@ -99,9 +99,9 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 <div><b>Height:</b> Classic crew</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.socksmith.com/products/kids-significant-otter-cotton-crew-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For the office Secret Santa</span>
 <h3>Socksmith Cocoa Christmas</h3>
 <figure><img src="/img/picks/socksmith-cocoa-christmas.jpg" alt="Socksmith Cocoa Christmas cotton crew socks with hot cocoa and candy canes" /><figcaption>Photo: Socksmith</figcaption></figure>
@@ -114,7 +114,7 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 <div><b>Height:</b> Crew</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.socksmith.com/products/cocoa-christmas-cotton-crew" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
 ## Christmas sock design types
 

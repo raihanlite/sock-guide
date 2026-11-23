@@ -17,7 +17,7 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall grip</span>
 <h3>TRUsox 3.0 Mid-Calf Crew Cushioned</h3>
 <figure><img src="/img/artifact/img-94.png" alt="TRUsox 3.0 Mid-Calf Cushioned grip socks, black, product shot" /><figcaption>Photo: TRUsox</figcaption></figure>
@@ -30,9 +30,9 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://tru.online/products/trusox%C2%AE-3-0-midcalf-length" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B01E699PPG" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best Nike grip sock</span>
 <h3>Nike VaporFast Grip Crew Soccer Socks (1 Pair)</h3>
 <figure><img src="/img/artifact/img-95.jpg" alt="Nike VaporFast Grip Crew Soccer Socks in university red" /><figcaption>Photo: Nike</figcaption></figure>
@@ -45,9 +45,9 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.nike.com/t/vaporfast-grip-crew-soccer-socks-1-pair-qiWJWu5b/IZ2681-657" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best comfort / wide boots</span>
 <h3>Tapedesign Classic Grip Socks</h3>
 <figure><img src="/img/artifact/img-96.jpg" alt="Tapedesign Classic grip socks in white, product shot" /><figcaption>Photo: Tapedesign</figcaption></figure>
@@ -60,9 +60,9 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.tape-design.com/products/allround-socks-classic" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best value grip</span>
 <h3>Gain The Edge Grip Socks 2.0, Mid-Calf</h3>
 <figure><img src="/img/artifact/img-97.jpg" alt="Gain The Edge Grip Socks 2.0 in white, product shot" /><figcaption>Photo: Gain The Edge</figcaption></figure>
@@ -75,9 +75,9 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://gaintheedgeofficial.com/products/1-grip-socks-2-0-midcalf-length-white" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0DQV2CWKJ" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best match sock</span>
 <h3>Nike Academy Over-the-Calf Soccer Socks</h3>
 <figure><img src="/img/artifact/img-98.jpg" alt="Nike Academy Over-the-Calf Soccer Socks in black" /><figcaption>Photo: Nike</figcaption></figure>
@@ -90,9 +90,9 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B00K6OY5WY" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best training sock</span>
 <h3>adidas Copa Zone Cushion 5 OTC Socks</h3>
 <figure><img src="/img/artifact/img-99.jpg" alt="adidas Copa Zone Cushion 5 OTC Soccer Socks in black and white" /><figcaption>Photo: Niky Sports</figcaption></figure>
@@ -105,7 +105,7 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B0BZR226F5" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

@@ -16,7 +16,7 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 
 ## The picks — one per job
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For steel toe</span>
 <h3>Darn Tough Steely Boot</h3>
 <figure><img src="/img/artifact/img-12.jpg" alt="Darn Tough Steely Boot Midweight work sock in charcoal grey with an orange toe and cuff" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -29,9 +29,9 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 <div><b>Price:</b> ~$25–28 per pair</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01AITYWZQ" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://darntough.com/collections/new/products/mens-merino-wool-limited-edition-steely-boot-midweight-work-socks?variant=46377552052410" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For concrete</span>
 <h3>Thorlos 12-Hour Shift</h3>
 <figure><img src="/img/artifact/img-13.webp" alt="Thorlo 12-Hour Shift maximum-cushion work socks in white with grey padding" /><figcaption>Photo: Thorlo</figcaption></figure>
@@ -44,9 +44,9 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 <div><b>Price:</b> ~$18–22 per pair</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07GHBN5BL" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://thorlo.com/products/wcou00-unisex-work-maximum-cushion-over-calf-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For hot weather</span>
 <h3>Dickies Dri-Tech</h3>
 <figure><img src="/img/artifact/img-15.jpg" alt="Dickies Dri-Tech Crew performance work socks in their 6-pair retail pack" /><figcaption>Photo: Dickies</figcaption></figure>
@@ -59,9 +59,9 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 <div><b>Price:</b> ~$6–8 (6-pack, as reported Nov 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B01N6YAVNM" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://www.walmart.com/ip/Genuine-Dickies-Men-s-Dri-Tech-Moisture-Control-Crew-Socks-6-Pack/129482346" target="_blank" rel="noopener">Walmart</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">For cold weather</span>
 <h3>Smartwool Work Heavy Crew</h3>
 <p>Heavy merino insulation for winter boots.</p>
@@ -72,9 +72,9 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 <div><b>Best for:</b> Cold sites, winter and insulated boots</div>
 <div><b>Price:</b> ~$22–26 per pair</div>
 </div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Budget multi-pack</span>
 <h3>Carhartt Steel Toe Socks (Multi-Pack)</h3>
 <figure><img src="/img/artifact/img-17.webp" alt="Carhartt Midweight Steel Toe Boot socks in grey, two pairs" /><figcaption>Photo: Carhartt</figcaption></figure>
@@ -87,9 +87,9 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 <div><b>Price:</b> Check current price — multi-pack pricing varies</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B09L9TJKR2" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://www.carhartt.com/product/802202/midweight-cotton-blend-steel-toe-boot-sock-2-pack" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Women's fit</span>
 <h3>Darn Tough Women's Work Boot Sock</h3>
 <figure><img src="/img/artifact/img-18.webp" alt="Darn Tough women&#x27;s Steely Boot work sock in indigo with a yellow toe and cuff band" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -102,7 +102,7 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 <div><b>Price:</b> ~$25–28 per pair</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/collections/women/products/womens-merino-wool-steely-boot-cushioned-midweight-work-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
 ## Comparison table
 

@@ -17,7 +17,7 @@ So this guide picks by daily need: the best all-rounder, the cheapest way to sto
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Bombas Solids Half Calf Sock, 4-Pack</h3>
 <figure><img src="/img/artifact/img-79.jpg" alt="Bombas Men's Solids Half Calf Sock 4-Pack in mixed colours, layflat" /><figcaption>Photo: Bombas</figcaption></figure>
@@ -30,9 +30,9 @@ So this guide picks by daily need: the best all-rounder, the cheapest way to sto
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://bombas.com/products/mens-solids-half-calf-sock-4-pack" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best budget</span>
 <h3>Dickies Dri-Tech Moisture Control Crew Socks, 6-pack</h3>
 <figure><img src="/img/artifact/img-55.jpg" alt="Dickies Dri-Tech Moisture Control Crew Socks, assorted colours 6-pack" /><figcaption>Photo: Dickies</figcaption></figure>
@@ -45,9 +45,9 @@ So this guide picks by daily need: the best all-rounder, the cheapest way to sto
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B008M5S09S" target="_blank" rel="noopener">Amazon</a><a class="btn-buy alt" href="https://www.walmart.com/ip/Genuine-Dickies-Men-s-Dri-Tech-Moisture-Control-Crew-Socks-6-Pack/129482346" target="_blank" rel="noopener">Walmart</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best everyday merino</span>
 <h3>Darn Tough The Standard Crew Cushioned Lightweight</h3>
 <figure><img src="/img/artifact/img-81.jpg" alt="Darn Tough The Standard Crew Cushioned Lightweight Lifestyle Socks in dark teal" /><figcaption>Photo: Darn Tough</figcaption></figure>
@@ -60,9 +60,9 @@ So this guide picks by daily need: the best all-rounder, the cheapest way to sto
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/mens-merino-wool-the-standard-crew-cushioned-lightweight-lifestyle-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B01GUELZ3A" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best casual</span>
 <h3>Stance Icon Crew Socks, 3-Pack</h3>
 <figure><img src="/img/artifact/img-90.png" alt="Stance Icon Crew Socks 3-Pack in heather grey, maroon and sage green" /><figcaption>Photo: Stance</figcaption></figure>
@@ -75,9 +75,9 @@ So this guide picks by daily need: the best all-rounder, the cheapest way to sto
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.stance.com/products/icon-3-pack-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B0CM5JVYSS" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best dressier everyday</span>
 <h3>Smartwool Everyday Anchor Line Crew Socks</h3>
 <figure><img src="/img/artifact/img-91.jpg" alt="Smartwool Everyday Anchor Line Crew Socks in charcoal heather" /><figcaption>Photo: Smartwool</figcaption></figure>
@@ -90,9 +90,9 @@ So this guide picks by daily need: the best all-rounder, the cheapest way to sto
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.smartwool.com/en-us/products/everyday-anchor-line-crew-socks-sw001735" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best cotton crew</span>
 <h3>GOLDTOE Men's Sport 656 Cotton Crew Socks, 6-pack</h3>
 <figure><img src="/img/artifact/img-92.jpg" alt="GOLDTOE Men's Sport 656 Cotton Crew Socks 6-pack in charcoal and white" /><figcaption>Photo: Gold Toe</figcaption></figure>
@@ -105,7 +105,7 @@ So this guide picks by daily need: the best all-rounder, the cheapest way to sto
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B0002TOZ1E" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
 ## Comparison table
 

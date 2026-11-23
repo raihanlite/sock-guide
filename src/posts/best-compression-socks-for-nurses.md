@@ -37,7 +37,7 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best overall</span>
 <h3>Comrad Knee-High CloudCotton Compression Socks, 15–20 mmHg</h3>
 <figure><img src="/img/artifact/img-114.jpg" alt="Comrad CloudCotton compression socks in purple, product shot" /><figcaption>Photo: Comrad</figcaption></figure>
@@ -50,9 +50,9 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.comradsocks.com/collections/compression-socks/products/cloudcotton-compression-socks-twist" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best merino</span>
 <h3>Sockwell Women's Circulator Moderate Graduated Compression Socks, 15–20 mmHg</h3>
 <figure><img src="/img/artifact/img-115.jpg" alt="Sockwell Women's Circulator compression socks in cranberry, product shot" /><figcaption>Photo: Sockwell</figcaption></figure>
@@ -65,9 +65,9 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://sockwellusa.com/products/womens-circulator" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B07B9RQMGK" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best firm budget</span>
 <h3>Physix Gear Sport Compression Socks, 20–30 mmHg</h3>
 <figure><img src="/img/artifact/img-116.jpg" alt="Physix Gear Sport compression socks in black, product shot" /><figcaption>Photo: Physix Gear</figcaption></figure>
@@ -80,9 +80,9 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://physixgear.com/products/physix-gear-compression-socks-men-women" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B07RFSSVNQ" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best bulk buy</span>
 <h3>CHARMKING Compression Socks, 3-Pack, 15–20 mmHg</h3>
 <figure><img src="/img/artifact/img-117.jpg" alt="CHARMKING compression socks, three black knee-high pairs, product shot" /><figcaption>Photo: Amazon</figcaption></figure>
@@ -95,9 +95,9 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07543D21Q" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best cushioned</span>
 <h3>Bombas Women's Everyday Compression Calf Socks, 3-Pack, 15–20 mmHg</h3>
 <figure><img src="/img/artifact/img-118.jpg" alt="Bombas Everyday Compression Calf Socks, three pairs, product shot" /><figcaption>Photo: Bombas</figcaption></figure>
@@ -110,9 +110,9 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://shop.bombas.com/products/womens-everyday-compression-calf-sock-3-pack-15-20mmhg" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B08Y67N1VS" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Best wide calf</span>
 <h3>Vim &amp; Vigr Checkmate Merino Wool Compression Socks, Wide Calf, 15–20 mmHg</h3>
 <figure><img src="/img/artifact/img-119.jpg" alt="Vim &amp; Vigr Checkmate merino compression socks in pink and salmon, worn, product shot" /><figcaption>Photo: Vim &amp; Vigr</figcaption></figure>
@@ -125,7 +125,7 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://vimvigr.com/products/checkmate-merino-wool-compression-socks" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
 ## Comparison table
 

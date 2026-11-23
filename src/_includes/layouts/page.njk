@@ -1,11 +1,13 @@
 ---
 layout: layouts/base.njk
 ---
-<div class="article-head">
+<article>
+<header class="article-head">
   {% if crumbHome %}<p class="crumb"><a href="{{ '/' | url }}">Home</a> › {{ crumbText or title }}</p>{% endif %}
   <h1>{{ title }}</h1>
   {% if pubDate %}<p class="pub-date">{{ pubDate }}</p>{% endif %}
-</div>
+</header>
 <div class="prose{% if legal %} legal{% endif %}">
 {{ content | safe }}
 </div>
+</article>

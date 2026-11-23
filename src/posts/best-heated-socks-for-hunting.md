@@ -16,7 +16,7 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 
 ## The picks
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Longest runtime</span>
 <h3>Fieldsheer Merino 2.0</h3>
 <figure><img src="/img/artifact/img-25.webp" alt="Fieldsheer Merino 2.0 heated socks in grey with orange and black accents" /><figcaption>Photo: Fieldsheer</figcaption></figure>
@@ -29,9 +29,9 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 <div><b>Price:</b> $99.99 (reported Nov 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://fieldsheer.com/products/merino-2-0-heated-socks-unisex?variant=52509345251696" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Field &amp; Stream best overall</span>
 <h3>Gerbing 7V Wool</h3>
 <figure><img src="/img/artifact/img-26.webp" alt="Gerbing 7V Ultimate Wool heated socks in black with red branding" /><figcaption>Photo: Gerbing</figcaption></figure>
@@ -44,9 +44,9 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.gerbing.com/collections/battery-heated-socks-and-insoles/products/gerbing-7v-ultimate-wool-heated-socks?variant=44873747595555" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Premium pick</span>
 <h3>Fieldsheer Pro Merino</h3>
 <figure><img src="/img/artifact/img-27.webp" alt="Fieldsheer Pro Merino heated socks in grey with orange and black accents" /><figcaption>Photo: Fieldsheer</figcaption></figure>
@@ -59,9 +59,9 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 <div><b>Price:</b> $159.99 (reported Nov 2026)</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://fieldsheer.com/products/pro-merino-heated-socks-unisex" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Budget pick</span>
 <h3>Snow Deer Heated Socks</h3>
 <figure><img src="/img/artifact/img-28.jpg" alt="Snow Deer 7.4V rechargeable heated socks in black" /><figcaption>Photo: Snow Deer</figcaption></figure>
@@ -74,9 +74,9 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 <div><b>Price:</b> Budget tier — check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07SZQ31FN" target="_blank" rel="noopener">Amazon</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">App control</span>
 <h3>Lenz Heat Sock 5.0</h3>
 <figure><img src="/img/artifact/img-29.webp" alt="Lenz Heat Sock 5.0 Toe Cap heated sock in black with a red toe" /><figcaption>Photo: Lenz</figcaption></figure>
@@ -89,9 +89,9 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 <div><b>Price:</b> Premium tier — check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://lenzproducts.com/en/products/heat-sock-5-0-toe-cap-slim-fit" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
-<div class="pick">
+<article class="pick">
 <span class="badge">Mid-range</span>
 <h3>ActionHeat 5V</h3>
 <figure><img src="/img/artifact/img-30.jpg" alt="ActionHeat 5V battery heated cotton socks in black, shown with their battery packs" /><figcaption>Photo: ActionHeat</figcaption></figure>
@@ -104,7 +104,7 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 <div><b>Price:</b> Check current price</div>
 </div>
 <div class="buy-links"><a class="btn-buy" href="https://actionheat.com/products/actionheat-5v-battery-heated-socks-cotton" target="_blank" rel="noopener">Official site</a></div>
-</div>
+</article>
 
 ## Comparison table
 
