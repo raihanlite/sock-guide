@@ -229,6 +229,14 @@
       "image": "img/artifact/img-100.jpg",
       "imageAlt": "Basketball players during an indoor training session on a wooden court",
       "label": "Sports & Outdoor"
+    },
+    "best-socks-for-school": {
+      "cardTitle": "Best Socks for School",
+      "dataSearch": "best socks for school hanes double tough cotton day adidas kids amazon essentials under armour jefferies knee high",
+      "excerpt": "Six school socks for uniform days, PE and everyday wear — Hanes, COTTON DAY, adidas, Amazon Essentials, Under Armour and Jefferies.",
+      "image": "img/artifact/img-106.jpg",
+      "imageAlt": "A child walking down a street with a vibrant backpack on the way to school",
+      "label": "Buying Guides"
     }
   }
 }
