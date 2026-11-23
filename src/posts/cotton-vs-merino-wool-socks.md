@@ -61,6 +61,8 @@ There is no single winner — there is a right fibre for each job:
 - **Winter and cold, wet weather:** merino, clearly. Wet cotton feels cold and stops insulating.
 - **On a budget, or hard on socks:** a blend — merino-nylon for performance with durability, cotton-polyester for cheap everyday pairs that dry faster than pure cotton.
 
+If you want specific pairs rather than the fibre comparison, [Best Merino Wool Socks](/posts/best-merino-wool-socks/) picks six merino socks for hiking, running, cold weather and everyday wear.
+
 ## FAQ
 <details class="faq"><summary>Is merino wool itchy?</summary><div class="a">Coarse wool can be. Merino is a fine wool, and sock-grade merino uses fine fibres that bend against the skin instead of prickling it, which is why merino base layers and socks are worn directly on skin by people who cannot tolerate ordinary wool. If a “wool” sock feels scratchy, it is usually a coarse blend, not merino.</div></details>
 
