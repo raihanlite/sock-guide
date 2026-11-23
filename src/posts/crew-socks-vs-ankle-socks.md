@@ -7,7 +7,7 @@ image: "artifact/img-07.jpg"
 imageAlt: "White crew socks with a checkerboard pattern worn with slip-on shoes"
 imageCredit: "Downtowngal, via Wikimedia Commons (CC BY-SA 4.0)"
 tags: posts
-docTitle: "Crew Socks vs Ankle Socks — Sock Guide"
+docTitle: "Crew Socks vs Ankle Socks "
 description: "Crew socks vs ankle socks compared: coverage, protection, warmth, staying power, best shoes and best uses — plus no-show, quarter and knee-high heights explained."
 ---
 
@@ -21,7 +21,7 @@ Sock height looks like a style choice, and it is — but it is also a functional
 - **Crew:** rises to mid-calf, roughly 6–9 inches from the heel (about 5–7 inches above the ankle) — the classic height, and the most common sock length sold.
 - **Over-the-calf / knee-high:** ends just below the knee; traditional with tailoring and used for compression, mountaineering and the coldest conditions.
 
-Those measurements are approximate ranges, not standards — listed heights vary by brand, so check the product's stated height rather than trusting the name alone. Together the five form the full length ladder: no-show → ankle → quarter → crew → over-the-calf.
+Those measurements are approximate ranges, not standards — listed heights vary by brand, so check the product's stated height rather than trusting the name alone. Together the five form the full length ladder: no-show → ankle → quarter → crew → over-the-calf. The full type-by-type guide — including compression, dress, athletic, slipper and toe socks — is in [Types of Socks](/posts/types-of-socks/).
 
 ## Side by side
 

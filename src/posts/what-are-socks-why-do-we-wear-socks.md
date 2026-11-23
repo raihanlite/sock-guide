@@ -7,7 +7,7 @@ image: "artifact/img-50.jpg"
 imageAlt: "Neatly arranged woollen socks in a basket on a yellow surface"
 imageCredit: "Ron Lach, via Pexels"
 tags: posts
-docTitle: "What Are Socks? Why Do We Wear Socks? — Sock Guide"
+docTitle: "What Are Socks? Why Do We Wear Socks? "
 description: "What a sock is and why we wear one: the parts of a sock, the six jobs it does, a short history from Ötzi to nylon, the main types and fabrics, and basic care."
 ---
 
@@ -51,7 +51,7 @@ Nylon arrived in 1938, giving socks enough stretch to stay up on their own — a
 
 ## The main types of socks
 
-Socks are usually named by height, and height is the first choice to make — the sock should be taller than the shoe collar, so the collar rests on fabric rather than skin. The full height-by-height comparison is in [Crew Socks vs Ankle Socks](/posts/crew-socks-vs-ankle-socks/).
+Socks are usually named by height, and height is the first choice to make — the sock should be taller than the shoe collar, so the collar rests on fabric rather than skin. The full type-by-type guide, with every height and the purpose-built types, is in [Types of Socks](/posts/types-of-socks/). The full height-by-height comparison is in [Crew Socks vs Ankle Socks](/posts/crew-socks-vs-ankle-socks/).
 
 <table class="compare">
       <thead><tr><th>Type</th><th>What it is</th><th>Best for</th></tr></thead>
