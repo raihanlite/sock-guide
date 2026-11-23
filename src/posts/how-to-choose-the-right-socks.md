@@ -57,7 +57,7 @@ Choose socks by foot size, not shoe size — and if you fall between sizes, size
 
 A sock worn two days running has not dried or recovered its cushioning, and it shows in odour and wear. A rotation of at least one pair per day of the week for your main activity — work, sport, everyday — is the cheapest comfort upgrade there is, and it roughly doubles the life of each pair compared with wearing favourites back-to-back. Wash cold on a gentle cycle, inside out, and air-dry where you can — heat damages the elastic that keeps a sock fitting.
 
-Socks are consumables, not permanent kit. As a rule, replace everyday socks every 6–12 months and athletic socks every 3–6 months — sooner at the first hole, thinning at the heel or toe, elastic that no longer recovers, or odour that survives washing. A dead sock fails at every step above: it slides, it bunches, and it stays damp.
+Socks are consumables, not permanent kit. As a rule, replace everyday socks every 6–12 months and athletic socks every 3–6 months — sooner at the first hole, thinning at the heel or toe, elastic that no longer recovers, or odour that survives washing. A dead sock fails at every step above: it slides, it bunches, and it stays damp. The full wash, dry and repair routine is in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/).
 
 ## Common mistakes
 

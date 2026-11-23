@@ -66,7 +66,7 @@ There is no single winner — there is a right fibre for each job:
 
 <details class="faq"><summary>Why do hikers say “cotton kills”?</summary><div class="a">The saying comes from cold-weather safety: wet cotton loses its insulation and pulls heat away from the body, so a hiker caught in cold rain in cotton clothing can become dangerously cold. In socks the stakes are lower but the mechanism is the same — wet cotton means cold feet and blisters.</div></details>
 
-<details class="faq"><summary>Do merino socks need special washing?</summary><div class="a">Gentler, not complicated: a cool or warm machine wash, ideally inside out, and air drying instead of the tumble dryer. That routine also applies to alpaca and other natural-fibre socks.</div></details>
+<details class="faq"><summary>Do merino socks need special washing?</summary><div class="a">Gentler, not complicated: a cool or warm machine wash, ideally inside out, and air drying instead of the tumble dryer. That routine also applies to alpaca and other natural-fibre socks. The full routine, for every material, is in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/).</div></details>
 
 <details class="faq"><summary>Is merino worth the extra money?</summary><div class="a">If your socks get wet in use — work, sport, hiking, travel, long days — usually yes: you are paying for dry-feeling feet, fewer blisters and longer wear between washes. For short, dry, everyday wear, cotton or a cotton blend does the same job for less.</div></details>
 
