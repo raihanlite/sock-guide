@@ -11,7 +11,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Inter:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
 <header class="site-header"><div class="wrap">
@@ -19,12 +19,12 @@
     <div style="display:flex;align-items:center;gap:16px;">
       <button class="menu-btn" id="menuBtn" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
       <nav class="top-cats" aria-label="Categories">
-        <a href="/work/">Work</a><a href="/sports/">Sports</a><a href="/heated/">Heated</a><a href="/everyday/">Everyday</a>
+        <a href="{{ '/work/' | url }}">Work</a><a href="{{ '/sports/' | url }}">Sports</a><a href="{{ '/heated/' | url }}">Heated</a><a href="{{ '/everyday/' | url }}">Everyday</a>
       </nav>
     </div>
-    <a class="wordmark" href="/">sock guide</a>
+    <a class="wordmark" href="{{ '/' | url }}">sock guide</a>
     <div class="top-links">
-      <a href="/about/">About</a><a href="/contact/">Contact</a>
+      <a href="{{ '/about/' | url }}">About</a><a href="{{ '/contact/' | url }}">Contact</a>
       <button class="search-btn" id="searchBtn" aria-label="Search guides" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg></button>
     </div>
   </div>
@@ -35,16 +35,16 @@
 <nav class="drawer" id="drawer" aria-label="Site menu">
   <button class="close-btn" id="drawerClose" aria-label="Close menu">&times;</button>
   <h2>Categories</h2>
-  <a href="/work/">Work</a>
-  <a href="/sports/">Sports &amp; Outdoor</a>
-  <a href="/heated/">Heated</a>
-  <a href="/everyday/">Everyday / Dress</a>
-  <a href="/guides/">Buying Guides</a>
+  <a href="{{ '/work/' | url }}">Work</a>
+  <a href="{{ '/sports/' | url }}">Sports &amp; Outdoor</a>
+  <a href="{{ '/heated/' | url }}">Heated</a>
+  <a href="{{ '/everyday/' | url }}">Everyday / Dress</a>
+  <a href="{{ '/guides/' | url }}">Buying Guides</a>
   <h2>Information</h2>
-  <a href="/about/">About</a>
-  <a href="/privacy/">Privacy Policy</a>
-  <a href="/contact/">Contact</a>
-  <a href="/">All Guides</a>
+  <a href="{{ '/about/' | url }}">About</a>
+  <a href="{{ '/privacy/' | url }}">Privacy Policy</a>
+  <a href="{{ '/contact/' | url }}">Contact</a>
+  <a href="{{ '/' | url }}">All Guides</a>
 </nav>
 <div class="overlay" id="overlay"></div>
 
@@ -52,7 +52,7 @@
 
 <footer class="site-footer"><div class="wrap">
   <div class="footer-top">
-    <a class="wordmark" href="/">sock guide</a>
+    <a class="wordmark" href="{{ '/' | url }}">sock guide</a>
     <div class="social-icons" aria-label="Social links">
       <span title="Facebook" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M13.5 21v-7h2.4l.4-3h-2.8V9.1c0-.9.3-1.5 1.6-1.5h1.3V4.9c-.3 0-1.1-.1-2.1-.1-2.1 0-3.6 1.3-3.6 3.7V11H8.3v3h2.4v7h2.8z"/></svg></span>
       <span title="Instagram" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="0"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r="1" fill="currentColor" stroke="none"/></svg></span>
@@ -62,10 +62,10 @@
   </div>
   <div class="footer-cols">
     <div>
-      <a href="/work/">Work</a><a href="/sports/">Sports &amp; Outdoor</a><a href="/heated/">Heated</a>
+      <a href="{{ '/work/' | url }}">Work</a><a href="{{ '/sports/' | url }}">Sports &amp; Outdoor</a><a href="{{ '/heated/' | url }}">Heated</a>
     </div>
     <div>
-      <a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy Policy</a>
+      <a href="{{ '/about/' | url }}">About</a><a href="{{ '/contact/' | url }}">Contact</a><a href="{{ '/privacy/' | url }}">Privacy Policy</a>
     </div>
     <div>
       <form class="newsletter-form footer-form" data-newsletter>
@@ -73,7 +73,7 @@
         <input type="email" id="footerEmail" name="email" placeholder="Email" required>
         <button class="btn" type="submit">Subscribe Now</button>
       </form>
-      <p class="footer-accept">By clicking subscribe you accept our <a href="/privacy/">Privacy Policy</a></p>
+      <p class="footer-accept">By clicking subscribe you accept our <a href="{{ '/privacy/' | url }}">Privacy Policy</a></p>
       <p class="form-note" hidden>Newsletter signup is not live yet — check back soon.</p>
     </div>
   </div>
