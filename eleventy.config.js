@@ -18,6 +18,7 @@ export default function(eleventyConfig) {
       "best-heated-socks-for-hunting",
     ];
     const artifactOrder = [
+      "how-socks-are-made",
       "best-heated-socks",
       "history-of-socks",
       "best-merino-wool-socks",
@@ -61,7 +62,7 @@ export default function(eleventyConfig) {
   // their full dates ("23 November 2026"). Display-only: underlying post
   // dates are untouched.
   eleventyConfig.addFilter("displayDate", (date, slug) => {
-    if (slug === "best-socks-for-christmas-gifts" || slug === "best-running-socks" || slug === "what-are-socks-why-do-we-wear-socks" || slug === "types-of-socks" || slug === "best-socks-for-sweaty-feet" || slug === "how-to-take-care-of-socks" || slug === "best-merino-wool-socks" || slug === "history-of-socks" || slug === "best-heated-socks") {
+    if (slug === "best-socks-for-christmas-gifts" || slug === "best-running-socks" || slug === "what-are-socks-why-do-we-wear-socks" || slug === "types-of-socks" || slug === "best-socks-for-sweaty-feet" || slug === "how-to-take-care-of-socks" || slug === "best-merino-wool-socks" || slug === "history-of-socks" || slug === "best-heated-socks" || slug === "how-socks-are-made") {
       return "23 November 2026";
     }
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long" });

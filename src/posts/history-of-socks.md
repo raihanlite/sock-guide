@@ -59,7 +59,7 @@ Lee showed the machine at court and asked Elizabeth I for a patent. She refused 
 
 Lee's frame was the prototype, but it took the Industrial Revolution to make the sock cheap. In 1816 Marc Isambard Brunel patented a circular knitting machine that knitted a seamless tube instead of a flat sheet — no more seams up the back of the leg. In 1864 William Cotton of Loughborough patented a steam-powered, fully-fashioned knitting machine that could produce several shaped stockings at once. By 1864 there were already about 1,200 circular machines in use, and the hosiery centres of Leicester and Nottingham were turning out socks by the thousand.
 
-That is the moment the sock stopped being a luxury and became an everyday item. Hand-knitted stockings had been expensive, darned and patched for years; machine-made socks were cheap enough to own in pairs, to wear out and replace. The sock went from something you owned one or two of to something you owned a drawerful of.
+That is the moment the sock stopped being a luxury and became an everyday item. Hand-knitted stockings had been expensive, darned and patched for years; machine-made socks were cheap enough to own in pairs, to wear out and replace. The sock went from something you owned one or two of to something you owned a drawerful of. The machines Brunel and Cotton patented are the ancestors of the circular knitting machines still making socks today — the full modern process, step by step, is in [How Socks Are Made](/posts/how-socks-are-made/).
 
 ## Nylon changes everything
 
