@@ -23,7 +23,7 @@ It also decides how formal the result looks. Here is what actually separates a c
 - **Crew:** rises to mid-calf, roughly 6–9 inches from the heel (about 5–7 inches above the ankle) — the classic height, and the most common sock length sold.
 - **Over-the-calf / knee-high:** ends just below the knee; traditional with tailoring and used for compression, mountaineering and the coldest conditions.
 
-Those measurements are approximate ranges, not standards — listed heights vary by brand, so check the product's stated height rather than trusting the name alone. Together the five form the full length ladder: no-show → ankle → quarter → crew → over-the-calf. The full type-by-type guide — including compression, dress, athletic, slipper and toe socks — is in [Types of Socks](/posts/types-of-socks/).
+Those measurements are approximate ranges, not standards — listed heights vary by brand, so check the product's stated height rather than trusting the name alone. Together the five form the full length ladder: no-show → ankle → quarter → crew → over-the-calf. The full type-by-type guide — including compression, dress, athletic, slipper and toe socks — is in [Types of Socks](/types-of-socks/).
 
 ## Side by side
 
@@ -42,9 +42,9 @@ Those measurements are approximate ranges, not standards — listed heights vary
 
 ## When crew socks win
 
-**With any boot.** A boot collar against bare skin chafes within the hour, and grit that falls into a boot stays there. Crew — or full boot height — is not a preference in boots, it is the requirement; every pick in our [work boots guide](/posts/best-socks-for-work-boots/) is a crew or higher for this reason.
+**With any boot.** A boot collar against bare skin chafes within the hour, and grit that falls into a boot stays there. Crew — or full boot height — is not a preference in boots, it is the requirement; every pick in our [work boots guide](/best-socks-for-work-boots/) is a crew or higher for this reason.
 
-**In cold weather**, covered calves lose less heat, and crews stay up better under layers. For the coldest, stillest days — a hunting blind, a frozen sideline — crew is also the height every pick in our [heated socks guide](/posts/best-heated-socks-for-hunting/) uses.
+**In cold weather**, covered calves lose less heat, and crews stay up better under layers. For the coldest, stillest days — a hunting blind, a frozen sideline — crew is also the height every pick in our [heated socks guide](/best-heated-socks-for-hunting/) uses.
 
 **With tailoring**, a crew or over-calf sock keeps skin covered when trousers ride up as you sit — the traditional rule, and still the tidy one.
 
@@ -52,11 +52,11 @@ Those measurements are approximate ranges, not standards — listed heights vary
 
 ## When ankle socks win
 
-**In heat.** Less coverage means less insulation and less sweat-soaked fabric — the logic of our [summer socks guide](/posts/best-socks-for-summer/). **In sport.** Running, gym and court sports default to ankle and quarter heights for cooling and a clean look with shorts; our [tennis guide](/posts/best-tennis-socks/) covers the court-specific choice between heights. **With low shoes and shorts**, ankle socks are simply the proportion that looks right.
+**In heat.** Less coverage means less insulation and less sweat-soaked fabric — the logic of our [summer socks guide](/best-socks-for-summer/). **In sport.** Running, gym and court sports default to ankle and quarter heights for cooling and a clean look with shorts; our [tennis guide](/best-tennis-socks/) covers the court-specific choice between heights. **With low shoes and shorts**, ankle socks are simply the proportion that looks right.
 
 ## The middle ground: quarter socks
 
-Quarter height is the compromise that suits the most people: it covers the ankle bones completely — so collars never touch skin and the sock anchors better than an ankle cut — while staying far cooler than a crew. For trail shoes, everyday trainers and in-between weather, quarter is often the best answer of the three, which is why several picks in our [alpaca guide](/posts/best-alpaca-socks/) come in quarter height.
+Quarter height is the compromise that suits the most people: it covers the ankle bones completely — so collars never touch skin and the sock anchors better than an ankle cut — while staying far cooler than a crew. For trail shoes, everyday trainers and in-between weather, quarter is often the best answer of the three, which is why several picks in our [alpaca guide](/best-alpaca-socks/) come in quarter height.
 
 ## When each height fails
 

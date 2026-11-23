@@ -19,9 +19,9 @@ The thick cotton crew that felt fine in April becomes a warm, wet layer in July,
 
 **Thin knit, with air paths.** Warmth in a sock comes mostly from trapped still air, so a thinner knit insulates less. Summer socks are knitted light, often with mesh or ventilation panels over the top of the foot, where heat escapes most easily and the shoe presses least.
 
-**Light cushion, or none.** Cushioning is padding, and padding is insulation. For summer, choose light cushioning kept only where you need it — under the heel and forefoot for sport — rather than a fully padded sock. Our [tennis socks guide](/posts/best-tennis-socks/) shows the pattern: the Thorlo Experia keeps padding at the impact zones only and runs mesh everywhere else.
+**Light cushion, or none.** Cushioning is padding, and padding is insulation. For summer, choose light cushioning kept only where you need it — under the heel and forefoot for sport — rather than a fully padded sock. Our [tennis socks guide](/best-tennis-socks/) shows the pattern: the Thorlo Experia keeps padding at the impact zones only and runs mesh everywhere else.
 
-**Lower height.** Every extra inch of leg coverage is extra insulation and extra sweat surface. Ankle and quarter heights cover the shoe line and little more. Heights are covered properly in [Crew Socks vs Ankle Socks](/posts/crew-socks-vs-ankle-socks/).
+**Lower height.** Every extra inch of leg coverage is extra insulation and extra sweat surface. Ankle and quarter heights cover the shoe line and little more. Heights are covered properly in [Crew Socks vs Ankle Socks](/crew-socks-vs-ankle-socks/).
 
 **A fibre that moves moisture.** This is the decision that matters most, and it is where summer socks differ from each other.
 
@@ -38,7 +38,7 @@ The thick cotton crew that felt fine in April becomes a warm, wet layer in July,
       </tbody>
     </table>
 
-The full fibre-by-fibre picture is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/), and the reasons damp socks cause so much trouble are in [Why Do Socks Make Your Feet Sweat?](/posts/why-do-socks-make-your-feet-sweat/)
+The full fibre-by-fibre picture is in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/), and the reasons damp socks cause so much trouble are in [Why Do Socks Make Your Feet Sweat?](/why-do-socks-make-your-feet-sweat/)
 
 ## What to look for: the summer checklist
 
@@ -64,11 +64,11 @@ Makers such as Darn Tough knit ultra-lightweight and even no-show merino socks s
 
 **Running and sport.** A synthetic or merino-blend ankle sock with mesh over the instep, light targeted cushion and a snug arch fit so the sock cannot slide and bunch when wet.
 
-**Work boots in summer.** Boots are sealed, insulated environments, so the sock has to do all the moisture work. Go thinner than your winter sock, keep the boot height, and favour fast-drying or merino fibres — the hot-weather picks in [Best Socks for Work Boots](/posts/best-socks-for-work-boots/) and the Carhartt Force in [Best Work Socks](/posts/best-work-socks/) follow exactly this logic.
+**Work boots in summer.** Boots are sealed, insulated environments, so the sock has to do all the moisture work. Go thinner than your winter sock, keep the boot height, and favour fast-drying or merino fibres — the hot-weather picks in [Best Socks for Work Boots](/best-socks-for-work-boots/) and the Carhartt Force in [Best Work Socks](/best-work-socks/) follow exactly this logic.
 
 Rotating two pairs across a long shift — changing at break time — helps more than any single fibre.
 
-**Hiking and travel.** Lightweight merino is the usual answer: it handles a full day of sweat, resists odour when you cannot wash daily, and a thin knit keeps it cool. On cool mornings at altitude, a natural-fibre quarter like those in our [alpaca socks guide](/posts/best-alpaca-socks/) covers the in-between weather.
+**Hiking and travel.** Lightweight merino is the usual answer: it handles a full day of sweat, resists odour when you cannot wash daily, and a thin knit keeps it cool. On cool mornings at altitude, a natural-fibre quarter like those in our [alpaca socks guide](/best-alpaca-socks/) covers the in-between weather.
 
 ## What to avoid
 

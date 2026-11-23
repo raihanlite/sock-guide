@@ -63,7 +63,7 @@ Discomfort that fades as you get used to the feeling is normal. Pain, numbness o
       </tbody>
     </table>
 
-How many weeks or months you need them depends on the reason. For travel, it is the flight. After surgery, your surgeon will usually say how long, often several weeks. For chronic conditions such as varicose veins or venous insufficiency, compression is often a long-term, daily habit. What compression socks are for, and what the strength numbers mean, is in [What Are Compression Socks Used For?](/posts/what-are-compression-socks-used-for/).
+How many weeks or months you need them depends on the reason. For travel, it is the flight. After surgery, your surgeon will usually say how long, often several weeks. For chronic conditions such as varicose veins or venous insufficiency, compression is often a long-term, daily habit. What compression socks are for, and what the strength numbers mean, is in [What Are Compression Socks Used For?](/what-are-compression-socks-used-for/).
 
 ## Signs to take them off sooner
 
@@ -84,7 +84,7 @@ Compression comes from elastic fibres, and the makers name the same threats to t
 
 Wash them often, ideally after each wearing. Oils and sweat break the elastic down, so regular washing actually helps the socks last. One maker notes its stockings regain their original elasticity after washing and drying.
 
-The general care principles — cold water, rotation, replacing on condition — are the same as in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/). Compression socks are simply less forgiving when the care is skipped, because the thing that wears out is the pressure itself.
+The general care principles — cold water, rotation, replacing on condition — are the same as in [How to Take Care of Socks](/how-to-take-care-of-socks/). Compression socks are simply less forgiving when the care is skipped, because the thing that wears out is the pressure itself.
 
 ## When to replace them
 

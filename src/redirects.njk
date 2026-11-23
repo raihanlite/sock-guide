@@ -1,0 +1,21 @@
+---
+pagination:
+  data: collections.posts
+  size: 1
+  alias: post
+permalink: "/posts/{{ post.fileSlug }}/"
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Moved: {{ post.data.title }}</title>
+<link rel="canonical" href="https://raihanlite.github.io{{ post.url | url }}">
+<meta http-equiv="refresh" content="0; url={{ post.url | url }}">
+<meta name="robots" content="noindex">
+</head>
+<body>
+<p>This guide has moved to <a href="{{ post.url | url }}">its new address</a>.</p>
+</body>
+</html>

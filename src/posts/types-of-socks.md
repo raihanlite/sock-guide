@@ -24,7 +24,7 @@ Socks are measured by where they end on the leg. Heights are approximate and mea
 - **Mid-calf:** lands at the middle of the calf, roughly 8–10 inches from the heel.
 - **Knee-high / over-the-calf:** reaches just below the knee, roughly 14–18 inches from the heel.
 
-The ladder is the same one in [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/) — this guide goes type by type instead of at a glance.
+The ladder is the same one in [What Are Socks? Why Do We Wear Socks?](/what-are-socks-why-do-we-wear-socks/) — this guide goes type by type instead of at a glance.
 
 ## The shoe-collar rule
 
@@ -94,7 +94,7 @@ There are two genuinely different categories wearing the same name. Medical-grad
 
 Athletic or travel compression is lighter, sold for long days on your feet, long flights and recovery after sport. They are not interchangeable — if a clinician has told you to wear compression, that is a medical matter, not a sock-guide decision.
 
-The full guide to who uses them and what each level is for is in [What Are Compression Socks Used For?](/posts/what-are-compression-socks-used-for/).
+The full guide to who uses them and what each level is for is in [What Are Compression Socks Used For?](/what-are-compression-socks-used-for/).
 
 ## Dress socks
 
@@ -155,12 +155,12 @@ Then the formality. The more formal the occasion, the taller the sock — over-t
 
 If two types both fit the shoe and the occasion, pick the taller one: it fails in fewer situations.
 
-The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/), and the fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/).
+The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/how-to-choose-the-right-socks/), and the fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/).
 
 ## FAQ
 <details class="faq"><summary>What socks go with sneakers?</summary><div class="a">It depends on the sneaker. Low-cut trainers take ankle or no-show socks; high-tops take quarter or crew so the collar rests on fabric. For running shoes specifically, quarter socks are the sweet spot — they protect the Achilles and stay put — while road runners in hot weather often drop to ankle socks for coolness.</div></details>
 
-<details class="faq"><summary>What is the difference between crew and quarter socks?</summary><div class="a">Height, and only height. A quarter sock ends a few inches above the ankle bone, roughly 4–6 inches from the heel. A crew sock reaches the lower calf, roughly 6–8 inches. Quarter is the cooler, lighter option and protects the Achilles without a crew's warmth; crew is the more versatile default that works with boots and trousers. The head-to-head comparison is in <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
+<details class="faq"><summary>What is the difference between crew and quarter socks?</summary><div class="a">Height, and only height. A quarter sock ends a few inches above the ankle bone, roughly 4–6 inches from the heel. A crew sock reaches the lower calf, roughly 6–8 inches. Quarter is the cooler, lighter option and protects the Achilles without a crew's warmth; crew is the more versatile default that works with boots and trousers. The head-to-head comparison is in <a href="/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
 
 <details class="faq"><summary>Are ankle socks out of style?</summary><div class="a">As a fashion statement, yes — crew and half-crew lengths are the current visible default, and ankle socks have been labelled outdated by the same trend cycle. As a functional choice, no: for sport, heat and low-cut shoes they are still the right sock, and no trend changes that. Wear crew socks when the outfit is the point; wear ankle socks when the activity is.</div></details>
 

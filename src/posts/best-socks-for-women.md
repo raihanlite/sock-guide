@@ -13,7 +13,7 @@ description: "Six socks for women, picked by use — everyday, work, dress, runn
 
 There is no separate sock technology for women. The fibres and knits are the same — what differs is sizing, sold by women's shoe size in S, M and L bands that stop around a US 11.5, and use: flats and loafers need a no-show that stays hidden, trousers need a thin crew, and a winter boot needs a merino crew with real cushioning. So this guide picks by use, not by marketing: six socks, one for each job a drawer has to do.
 
-The short version: a cotton-blend half calf for everyday, a cheap cushioned crew pack for work, a merino crew for long days, a thin merino no-show for flats and loafers, a cushioned mini crew for running, and a thick merino micro crew for hiking and cold weather. If your feet sweat a lot, the rotation changes — see [Best Socks for Sweaty Feet](/posts/best-socks-for-sweaty-feet/), and the fibre case is in [Sock Fabrics](/posts/sock-fabrics/). The men's version is [Best Socks for Men](/posts/best-socks-for-men/); for background, start with [Types of Socks](/posts/types-of-socks/) and [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/).
+The short version: a cotton-blend half calf for everyday, a cheap cushioned crew pack for work, a merino crew for long days, a thin merino no-show for flats and loafers, a cushioned mini crew for running, and a thick merino micro crew for hiking and cold weather. If your feet sweat a lot, the rotation changes — see [Best Socks for Sweaty Feet](/best-socks-for-sweaty-feet/), and the fibre case is in [Sock Fabrics](/sock-fabrics/). The men's version is [Best Socks for Men](/best-socks-for-men/); for background, start with [Types of Socks](/types-of-socks/) and [How to Choose the Right Socks](/how-to-choose-the-right-socks/).
 
 ## The picks
 
@@ -37,7 +37,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <h3>Dickies Women's Dri-Tech Moisture Control Crew Socks, 6-pack</h3>
 <figure><img src="/img/artifact/img-84.jpg" alt="Dickies Women's Dri-Tech Moisture Control Crew Socks, assorted colours 6-pack" /><figcaption>Photo: Dickies</figcaption></figure>
 <p>Outdoor Gear Lab's best overall from 16 women's socks tested — and the cheapest way to build a rotation.</p>
-<p>Ventilation channels and arch compression. 22,000+ ratings at 4.6 stars on Amazon. Blends vary by colourway: the tested pair was cotton-rich, Denim Tribal 6-pack mostly polyester. On the sweatiest days, merino keeps feet drier. See <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</p>
+<p>Ventilation channels and arch compression. 22,000+ ratings at 4.6 stars on Amazon. Blends vary by colourway: the tested pair was cotton-rich, Denim Tribal 6-pack mostly polyester. On the sweatiest days, merino keeps feet drier. See <a href="/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</p>
 <div class="spec">
 <div><b>Material:</b> 96% polyester / 2% spandex / 2% nylon (this colourway; blends vary)</div>
 <div><b>Cushion:</b> Full cushion foot</div>
@@ -52,7 +52,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <h3>Darn Tough Women's Lightweight Lifestyle Cushion 2-Pack</h3>
 <figure><img src="/img/artifact/img-85.jpg" alt="Darn Tough Women's Lightweight Lifestyle Cushion 2-Pack crew socks in dark teal" /><figcaption>Photo: Darn Tough</figcaption></figure>
 <p>CNN Underscored's best wool sock, the men's version, after a year testing 22 styles. The women's 2-pack is the same crew, women's sizes.</p>
-<p>True Seamless toe. Lifetime replacement — no receipt, no expiry. Priciest per pair here, and a two-pack — no single-pair trial. See <a href="/posts/best-merino-wool-socks/">Best Merino Wool Socks</a>. Official only — no verified Amazon listing for this 2-pack.</p>
+<p>True Seamless toe. Lifetime replacement — no receipt, no expiry. Priciest per pair here, and a two-pack — no single-pair trial. See <a href="/best-merino-wool-socks/">Best Merino Wool Socks</a>. Official only — no verified Amazon listing for this 2-pack.</p>
 <div class="spec">
 <div><b>Material:</b> Merino wool blend (45–52% merino, varies by style in the pack)</div>
 <div><b>Cushion:</b> Light</div>
@@ -67,7 +67,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <h3>Smartwool Women's Everyday No Show Socks (Zero Cushion)</h3>
 <figure><img src="/img/artifact/img-86.jpg" alt="Smartwool Women's Everyday No Show Socks in black" /><figcaption>Photo: Smartwool</figcaption></figure>
 <p>The flats pick. CNN's moisture-wicking guide lists this Smartwool Everyday No-Show, built for flats and loafers.</p>
-<p>Zero cushion, with an internal heel gripper, Virtually Seamless toe, Shred Shield toes and an arch brace. Merino stays fresher than cotton; low opening hides in loafers. No padding, so not for walking or standing all day; sold singly. See <a href="/posts/types-of-socks/">Types of Socks</a>.</p>
+<p>Zero cushion, with an internal heel gripper, Virtually Seamless toe, Shred Shield toes and an arch brace. Merino stays fresher than cotton; low opening hides in loafers. No padding, so not for walking or standing all day; sold singly. See <a href="/types-of-socks/">Types of Socks</a>.</p>
 <div class="spec">
 <div><b>Material:</b> 61% merino wool / 37% nylon / 2% elastane</div>
 <div><b>Cushion:</b> Zero</div>
@@ -82,7 +82,7 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
 <h3>Balega Hidden Comfort Mini Crew, 3-Pack</h3>
 <figure><img src="/img/artifact/img-87.jpg" alt="Balega Hidden Comfort Mini Crew 3-Pack running socks in white, black and charcoal" /><figcaption>Photo: Balega</figcaption></figure>
 <p>The running pick — GearJunkie's top no-show for running and light hiking, November 2026.</p>
-<p>Drynamix yarn wicks sweat; cushioning protects toes, heels, soles, and a deep heel pocket stops sliding. Caveat: cushion runs warm, and the mini crew sits above the collar — get the no-show. Other running picks: <a href="/posts/best-running-socks/">Best Running Socks</a>. Official only — no verified Amazon listing.</p>
+<p>Drynamix yarn wicks sweat; cushioning protects toes, heels, soles, and a deep heel pocket stops sliding. Caveat: cushion runs warm, and the mini crew sits above the collar — get the no-show. Other running picks: <a href="/best-running-socks/">Best Running Socks</a>. Official only — no verified Amazon listing.</p>
 <div class="spec">
 <div><b>Material:</b> 84% Drynamix recycled polyester / 14% nylon / 2% elastane</div>
 <div><b>Cushion:</b> High</div>
@@ -122,17 +122,17 @@ The short version: a cotton-blend half calf for everyday, a cheap cushioned crew
     </table>
 
 ## FAQ
-<details class="faq"><summary>What socks should women wear every day?</summary><div class="a">A midweight crew or half calf in a cotton blend or merino, matched to the shoe and the day: a cotton blend for the office and dry days, merino if your feet sweat or the day runs long. Thin, smooth no-shows belong with flats and loafers; thick hiking socks belong in boots, not in slim trainers. The step-by-step choice is in <a href="/posts/how-to-choose-the-right-socks/">How to Choose the Right Socks</a>.</div></details>
+<details class="faq"><summary>What socks should women wear every day?</summary><div class="a">A midweight crew or half calf in a cotton blend or merino, matched to the shoe and the day: a cotton blend for the office and dry days, merino if your feet sweat or the day runs long. Thin, smooth no-shows belong with flats and loafers; thick hiking socks belong in boots, not in slim trainers. The step-by-step choice is in <a href="/how-to-choose-the-right-socks/">How to Choose the Right Socks</a>.</div></details>
 
-<details class="faq"><summary>What socks go with flats and loafers?</summary><div class="a">Thin, smooth no-show socks with a heel gripper, so the sock stays hidden and stays put — the Smartwool pick above is built for exactly this. Avoid crew socks with loafers: the sock shows above the shoe and bunches at the ankle. The height rules are in <a href="/posts/types-of-socks/">Types of Socks</a>.</div></details>
+<details class="faq"><summary>What socks go with flats and loafers?</summary><div class="a">Thin, smooth no-show socks with a heel gripper, so the sock stays hidden and stays put — the Smartwool pick above is built for exactly this. Avoid crew socks with loafers: the sock shows above the shoe and bunches at the ankle. The height rules are in <a href="/types-of-socks/">Types of Socks</a>.</div></details>
 
-<details class="faq"><summary>Do women need different socks for running?</summary><div class="a">Yes — running socks are built to manage sweat, hold their fit and prevent blisters, which everyday cotton crews do not do: cotton stays wet, bunches and rubs over miles. A running-specific sock (the Balega pick above, or any of the six in <a href="/posts/best-running-socks/">Best Running Socks</a>) is the cheapest upgrade in a runner's kit.</div></details>
+<details class="faq"><summary>Do women need different socks for running?</summary><div class="a">Yes — running socks are built to manage sweat, hold their fit and prevent blisters, which everyday cotton crews do not do: cotton stays wet, bunches and rubs over miles. A running-specific sock (the Balega pick above, or any of the six in <a href="/best-running-socks/">Best Running Socks</a>) is the cheapest upgrade in a runner's kit.</div></details>
 
-<details class="faq"><summary>Are ankle socks or crew socks better for women?</summary><div class="a">Neither is better in general — it depends on the shoe and the day. Crew socks suit boots, trousers and cold weather; ankle and no-show socks suit trainers, shorts, flats and the gym. The mistake is wearing one height for everything: a crew sock bunched into a low trainer, or an ankle sock under trousers that shows bare leg. The full comparison is in <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
+<details class="faq"><summary>Are ankle socks or crew socks better for women?</summary><div class="a">Neither is better in general — it depends on the shoe and the day. Crew socks suit boots, trousers and cold weather; ankle and no-show socks suit trainers, shorts, flats and the gym. The mistake is wearing one height for everything: a crew sock bunched into a low trainer, or an ankle sock under trousers that shows bare leg. The full comparison is in <a href="/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
 
 <details class="faq"><summary>What size socks do women wear?</summary><div class="a">Women's socks are sold by US women's shoe size, usually in S, M and L bands — Darn Tough runs S for US 4.5–7, M for 7.5–9.5 and L for 10–11.5 — and every maker prints its own size chart, so check it before ordering, because the ranges differ. If you sit between sizes, size up: a sock that is slightly loose is more comfortable than one that squeezes.</div></details>
 
-<details class="faq"><summary>What socks should women wear with boots in winter?</summary><div class="a">A midweight merino crew or micro crew, like the Darn Tough hiker pick above: merino stays warm when damp, cushions the foot in a stiff boot and resists odour across long days. Cotton crews go soggy and cold in a winter boot. For the full cold-weather case, see <a href="/posts/best-merino-wool-socks/">Best Merino Wool Socks</a>.</div></details>
+<details class="faq"><summary>What socks should women wear with boots in winter?</summary><div class="a">A midweight merino crew or micro crew, like the Darn Tough hiker pick above: merino stays warm when damp, cushions the foot in a stiff boot and resists odour across long days. Cotton crews go soggy and cold in a winter boot. For the full cold-weather case, see <a href="/best-merino-wool-socks/">Best Merino Wool Socks</a>.</div></details>
 
 ## Sources
 

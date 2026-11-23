@@ -51,7 +51,7 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 <h3>Thorlo Experia</h3>
 <figure><img src="/img/artifact/img-33.webp" alt="Thorlo Experia XCCU light cushion low-cut sock in blue and grey" /><figcaption>Photo: Thorlo</figcaption></figure>
 <p>Thorlo's lightweight line: thin, breathable mesh through the body with padding kept only at the heel and forefoot impact zones.</p>
-<p>For fast players and hot-climate tennis where the thick Thorlos feels like too much sock. More on hot-weather choices in <a href="/posts/best-socks-for-summer/">What Are the Best Socks for Summer?</a></p>
+<p>For fast players and hot-climate tennis where the thick Thorlos feels like too much sock. More on hot-weather choices in <a href="/best-socks-for-summer/">What Are the Best Socks for Summer?</a></p>
 <div class="spec">
 <div><b>Material:</b> Synthetic blend with mesh panels</div>
 <div><b>Cushion:</b> Light, padded impact zones only</div>
@@ -125,6 +125,6 @@ If you hate thick socks, Feetures is Tennis Warehouse's best overall pick. The s
 
 <details class="faq"><summary>Thick or thin socks for tennis?</summary><div class="a">Thick if you play on hard courts, move aggressively, or get blisters and sore forefeet — that is the Thorlos case. Thin if you prize court feel and play in heat — the Experia case. Fit matters more than either: a sliding thin sock blisters faster than a fitted thick one.</div></details>
 
-<details class="faq"><summary>How do I stop blisters during long matches?</summary><div class="a">Dry feet, fitted socks, broken-in shoes. Choose moisture-managing fibres (never cotton), consider a friction-reducing blend like Balega's Blister Resist, lace to lock the heel, and change into a dry pair between matches on tournament days. If damp feet are the root problem, <a href="/posts/why-do-socks-make-your-feet-sweat/">Why Do Socks Make Your Feet Sweat?</a> explains the mechanism.</div></details>
+<details class="faq"><summary>How do I stop blisters during long matches?</summary><div class="a">Dry feet, fitted socks, broken-in shoes. Choose moisture-managing fibres (never cotton), consider a friction-reducing blend like Balega's Blister Resist, lace to lock the heel, and change into a dry pair between matches on tournament days. If damp feet are the root problem, <a href="/why-do-socks-make-your-feet-sweat/">Why Do Socks Make Your Feet Sweat?</a> explains the mechanism.</div></details>
 
-<details class="faq"><summary>Crew or no-show for tennis?</summary><div class="a">Performance is a wash; comfort decides. Crews protect the Achilles from stiff shoe collars and stay put more reliably. No-shows are cooler and suit low-collared shoes. If a no-show slips on you once, it will slip forever — switch to a quarter or crew. The full height-by-height comparison is in <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
+<details class="faq"><summary>Crew or no-show for tennis?</summary><div class="a">Performance is a wash; comfort decides. Crews protect the Achilles from stiff shoe collars and stay put more reliably. No-shows are cooler and suit low-collared shoes. If a no-show slips on you once, it will slip forever — switch to a quarter or crew. The full height-by-height comparison is in <a href="/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>

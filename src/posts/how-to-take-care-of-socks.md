@@ -17,7 +17,7 @@ A sock's life is decided less by what it is made of than by what happens to it a
 
 None of the habits below are complicated. They are small and repeatable, and they add up to socks that keep their fit, their cushioning and their comfort for far longer.
 
-Still choosing which socks to own? Start with [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/) and [Types of Socks](/posts/types-of-socks/) — this guide is about keeping the pairs you already have alive.
+Still choosing which socks to own? Start with [What Are Socks? Why Do We Wear Socks?](/what-are-socks-why-do-we-wear-socks/) and [Types of Socks](/types-of-socks/) — this guide is about keeping the pairs you already have alive.
 
 ## Washing: cold, inside out, gentle
 
@@ -72,7 +72,7 @@ The rules above are the baseline; each material has its own weak point. The labe
       </tbody>
     </table>
 
-The fibre-by-fibre comparison — what each material does with sweat, warmth and odour — is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/).
+The fibre-by-fibre comparison — what each material does with sweat, warmth and odour — is in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/).
 
 ## Rotation and storage
 
@@ -112,7 +112,7 @@ As a rough guide to lifespan, judged by condition rather than the calendar alone
 
 Compression socks lose their graduated pressure as the elastic fatigues, so they need the strictest turnover — around 3–6 months if you rely on them.
 
-The full framework for choosing the right sock in the first place — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/).
+The full framework for choosing the right sock in the first place — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/how-to-choose-the-right-socks/).
 
 ## FAQ
 <details class="faq"><summary>How often should I wash socks?</summary><div class="a">After every wear. Socks absorb sweat, oils and dead skin all day, and wearing them a second day without washing means putting a damp, bacteria-loaded sock back on your foot. The one exception is a lightly worn merino pair on a cool, low-activity day — merino's odour resistance means it can sometimes go a second day — but daily washing is the safe default for every other sock.</div></details>

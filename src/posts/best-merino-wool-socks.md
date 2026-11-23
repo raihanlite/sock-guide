@@ -15,7 +15,7 @@ The best merino wool socks are Darn Tough for the do-everything pair and the lig
 
 Merino wool is the fibre most sock guides reach for first. It absorbs around 30% of its weight in moisture before it feels wet, so feet stay feeling dry; it keeps insulating when damp, where cotton goes cold; and it naturally resists the odour-causing bacteria that thrive in sweaty shoes.
 
-That is why the same material shows up in hiking socks, running socks and everyday socks alike — the difference between the picks below is weight, height and cushion, not the fibre itself. The full fibre-by-fibre case is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/).
+That is why the same material shows up in hiking socks, running socks and everyday socks alike — the difference between the picks below is weight, height and cushion, not the fibre itself. The full fibre-by-fibre case is in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/).
 
 Look for a blend, not pure merino — 45–60% merino with nylon for durability and a little elastane for fit is the sweet spot most 2026 guides land on, since pure merino wears through faster. These six were picked from 2026 guides and maker specifications; no sock here was tested hands-on, and no testing is claimed.
 
@@ -56,7 +56,7 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <h3>Smartwool Hike Light Cushion Crew</h3>
 <figure><img src="/img/artifact/img-62.jpg" alt="Smartwool Hike Light Cushion Crew hiking sock" /><figcaption>Photo: Smartwool</figcaption></figure>
 <p>The softest-feeling hiker here. GearJunkie, November 2026: the Performance Hike Light Cushion Crew "quickly won us over".</p>
-<p>The 58% merino blend is highest here; the fit runs roomier than Darn Tough's, so We Tried It recommends this line for wide feet. Heights are compared in <a href="/posts/types-of-socks/">Types of Socks</a>. Official link only — no verified Amazon listing for this model.</p>
+<p>The 58% merino blend is highest here; the fit runs roomier than Darn Tough's, so We Tried It recommends this line for wide feet. Heights are compared in <a href="/types-of-socks/">Types of Socks</a>. Official link only — no verified Amazon listing for this model.</p>
 <div class="spec">
 <div><b>Material:</b> 58% merino wool / 40% nylon / 2% elastane (current version; blends vary slightly by version)</div>
 <div><b>Cushion:</b> Light</div>
@@ -71,7 +71,7 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 <h3>Smartwool Run Cold Weather Targeted Cushion Crew</h3>
 <figure><img src="/img/artifact/img-63.jpg" alt="Smartwool Run Cold Weather Targeted Cushion Crew running sock in nightfall blue" /><figcaption>Photo: Smartwool</figcaption></figure>
 <p>The merino running pick for cold mornings — GoGrounded's best cold-weather merino running sock of 2026, and Running Gear Lab's best winter running sock for most runners.</p>
-<p>The crew height covers the gap below tights, and the targeted cushion sits only where impact lands. For warm-weather running, the lighter options in <a href="/posts/best-running-socks/">Best Running Socks</a> are the better call.</p>
+<p>The crew height covers the gap below tights, and the targeted cushion sits only where impact lands. For warm-weather running, the lighter options in <a href="/best-running-socks/">Best Running Socks</a> are the better call.</p>
 <div class="spec">
 <div><b>Material:</b> 56% merino wool / 28% recycled nylon / 13% nylon / 3% elastane</div>
 <div><b>Cushion:</b> Targeted</div>
@@ -132,17 +132,17 @@ Look for a blend, not pure merino — 45–60% merino with nylon for durability 
 Darn Tough's own short video explains what merino wool is and why it works in socks — moisture wicking, odour resistance and temperature regulation — and why their socks use only merino, nylon and elastane.
 
 ## FAQ
-<details class="faq"><summary>Are merino wool socks worth it?</summary><div class="a">If your feet get wet in use — work, sport, hiking, travel, long days — usually yes. You are paying for dry-feeling feet, fewer blisters and longer wear between washes, and the cost per wear drops fast when a pair lasts years: Darn Tough backs its socks for life, Smartwool for two years. The full fibre comparison is in <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</div></details>
+<details class="faq"><summary>Are merino wool socks worth it?</summary><div class="a">If your feet get wet in use — work, sport, hiking, travel, long days — usually yes. You are paying for dry-feeling feet, fewer blisters and longer wear between washes, and the cost per wear drops fast when a pair lasts years: Darn Tough backs its socks for life, Smartwool for two years. The full fibre comparison is in <a href="/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</div></details>
 
 <details class="faq"><summary>Do merino socks keep feet warm when wet?</summary><div class="a">Yes — that is merino's biggest advantage over cotton. Merino fibres absorb moisture inside the fibre (around 30% of their weight before feeling wet) while still trapping insulating air, so the sock keeps warming your foot when damp. Cotton loses its insulation when wet and pulls heat away from the skin, which is why wet cotton socks feel cold.</div></details>
 
-<details class="faq"><summary>How do you wash merino wool socks?</summary><div class="a">Gentler than cotton, not complicated: machine wash cold or warm, ideally inside out, with a gentle detergent — no bleach, no fabric softener — and air dry instead of tumble drying on high heat. Heat is what shrinks and felts wool. The full routine for every material is in <a href="/posts/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
+<details class="faq"><summary>How do you wash merino wool socks?</summary><div class="a">Gentler than cotton, not complicated: machine wash cold or warm, ideally inside out, with a gentle detergent — no bleach, no fabric softener — and air dry instead of tumble drying on high heat. Heat is what shrinks and felts wool. The full routine for every material is in <a href="/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
 
 <details class="faq"><summary>Are merino wool socks itchy?</summary><div class="a">No, not the sock-grade kind. Merino fibres are fine enough to bend against the skin instead of prickling it, which is why merino base layers and socks are worn directly on skin by people who cannot tolerate ordinary wool. If a "wool" sock feels scratchy, it is usually a coarse wool blend, not merino — check the fibre content on the label.</div></details>
 
-<details class="faq"><summary>How long do merino wool socks last?</summary><div class="a">With care and rotation, quality merino socks last for years. The two things that kill them fastest are wearing the same pair day after day without rest, and high-heat drying. Rotate at least two or three pairs, wash cold and air dry, and replace a pair when the heel or toe goes thin — the signs to watch for are in <a href="/posts/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
+<details class="faq"><summary>How long do merino wool socks last?</summary><div class="a">With care and rotation, quality merino socks last for years. The two things that kill them fastest are wearing the same pair day after day without rest, and high-heat drying. Rotate at least two or three pairs, wash cold and air dry, and replace a pair when the heel or toe goes thin — the signs to watch for are in <a href="/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
 
-<details class="faq"><summary>Can you wear merino wool socks in summer?</summary><div class="a">Yes — match the weight to the season, not the fibre. A thin, lightweight merino sock breathes and wicks sweat. The Light Hiker and the running pick above are the summer-friendly choices here; save the Extra Cushion Crew for cold days. More on summer socks in <a href="/posts/best-socks-for-summer/">What Are the Best Socks for Summer?</a>.</div></details>
+<details class="faq"><summary>Can you wear merino wool socks in summer?</summary><div class="a">Yes — match the weight to the season, not the fibre. A thin, lightweight merino sock breathes and wicks sweat. The Light Hiker and the running pick above are the summer-friendly choices here; save the Extra Cushion Crew for cold days. More on summer socks in <a href="/best-socks-for-summer/">What Are the Best Socks for Summer?</a>.</div></details>
 
 ## Sources
 

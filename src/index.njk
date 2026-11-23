@@ -9,7 +9,7 @@ isHome: true
 <section class="hero" aria-label="Featured guide">
 {% for p in collections.posts %}{% if p.fileSlug == "best-work-socks" %}
 {% set a = artifact.posts[p.fileSlug] %}
-  <a class="hero-link" href="{{ '/posts/best-work-socks/' | url }}">
+  <a class="hero-link" href="{{ '/best-work-socks/' | url }}">
   <figure><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></figure>
   <div>
     <p class="kicker">{{ artifact.heroKicker }}</p>

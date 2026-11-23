@@ -13,7 +13,7 @@ description: "Cotton vs merino wool socks compared side by side: moisture, dryin
 
 Cotton and merino wool are the two fibres most socks are sold on, and around sweat they behave almost opposite ways. Cotton drinks moisture in and keeps it; merino stores it inside the fibre, away from your skin, and lets it go again.
 
-Nearly every difference between the two socks, from blisters to odour to price, follows from that one contrast. If you are starting from the beginning — what a sock is and why we wear one at all — see [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/).
+Nearly every difference between the two socks, from blisters to odour to price, follows from that one contrast. If you are starting from the beginning — what a sock is and why we wear one at all — see [What Are Socks? Why Do We Wear Socks?](/what-are-socks-why-do-we-wear-socks/).
 
 ## The comparison
 
@@ -40,13 +40,13 @@ It also remains the base of many blended everyday socks, where synthetics in the
 
 ## Where merino wins clearly
 
-**Long days in closed shoes.** Boots, work shoes and hiking footwear trap everything the foot produces. Merino's moisture storage and odour resistance are why it dominates our [work socks guide](/posts/best-work-socks/) and our [work boots guide](/posts/best-socks-for-work-boots/) — the Darn Tough Steely Boot is a merino blend for exactly these reasons.
+**Long days in closed shoes.** Boots, work shoes and hiking footwear trap everything the foot produces. Merino's moisture storage and odour resistance are why it dominates our [work socks guide](/best-work-socks/) and our [work boots guide](/best-socks-for-work-boots/) — the Darn Tough Steely Boot is a merino blend for exactly these reasons.
 
 **Travel and multi-day wear.** A pair of merino socks can be worn more than one day without smelling like it, and rinses and dries overnight more willingly than cotton. Fewer pairs in the bag, less laundry on the road.
 
-**Cold and changeable weather.** Merino insulates dry and stays insulating damp; cotton does neither once wet. In genuinely cold conditions the same logic extends to heated socks, covered in our [heated socks guide](/posts/best-heated-socks-for-hunting/).
+**Cold and changeable weather.** Merino insulates dry and stays insulating damp; cotton does neither once wet. In genuinely cold conditions the same logic extends to heated socks, covered in our [heated socks guide](/best-heated-socks-for-hunting/).
 
-**Hot weather, in the right knit.** Counterintuitive but true: a lightweight merino sock is one of the best summer options, for the vapour-handling reasons above. See [What Are the Best Socks for Summer?](/posts/best-socks-for-summer/)
+**Hot weather, in the right knit.** Counterintuitive but true: a lightweight merino sock is one of the best summer options, for the vapour-handling reasons above. See [What Are the Best Socks for Summer?](/best-socks-for-summer/)
 
 ## The blends in the middle
 
@@ -54,9 +54,9 @@ Most good socks are neither pure cotton nor pure merino. Merino is blended with 
 
 Read blends by their largest component: a “merino blend” that is mostly nylon behaves like a synthetic sock with merino benefits, and a “cotton blend” that is mostly polyester behaves like a synthetic too.
 
-And merino is not the only natural performance fibre — alpaca takes the same ideas further in warmth and odour resistance, compared in our [alpaca socks guide](/posts/best-alpaca-socks/).
+And merino is not the only natural performance fibre — alpaca takes the same ideas further in warmth and odour resistance, compared in our [alpaca socks guide](/best-alpaca-socks/).
 
-If damp feet are your actual problem — whichever fibre you wear — [Why Do Socks Make Your Feet Sweat?](/posts/why-do-socks-make-your-feet-sweat/) explains what is going on and what helps beyond fibre choice. And if the pair is a gift rather than for your own drawer, the fibre choice is half of [Best Socks for Christmas Gifts](/posts/best-socks-for-christmas-gifts/) — a quality merino crew is the thoughtful pick there, a novelty cotton crew the funny one.
+If damp feet are your actual problem — whichever fibre you wear — [Why Do Socks Make Your Feet Sweat?](/why-do-socks-make-your-feet-sweat/) explains what is going on and what helps beyond fibre choice. And if the pair is a gift rather than for your own drawer, the fibre choice is half of [Best Socks for Christmas Gifts](/best-socks-for-christmas-gifts/) — a quality merino crew is the thoughtful pick there, a novelty cotton crew the funny one.
 
 ## The verdict, by use case
 
@@ -69,16 +69,16 @@ There is no single winner — there is a right fibre for each job:
 - **Winter and cold, wet weather:** merino, clearly. Wet cotton feels cold and stops insulating.
 - **On a budget, or hard on socks:** a blend — merino-nylon for performance with durability, cotton-polyester for cheap everyday pairs that dry faster than pure cotton.
 
-If you want specific pairs rather than the fibre comparison, [Best Merino Wool Socks](/posts/best-merino-wool-socks/) picks six merino socks for hiking, running, cold weather and everyday wear.
+If you want specific pairs rather than the fibre comparison, [Best Merino Wool Socks](/best-merino-wool-socks/) picks six merino socks for hiking, running, cold weather and everyday wear.
 
-The full fibre guide — cotton, merino, alpaca, polyester, nylon, bamboo viscose, blends and elastane — is in [Sock Fabrics](/posts/sock-fabrics/).
+The full fibre guide — cotton, merino, alpaca, polyester, nylon, bamboo viscose, blends and elastane — is in [Sock Fabrics](/sock-fabrics/).
 
 ## FAQ
 <details class="faq"><summary>Is merino wool itchy?</summary><div class="a">Coarse wool can be. Merino is a fine wool, and sock-grade merino uses fine fibres that bend against the skin instead of prickling it, which is why merino base layers and socks are worn directly on skin by people who cannot tolerate ordinary wool. If a “wool” sock feels scratchy, it is usually a coarse blend, not merino.</div></details>
 
 <details class="faq"><summary>Why do hikers say “cotton kills”?</summary><div class="a">The saying comes from cold-weather safety: wet cotton loses its insulation and pulls heat away from the body, so a hiker caught in cold rain in cotton clothing can become dangerously cold. In socks the stakes are lower but the mechanism is the same — wet cotton means cold feet and blisters.</div></details>
 
-<details class="faq"><summary>Do merino socks need special washing?</summary><div class="a">Gentler, not complicated: a cool or warm machine wash, ideally inside out, and air drying instead of the tumble dryer. That routine also applies to alpaca and other natural-fibre socks. The full routine, for every material, is in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/).</div></details>
+<details class="faq"><summary>Do merino socks need special washing?</summary><div class="a">Gentler, not complicated: a cool or warm machine wash, ideally inside out, and air drying instead of the tumble dryer. That routine also applies to alpaca and other natural-fibre socks. The full routine, for every material, is in [How to Take Care of Socks](/how-to-take-care-of-socks/).</div></details>
 
 <details class="faq"><summary>Is merino worth the extra money?</summary><div class="a">If your socks get wet in use — work, sport, hiking, travel, long days — usually yes: you are paying for dry-feeling feet, fewer blisters and longer wear between washes. For short, dry, everyday wear, cotton or a cotton blend does the same job for less.</div></details>
 

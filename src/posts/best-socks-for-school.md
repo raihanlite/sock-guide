@@ -19,9 +19,9 @@ School socks are bought by parents, worn by children, and judged by a dress code
 
 One honest note first: buy by shoe size, not by age. A children's shoe fitter who has spent a decade fitting school shoes puts it plainly, and every guide below agrees: the age range on the label is too approximate, and two children the same age in different shoe sizes need different socks.
 
-The heel pocket is what decides fit — a sock with a defined heel stays where you put it, while a straight tube bunches under the arch. For the background first — heights, fits and what each type is for — start with [Types of Socks](/posts/types-of-socks/) and [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/).
+The heel pocket is what decides fit — a sock with a defined heel stays where you put it, while a straight tube bunches under the arch. For the background first — heights, fits and what each type is for — start with [Types of Socks](/types-of-socks/) and [How to Choose the Right Socks](/how-to-choose-the-right-socks/).
 
-The fibre-by-fibre case for each material is in [Sock Fabrics](/posts/sock-fabrics/), the washing rules that keep a school drawer alive are in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/), and the adult everyday picks are in [Best Everyday Socks](/posts/best-everyday-socks/).
+The fibre-by-fibre case for each material is in [Sock Fabrics](/sock-fabrics/), the washing rules that keep a school drawer alive are in [How to Take Care of Socks](/how-to-take-care-of-socks/), and the adult everyday picks are in [Best Everyday Socks](/best-everyday-socks/).
 
 One fit rule decides most of it: check the school's sock policy before you buy — colour first, then length — because a perfect sock in the wrong colour is a wasted pack.
 
@@ -132,17 +132,17 @@ One fit rule decides most of it: check the school's sock policy before you buy �
     </table>
 
 ## FAQ
-<details class="faq"><summary>What socks should children wear to school?</summary><div class="a">Start with the school's policy: most schools ask for plain black, white or navy, and some specify the length too. For Mary Jane dress shoes, an ankle sock stops the strap rubbing bare skin. If toe seams bother your child, look for a seamless or flat-toe sock; the COTTON DAY pick above has one. The full length ladder is in <a href="/posts/types-of-socks/">Types of Socks</a>.</div></details>
+<details class="faq"><summary>What socks should children wear to school?</summary><div class="a">Start with the school's policy: most schools ask for plain black, white or navy, and some specify the length too. For Mary Jane dress shoes, an ankle sock stops the strap rubbing bare skin. If toe seams bother your child, look for a seamless or flat-toe sock; the COTTON DAY pick above has one. The full length ladder is in <a href="/types-of-socks/">Types of Socks</a>.</div></details>
 
-<details class="faq"><summary>How many pairs of school socks do kids need?</summary><div class="a">A week's worth is the minimum — seven pairs, one per school day, plus a couple of spares. Ten to fourteen pairs is the comfortable number: it covers a full school week plus spares without a midweek laundry run. Rotate them so no single pair is worn two days running; the care rules are in <a href="/posts/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
+<details class="faq"><summary>How many pairs of school socks do kids need?</summary><div class="a">A week's worth is the minimum — seven pairs, one per school day, plus a couple of spares. Ten to fourteen pairs is the comfortable number: it covers a full school week plus spares without a midweek laundry run. Rotate them so no single pair is worn two days running; the care rules are in <a href="/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
 
 <details class="faq"><summary>What colour socks are allowed at school?</summary><div class="a">White, black and navy are the three most common uniform sock colours, and every pick above comes in at least two of them. Some schools specify white only, others allow any solid neutral, and a few — usually Catholic and private schools — specify solid only with no logos. Check the school's policy before ordering: a perfect sock in the wrong colour is a wasted pack.</div></details>
 
 <details class="faq"><summary>How do I find the right sock size for my child?</summary><div class="a">Use the shoe size printed on the sock tag, not the age range. Age ranges on sock labels are too approximate — an 8-year-old in a size 3 shoe and an 8-year-old in a size 6 shoe need completely different socks. The heel pocket is the other check: a sock with a defined heel stays where you put it, while a straight tube bunches under the arch.</div></details>
 
-<details class="faq"><summary>What socks should kids wear for PE?</summary><div class="a">A cushioned athletic crew — the adidas pick above, or the Under Armour training crew for older kids. The cushioning sits under the foot without making the shoe tight, the synthetic knit moves sweat out faster than cotton, and the top elastic keeps the sock up through a full lesson. The sweaty-feet thinking is in <a href="/posts/best-socks-for-sweaty-feet/">Best Socks for Sweaty Feet</a>.</div></details>
+<details class="faq"><summary>What socks should kids wear for PE?</summary><div class="a">A cushioned athletic crew — the adidas pick above, or the Under Armour training crew for older kids. The cushioning sits under the foot without making the shoe tight, the synthetic knit moves sweat out faster than cotton, and the top elastic keeps the sock up through a full lesson. The sweaty-feet thinking is in <a href="/best-socks-for-sweaty-feet/">Best Socks for Sweaty Feet</a>.</div></details>
 
-<details class="faq"><summary>How often should I replace school socks?</summary><div class="a">Replace them when the heel or toe thins, the elastic goes dead and the cuff slides down, or the sock smells after washing. Check the fit each term: a sock that fitted in September may be too small by January, and a too-small sock bunches under the arch and causes blisters. The replacement signs are in <a href="/posts/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
+<details class="faq"><summary>How often should I replace school socks?</summary><div class="a">Replace them when the heel or toe thins, the elastic goes dead and the cuff slides down, or the sock smells after washing. Check the fit each term: a sock that fitted in September may be too small by January, and a too-small sock bunches under the arch and causes blisters. The replacement signs are in <a href="/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
 
 ## Sources
 

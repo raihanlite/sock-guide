@@ -10,7 +10,7 @@ docTitle: "Best Heated Socks for Hunting (2026): Runtime on Low"
 description: "Best heated socks for hunting judged on runtime on low: Fieldsheer Merino 2.0 (16+ hrs), Gerbing 7V Wool, Fieldsheer Pro Merino, Lenz 5.0, ActionHeat and Snow Deer. Prices reported Nov 2026."
 ---
 
-This guide judges heated socks for hunting — long sits, cold mornings, runtime on low. If you want heated socks for everyday winter wear, the commute or skiing instead, see [Best Heated Socks](/posts/best-heated-socks/).
+This guide judges heated socks for hunting — long sits, cold mornings, runtime on low. If you want heated socks for everyday winter wear, the commute or skiing instead, see [Best Heated Socks](/best-heated-socks/).
 
 The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $99.99. Gerbing is Field &amp; Stream's best overall, and Snow Deer is the budget pick at roughly 6 hours.
 
@@ -36,7 +36,7 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 <h3>Gerbing 7V Wool</h3>
 <figure><img src="/img/artifact/img-26.webp" alt="Gerbing 7V Ultimate Wool heated socks in black with red branding" /><figcaption>Photo: Gerbing</figcaption></figure>
 <p>Named best overall in Field &amp; Stream's heated-sock coverage. Gerbing is a long-standing name in heated clothing, and the 7V wool sock pairs that heating system with a wool knit that insulates when the power is off.</p>
-<p>Every sock here is crew height or higher — in boots that coverage is a requirement, as <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a> explains.</p>
+<p>Every sock here is crew height or higher — in boots that coverage is a requirement, as <a href="/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a> explains.</p>
 <div class="spec">
 <div><b>Material:</b> Wool blend</div>
 <div><b>Cushion:</b> Medium</div>
@@ -125,6 +125,6 @@ The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $
 
 <details class="faq"><summary>Are heated socks safe and washable?</summary><div class="a">They are low-voltage battery systems designed to be worn against the skin. Follow the maker's washing instructions — typically batteries out, gentle wash, air dry — and never wear a sock with a damaged heating element or swollen battery.</div></details>
 
-<details class="faq"><summary>Heated socks or better boots?</summary><div class="a">Both solve different halves of the problem. Insulated boots slow heat loss; heated socks add heat your body is not generating while sitting still. If your feet go numb on long sits despite decent boots, heated socks are the missing half. <a href="/posts/how-to-choose-the-right-socks/">How to Choose the Right Socks</a> walks through that shoe-first decision — height, cushion, fabric, fit — in full.</div></details>
+<details class="faq"><summary>Heated socks or better boots?</summary><div class="a">Both solve different halves of the problem. Insulated boots slow heat loss; heated socks add heat your body is not generating while sitting still. If your feet go numb on long sits despite decent boots, heated socks are the missing half. <a href="/how-to-choose-the-right-socks/">How to Choose the Right Socks</a> walks through that shoe-first decision — height, cushion, fabric, fit — in full.</div></details>
 
 <details class="faq"><summary>Should I buy spare batteries?</summary><div class="a">If your sits run past your sock's low-setting runtime, yes — spares are the cheapest way to double your day, and they let you run a higher setting during the coldest first hour without rationing power.</div></details>

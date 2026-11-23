@@ -51,7 +51,7 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 <h3>Carhartt Force Midweight Crew</h3>
 <figure><img src="/img/artifact/img-14.jpg" alt="Carhartt Force Midweight Crew socks in black, three pairs" /><figcaption>Photo: Carhartt</figcaption></figure>
 <p>A nearly all-polyester knit that dries fast and shrugs off sweat — the sensible choice for summer roofing, roadwork and un-airconditioned warehouses.</p>
-<p>It will not match merino for odour, but at this price you can own a week's worth. If your feet sweat through every pair, <a href="/posts/why-do-socks-make-your-feet-sweat/">Why Do Socks Make Your Feet Sweat?</a> explains what is going on.</p>
+<p>It will not match merino for odour, but at this price you can own a week's worth. If your feet sweat through every pair, <a href="/why-do-socks-make-your-feet-sweat/">Why Do Socks Make Your Feet Sweat?</a> explains what is going on.</p>
 <div class="spec">
 <div><b>Material:</b> 98% polyester</div>
 <div><b>Cushion:</b> Midweight</div>
@@ -121,8 +121,8 @@ The six picks below cover long shifts, concrete floors, hot jobs, tight budgets,
 ## FAQ
 <details class="faq"><summary>Are merino work socks worth the extra money?</summary><div class="a">For most boot wearers, yes — merino manages sweat and odour better across long shifts, and socks like the Darn Tough Steely carry a lifetime replacement guarantee, which changes the maths. If your boots live in hot conditions and you wash socks daily, a fast-drying synthetic like the Carhartt Force is the smarter spend.</div></details>
 
-<details class="faq"><summary>How many pairs of work socks should I own?</summary><div class="a">At least one pair per working day, plus a spare. Rotating pairs lets the knit recover between wears and roughly doubles how long each pair lasts compared with wearing the same pair back-to-back. <a href="/posts/how-to-choose-the-right-socks/">How to Choose the Right Socks</a> covers rotation, fit checks and when to replace a pair in full.</div></details>
+<details class="faq"><summary>How many pairs of work socks should I own?</summary><div class="a">At least one pair per working day, plus a spare. Rotating pairs lets the knit recover between wears and roughly doubles how long each pair lasts compared with wearing the same pair back-to-back. <a href="/how-to-choose-the-right-socks/">How to Choose the Right Socks</a> covers rotation, fit checks and when to replace a pair in full.</div></details>
 
 <details class="faq"><summary>Why do my socks wear out at the heel first?</summary><div class="a">Heel strike plus boot friction. A cushioned heel delays it, correct boot fit helps more, and trimming toenails and keeping feet dry reduces abrasion inside the sock. If one boot always kills the same spot, check that boot's lining for a rough seam.</div></details>
 
-<details class="faq"><summary>Can I wear cotton socks for work?</summary><div class="a">You can, but in boots it is the most common cause of blisters and cold, damp feet. Cotton holds several times its weight in water and loses insulation when wet. Any blend on this page will outperform it on a long shift. The full fibre-by-fibre comparison is in <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</div></details>
+<details class="faq"><summary>Can I wear cotton socks for work?</summary><div class="a">You can, but in boots it is the most common cause of blisters and cold, damp feet. Cotton holds several times its weight in water and loses insulation when wet. Any blend on this page will outperform it on a long shift. The full fibre-by-fibre comparison is in <a href="/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</div></details>

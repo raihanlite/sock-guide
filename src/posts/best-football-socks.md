@@ -13,7 +13,7 @@ description: "Six football socks for grip, matches and training — TRUsox, Nike
 
 Football socks do a different job from everyday socks. Inside a boot, your foot slides on every cut, sprint and strike — more once sweat builds up. A grip sock's rubber or silicone pads hold it still and cut the rubbing that causes blisters. The short version: TRUsox for the strongest grip, Nike's new VaporFast for Nike boots, Tapedesign for comfort and wide boots, Gain The Edge for a first pair at a lower price, Nike Academy for matches, and the adidas Copa Zone for training. Thin grip socks suit snug speed boots; thicker ones suit roomy leather boots.
 
-A match sock runs over the calf to hold a shin pad and meet kit rules. A training sock is the pair you can afford to own five of and wash every other day. This guide picks by need: four grip socks, one match sock, one training sock. FootballBoots.co.uk — who have tested hundreds of grip socks — say the right pair won't make you a better player, but it can make a well-fitted boot feel better. Background: [Types of Socks](/posts/types-of-socks/), [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/), [Sock Fabrics](/posts/sock-fabrics/), [Best Socks for Sweaty Feet](/posts/best-socks-for-sweaty-feet/).
+A match sock runs over the calf to hold a shin pad and meet kit rules. A training sock is the pair you can afford to own five of and wash every other day. This guide picks by need: four grip socks, one match sock, one training sock. FootballBoots.co.uk — who have tested hundreds of grip socks — say the right pair won't make you a better player, but it can make a well-fitted boot feel better. Background: [Types of Socks](/types-of-socks/), [How to Choose the Right Socks](/how-to-choose-the-right-socks/), [Sock Fabrics](/sock-fabrics/), [Best Socks for Sweaty Feet](/best-socks-for-sweaty-feet/).
 
 ## The picks
 
@@ -67,7 +67,7 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 <h3>Gain The Edge Grip Socks 2.0, Mid-Calf</h3>
 <figure><img src="/img/artifact/img-97.jpg" alt="Gain The Edge Grip Socks 2.0 in white, product shot" /><figcaption>Photo: Gain The Edge</figcaption></figure>
 <p>First pair if you have never worn grip socks — FootballBoots.co.uk's pick for exactly that, DeadSoxy's best value.</p>
-<p>Dual-sided silicone grip, half the premium price. Snug fit; 2-piece set — a spare pair already in the drawer. Sizing runs inconsistently — check the size chart. Official seller on Amazon. Basketball players: same grip on court in <a href="/posts/best-basketball-socks/">Best Basketball Socks</a>.</p>
+<p>Dual-sided silicone grip, half the premium price. Snug fit; 2-piece set — a spare pair already in the drawer. Sizing runs inconsistently — check the size chart. Official seller on Amazon. Basketball players: same grip on court in <a href="/best-basketball-socks/">Best Basketball Socks</a>.</p>
 <div class="spec">
 <div><b>Material:</b> 95% polyester / 5% spandex</div>
 <div><b>Cushion:</b> Light</div>
@@ -132,7 +132,7 @@ A match sock runs over the calf to hold a shin pad and meet kit rules. A trainin
 
 <details class="faq"><summary>Are grip socks worth it for kids or Sunday league?</summary><div class="a">For a child, start cheap: the Gain The Edge pick comes in kids' sizes and costs roughly half the premium grip socks — and a player outgrows socks before wearing them out. For Sunday league, same idea: a value grip sock plus a long match sock is the setup. What matters most is the fit rule: thin grip sock in a snug boot, thicker one in a roomy boot.</div></details>
 
-<details class="faq"><summary>How do I wash grip socks so the grip lasts?</summary><div class="a">Turn them inside out, wash cold on a gentle cycle, and air-dry — heat kills the grip pads and the elastic. No fabric softener, which coats the pads, and no tumble-drying. Washed this way, the pads survive a full season of weekly games; washed hot and machine-dried, they peel and harden much sooner. The general care rules are in <a href="/posts/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
+<details class="faq"><summary>How do I wash grip socks so the grip lasts?</summary><div class="a">Turn them inside out, wash cold on a gentle cycle, and air-dry — heat kills the grip pads and the elastic. No fabric softener, which coats the pads, and no tumble-drying. Washed this way, the pads survive a full season of weekly games; washed hot and machine-dried, they peel and harden much sooner. The general care rules are in <a href="/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
 
 ## Sources
 

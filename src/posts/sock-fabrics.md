@@ -27,7 +27,7 @@ The label lists fibres by weight, largest first. "80% cotton, 17% nylon, 3% elas
 - **"100%" of anything is a statement, not a virtue.** A 100% cotton sock is soft and cheap, and it will soak through on a long walk.
 - **The same goes for merino.** A 100% merino sock is warm and fresh, and it will wear through faster than a blend. Most good socks are blends on purpose.
 
-The full fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/) for the two most common natural fibres; this guide covers all of them.
+The full fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/) for the two most common natural fibres; this guide covers all of them.
 
 ## Cotton
 
@@ -55,7 +55,7 @@ Merino is also naturally odour-resistant: the dry environment it creates and the
 
 The trade-offs are price and durability. Pure merino wears faster at the heel and toe than a blend, and it costs more. That is why most merino socks are blends — the classic sock yarn is around 75% merino and 25% nylon, with the nylon carrying the mechanical load at the wear points.
 
-And merino needs gentler care: a cool or warm wash, ideally inside out, and air drying rather than a hot tumble dryer, which can felt and shrink it. The full care routine is in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/).
+And merino needs gentler care: a cool or warm wash, ideally inside out, and air drying rather than a hot tumble dryer, which can felt and shrink it. The full care routine is in [How to Take Care of Socks](/how-to-take-care-of-socks/).
 
 ## Alpaca
 
@@ -71,7 +71,7 @@ Alpaca is also naturally free of lanolin, the grease in raw wool that some skin 
 
 Alpaca has one real weakness: it barely stretches. The fibre has little natural crimp, so it drapes rather than springs back, and a pure alpaca sock would stretch out and lose its shape.
 
-That is why well-made alpaca socks are almost always blends, with nylon for strength and a little elastane for recovery. If a label says 100% alpaca, expect it to bag out — the blend is the point. The head-to-head with merino, and the six alpaca socks worth knowing, are in [Best Alpaca Socks](/posts/best-alpaca-socks/).
+That is why well-made alpaca socks are almost always blends, with nylon for strength and a little elastane for recovery. If a label says 100% alpaca, expect it to bag out — the blend is the point. The head-to-head with merino, and the six alpaca socks worth knowing, are in [Best Alpaca Socks](/best-alpaca-socks/).
 
 ## Polyester
 
@@ -135,7 +135,7 @@ Two things worth knowing. First, more is not better: above about 8% the sock sta
 
 Second, heat is elastane's enemy — a hot wash and a hot tumble dryer make the fibres brittle and permanently weaken them, which is why a sock with a dead cuff is finished no matter how good the rest of it looks. Wash cool and air dry, and the elastane lasts as long as the rest of the sock.
 
-And one clarification: elastane is not the same as compression. A sock can carry a small elastane percentage purely to hold its shape, with no compression benefit at all. Compression socks use much higher elastane shares and a graduated knit to apply measured pressure — the difference is explained in [What Are Compression Socks Used For?](/posts/what-are-compression-socks-used-for/).
+And one clarification: elastane is not the same as compression. A sock can carry a small elastane percentage purely to hold its shape, with no compression benefit at all. Compression socks use much higher elastane shares and a graduated knit to apply measured pressure — the difference is explained in [What Are Compression Socks Used For?](/what-are-compression-socks-used-for/).
 
 ## At a glance
 
@@ -163,9 +163,9 @@ And one clarification: elastane is not the same as compression. A sock can carry
 - **Sensitive skin:** bamboo viscose or fine merino. Both are smooth against the skin; bamboo is the softer of the two, merino the more durable.
 - **On a budget, or hard on socks:** a blend with a real nylon share — cotton-polyester for everyday, merino-nylon for performance. Pure anything is either more expensive or shorter-lived than the equivalent blend.
 
-The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/). The type-by-type guide to lengths is in [Types of Socks](/posts/types-of-socks/).
+The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/how-to-choose-the-right-socks/). The type-by-type guide to lengths is in [Types of Socks](/types-of-socks/).
 
-The six alpaca socks are in [Best Alpaca Socks](/posts/best-alpaca-socks/), and the merino picks in [Best Merino Wool Socks](/posts/best-merino-wool-socks/). The causes and the full routine are in [Why Do Socks Make Your Feet Sweat?](/posts/why-do-socks-make-your-feet-sweat/) and the six picks in [Best Socks for Sweaty Feet](/posts/best-socks-for-sweaty-feet/).
+The six alpaca socks are in [Best Alpaca Socks](/best-alpaca-socks/), and the merino picks in [Best Merino Wool Socks](/best-merino-wool-socks/). The causes and the full routine are in [Why Do Socks Make Your Feet Sweat?](/why-do-socks-make-your-feet-sweat/) and the six picks in [Best Socks for Sweaty Feet](/best-socks-for-sweaty-feet/).
 
 If you remember one thing, make it this: the fibre is the sock's job description. Cotton stores sweat, merino buffers it, polyester moves it, nylon survives it, bamboo softens it, and elastane holds the whole thing in shape. Read the label, match the fibre to the job, and most sock problems disappear before you buy.
 

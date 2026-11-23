@@ -23,7 +23,7 @@ That is why the standard benefits Cleveland Clinic lists are less swelling, reli
 
 What nurses need from that sock, though, is different from what a traveller or a runner needs: graduated compression that holds up for a full shift, a sock that is easy to pull on at 6 a.m. and easy to get off at 7 p.m., and a knit that survives being washed after every shift without going baggy at the ankle.
 
-The background on how graduated compression works and what the mmHg numbers mean is in [What Are Compression Socks Used For?](/posts/what-are-compression-socks-used-for/), and the wearing rules — how long to keep them on, and when to take them off — are in [How Long Can You Wear Compression Socks?](/posts/how-long-can-you-wear-compression-socks/).
+The background on how graduated compression works and what the mmHg numbers mean is in [What Are Compression Socks Used For?](/what-are-compression-socks-used-for/), and the wearing rules — how long to keep them on, and when to take them off — are in [How Long Can You Wear Compression Socks?](/how-long-can-you-wear-compression-socks/).
 
 ## The two levels nurses actually buy
 
@@ -33,7 +33,7 @@ In head-to-head trials on prolonged standing, Nightingale Knows (September 2026)
 
 Fitted medical-grade socks (Jobst, Sigvaris, Mediven) are the answer for venous disease, a history of deep vein thrombosis, or post-surgical wear — not a shop shelf. So this guide picks by shift need: the best all-round sock, the best merino sock, the best firm budget sock, the best bulk buy for a rotation, the best cushioned sock, and the best wide-calf sock.
 
-For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Sweaty Feet](/posts/best-socks-for-sweaty-feet/), the everyday rotation pairs with them in [Best Everyday Socks](/posts/best-everyday-socks/), and the washing rules that keep compression working are in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/).
+For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Sweaty Feet](/best-socks-for-sweaty-feet/), the everyday rotation pairs with them in [Best Everyday Socks](/best-everyday-socks/), and the washing rules that keep compression working are in [How to Take Care of Socks](/how-to-take-care-of-socks/).
 
 ## The picks
 
@@ -57,7 +57,7 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 <h3>Sockwell Women's Circulator Moderate Graduated Compression Socks, 15–20 mmHg</h3>
 <figure><img src="/img/artifact/img-115.jpg" alt="Sockwell Women's Circulator compression socks in cranberry, product shot" /><figcaption>Photo: Sockwell</figcaption></figure>
 <p>The merino answer, the most breathable here. Merino and bamboo move moisture and resist odour across a twelve-hour shift in warm ward shoes.</p>
-<p>Two caveats: women's sizing, so men need a different pick here, and merino needs gentler washing (cold, gentle cycle, no softener, air-dry) or it will felt and shrink. The fibre case is in <a href="/posts/sock-fabrics/">Sock Fabrics</a>.</p>
+<p>Two caveats: women's sizing, so men need a different pick here, and merino needs gentler washing (cold, gentle cycle, no softener, air-dry) or it will felt and shrink. The fibre case is in <a href="/sock-fabrics/">Sock Fabrics</a>.</p>
 <div class="spec">
 <div><b>Material:</b> 32% merino wool / 31% bamboo rayon / 32% stretch nylon / 5% spandex</div>
 <div><b>Compression:</b> 15–20 mmHg, mild</div>
@@ -148,13 +148,13 @@ For sweaty feet on shift, the moisture-wicking picks are in [Best Socks for Swea
 A registered nurse shares her favourite compression socks for long hospital shifts and business travel flights — what she actually wears on shift, and why.
 
 ## FAQ
-<details class="faq"><summary>What compression level do nurses need?</summary><div class="a">For most nurses, 15–20 mmHg is the right level: it is sold over the counter, and in head-to-head trials on prolonged standing it matched 20–30 mmHg for fatigue, swelling and discomfort. Go to 20–30 mmHg for pronounced swelling, early varicose veins, pregnancy swelling, or a clinician's advice — and 30–40 mmHg is prescription territory. The full level ladder is in <a href="/posts/what-are-compression-socks-used-for/">What Are Compression Socks Used For?</a>.</div></details>
+<details class="faq"><summary>What compression level do nurses need?</summary><div class="a">For most nurses, 15–20 mmHg is the right level: it is sold over the counter, and in head-to-head trials on prolonged standing it matched 20–30 mmHg for fatigue, swelling and discomfort. Go to 20–30 mmHg for pronounced swelling, early varicose veins, pregnancy swelling, or a clinician's advice — and 30–40 mmHg is prescription territory. The full level ladder is in <a href="/what-are-compression-socks-used-for/">What Are Compression Socks Used For?</a>.</div></details>
 
-<details class="faq"><summary>Can nurses wear compression socks every day?</summary><div class="a">Yes — for the daytime shift. Put them on in the morning, and take them off when the shift ends; compression socks are generally not worn overnight, and sleeping in them is a decision for a clinician, not a habit. Wash them after every shift, cold and gentle, and rotate at least three pairs. The wearing rules are in <a href="/posts/how-long-can-you-wear-compression-socks/">How Long Can You Wear Compression Socks?</a>.</div></details>
+<details class="faq"><summary>Can nurses wear compression socks every day?</summary><div class="a">Yes — for the daytime shift. Put them on in the morning, and take them off when the shift ends; compression socks are generally not worn overnight, and sleeping in them is a decision for a clinician, not a habit. Wash them after every shift, cold and gentle, and rotate at least three pairs. The wearing rules are in <a href="/how-long-can-you-wear-compression-socks/">How Long Can You Wear Compression Socks?</a>.</div></details>
 
-<details class="faq"><summary>How long do compression socks last?</summary><div class="a">About three to six months of daily shift wear — sooner than ordinary socks, because the elastic that delivers the compression is the part that wears out. Replace a pair when the cuff slides down, the sock bunches at the ankle, or the heel or toe thins. Hot water, bleach, fabric softener and tumble-drying all shorten the life; the care rules are in <a href="/posts/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
+<details class="faq"><summary>How long do compression socks last?</summary><div class="a">About three to six months of daily shift wear — sooner than ordinary socks, because the elastic that delivers the compression is the part that wears out. Replace a pair when the cuff slides down, the sock bunches at the ankle, or the heel or toe thins. Hot water, bleach, fabric softener and tumble-drying all shorten the life; the care rules are in <a href="/how-to-take-care-of-socks/">How to Take Care of Socks</a>.</div></details>
 
-<details class="faq"><summary>Are compression socks hot to wear on a 12-hour shift?</summary><div class="a">They can be, in a thick cotton knit on a warm ward — but the merino and bamboo blends on this page (Sockwell Circulator, Vim &amp; Vigr Checkmate) breathe and wick moisture far better than a plain cotton compression sock. If your feet sweat through a shift, the moisture-wicking picks are in <a href="/posts/best-socks-for-sweaty-feet/">Best Socks for Sweaty Feet</a>, and the fibre-by-fibre comparison is in <a href="/posts/sock-fabrics/">Sock Fabrics</a>.</div></details>
+<details class="faq"><summary>Are compression socks hot to wear on a 12-hour shift?</summary><div class="a">They can be, in a thick cotton knit on a warm ward — but the merino and bamboo blends on this page (Sockwell Circulator, Vim &amp; Vigr Checkmate) breathe and wick moisture far better than a plain cotton compression sock. If your feet sweat through a shift, the moisture-wicking picks are in <a href="/best-socks-for-sweaty-feet/">Best Socks for Sweaty Feet</a>, and the fibre-by-fibre comparison is in <a href="/sock-fabrics/">Sock Fabrics</a>.</div></details>
 
 <details class="faq"><summary>How do I get compression socks on and off easily?</summary><div class="a">Turn the sock inside out down to the heel, slide the foot in, then roll the rest up the leg a little at a time — never yank it up by the cuff, which stretches the knit unevenly. A pair of rubber gloves gives grip on the fabric without snagging it. Taking them off is the reverse: peel them down from the top rather than pulling from the toe.</div></details>
 

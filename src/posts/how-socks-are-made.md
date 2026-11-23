@@ -21,7 +21,7 @@ Nothing is knitted until the yarn is ready. Fibres — cotton, wool, nylon, poly
 
 Colour is decided at this stage too. Yarn is coloured either before spinning or as spun yarn, and multi-colour patterns need each yarn dyed ahead of knitting — you cannot add a second colour to a finished sock afterwards. That is why a patterned sock is more work to plan than a plain one: every colour in the design has to exist as dyed yarn before the machine starts.
 
-This is also the step that sets the ceiling on the finished sock. Yarn choice decides the hand feel, how the sock handles sweat, and how long it lasts — the fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/). A factory can knit beautifully with poor yarn and still end up with a poor sock; it cannot knit a great sock from yarn that was wrong for the job.
+This is also the step that sets the ceiling on the finished sock. Yarn choice decides the hand feel, how the sock handles sweat, and how long it lasts — the fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/). A factory can knit beautifully with poor yarn and still end up with a poor sock; it cannot knit a great sock from yarn that was wrong for the job.
 
 ## Step 2: Knitting on a circular machine
 
@@ -37,7 +37,7 @@ The second is speed. A basic sock tube can be knitted in 20 to 40 seconds on a f
 
 One machine makes one sock at a time, so a factory's output is a matter of how many machines it runs — a line of 100 machines turns out roughly 1,500 to 4,000 pairs a day. The leading machine makers are Italian: Lonati, Sangiacomo and Stäubli.
 
-The machine itself is old technology with a long history. The circular knitting machine goes back to Marc Isambard Brunel's 1816 patent for a machine that knitted a seamless tube — the story is in [History of Socks](/posts/history-of-socks/). What changed since is control: modern machines are computerised, and the pattern, gauge and shaping are all set in software before the first sock is knitted.
+The machine itself is old technology with a long history. The circular knitting machine goes back to Marc Isambard Brunel's 1816 patent for a machine that knitted a seamless tube — the story is in [History of Socks](/history-of-socks/). What changed since is control: modern machines are computerised, and the pattern, gauge and shaping are all set in software before the first sock is knitted.
 
 ## Step 3: Closing the toe
 
@@ -59,7 +59,7 @@ Knitted socks are washed before they are shaped. The wash relaxes the knit, sets
 
 Dyeing can happen at this stage as well as at the yarn stage. Where the colour was not dyed into the yarn beforehand, the knitted socks go through wet processing — scouring, dyeing and softening — after knitting. Which route a factory takes depends on the design: solid colours are often dyed after knitting, while patterns with several colours must be dyed at the yarn stage, as above.
 
-The factory wash is not the same as washing at home, and it does not excuse bad home care. Once the sock is yours, how you wash and dry it decides how long it keeps its shape — the full routine is in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/).
+The factory wash is not the same as washing at home, and it does not excuse bad home care. Once the sock is yours, how you wash and dry it decides how long it keeps its shape — the full routine is in [How to Take Care of Socks](/how-to-take-care-of-socks/).
 
 ## Step 5: Boarding — setting the shape
 
@@ -101,7 +101,7 @@ Third, the pair: hold the two socks together. If they are not the same length an
 
 Fourth, the heel: a proper heel pocket, knitted in rather than sewn on, holds the sock on your foot instead of twisting around it.
 
-The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/), and the type-by-type guide is in [Types of Socks](/posts/types-of-socks/).
+The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/how-to-choose-the-right-socks/), and the type-by-type guide is in [Types of Socks](/types-of-socks/).
 
 ## FAQ
 <details class="faq"><summary>How are socks made?</summary><div class="a">In six steps: yarn is spun and dyed; a circular knitting machine knits the sock as a tube, cuff to toe, with the heel knitted in; the open toe is closed by linking or machine seaming; the socks are washed and dyed; they are boarded — pulled over foot-shaped forms and heat-set with steam; then they are inspected, paired and packed. The whole run takes a few hours of production.</div></details>
@@ -114,7 +114,7 @@ The full decision framework — height, cushion, fabric and fit — is in [How t
 
 <details class="faq"><summary>How long does it take to make one sock?</summary><div class="a">The knitting itself is fast: a basic sock tube takes 20 to 40 seconds on a fast circular machine, and a complex patterned sock takes several minutes. But knitting is only one step — with washing, boarding, inspection and packing, a factory run from yarn to boxed pair takes a few hours of active production.</div></details>
 
-<details class="faq"><summary>Are handmade socks made differently?</summary><div class="a">Yes. A <a href="/posts/how-to-knit-a-sock/">hand-knitted sock</a> is built stitch by stitch on needles, shaped by hand as it grows. The knitter forms the heel and closes the toe while knitting, with no separate toe-closing machine and no steam boarding. It is slower than factory production, which is why hand-knitted socks cost more. The result is the same object: a shaped tube with a heel pocket and a closed toe.</div></details>
+<details class="faq"><summary>Are handmade socks made differently?</summary><div class="a">Yes. A <a href="/how-to-knit-a-sock/">hand-knitted sock</a> is built stitch by stitch on needles, shaped by hand as it grows. The knitter forms the heel and closes the toe while knitting, with no separate toe-closing machine and no steam boarding. It is slower than factory production, which is why hand-knitted socks cost more. The result is the same object: a shaped tube with a heel pocket and a closed toe.</div></details>
 
 ## Sources
 

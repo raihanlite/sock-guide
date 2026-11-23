@@ -31,7 +31,7 @@ Socks do six jobs at once, and most of them are invisible until the sock is miss
 
 **Comfort and cushioning.** A sock adds a soft layer between foot and shoe, spreading pressure and absorbing some of the impact of every step — which matters most on long days standing or walking.
 
-**Moisture management.** Your feet carry around a quarter of a million sweat glands between them, one of the densest concentrations anywhere on the body. A sock takes up that sweat — absorbing it or wicking it outward — so it does not pool against the skin. The full story of what happens when it cannot escape is in [Why Do Socks Make Your Feet Sweat?](/posts/why-do-socks-make-your-feet-sweat/)
+**Moisture management.** Your feet carry around a quarter of a million sweat glands between them, one of the densest concentrations anywhere on the body. A sock takes up that sweat — absorbing it or wicking it outward — so it does not pool against the skin. The full story of what happens when it cannot escape is in [Why Do Socks Make Your Feet Sweat?](/why-do-socks-make-your-feet-sweat/)
 
 **Friction and blisters.** Skin rubbing directly against a shoe lining is how blisters start. A sock puts a smooth, fitted layer in between, and a well-fitting sock moves with the foot instead of against it.
 
@@ -55,11 +55,11 @@ Knitting itself spread through the Middle East and Europe over the following cen
 
 In 1589 the English clergyman William Lee invented the stocking frame, the first knitting machine. It knitted far faster than a person could by hand and became the prototype for the machines of the Industrial Revolution, when socks went from a hand-made luxury to a mass-produced everyday item.
 
-Nylon arrived in 1938, giving socks enough stretch to stay up on their own — and making the sock garter, after centuries of service, obsolete. The full story — from skins to nylon — is in [History of Socks](/posts/history-of-socks/).
+Nylon arrived in 1938, giving socks enough stretch to stay up on their own — and making the sock garter, after centuries of service, obsolete. The full story — from skins to nylon — is in [History of Socks](/history-of-socks/).
 
 ## The main types of socks
 
-Socks are usually named by height, and height is the first choice to make — the sock should be taller than the shoe collar, so the collar rests on fabric rather than skin. The full type-by-type guide, with every height and the purpose-built types, is in [Types of Socks](/posts/types-of-socks/). The full height-by-height comparison is in [Crew Socks vs Ankle Socks](/posts/crew-socks-vs-ankle-socks/).
+Socks are usually named by height, and height is the first choice to make — the sock should be taller than the shoe collar, so the collar rests on fabric rather than skin. The full type-by-type guide, with every height and the purpose-built types, is in [Types of Socks](/types-of-socks/). The full height-by-height comparison is in [Crew Socks vs Ankle Socks](/crew-socks-vs-ankle-socks/).
 
 <table class="compare">
       <thead><tr><th>Type</th><th>What it is</th><th>Best for</th></tr></thead>
@@ -88,7 +88,7 @@ The fibre decides what a sock does with sweat — and therefore most of what it 
 
 **Blends** — most socks mix fibres to balance the trade-offs: merino with nylon for durability, cotton with polyester to dry faster, and a little elastane for stretch and shape retention.
 
-The fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/).
+The fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/).
 
 ## Looking after your socks
 
@@ -96,7 +96,7 @@ The fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/posts/cotton-
 - **Rotate pairs.** Give each pair a day's rest between wears so the knit recovers its shape, and change into a fresh pair when socks get damp or after a workout.
 - **Replace them on condition, not on a calendar.** Thin heels and toes, holes, dead elastic and odour that survives washing are the signs. As a rough guide, everyday socks last about 6–12 months and athletic socks about 3–6 months.
 
-The full framework — height, cushion, fabric, fit and when to replace — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/).
+The full framework — height, cushion, fabric, fit and when to replace — is in [How to Choose the Right Socks](/how-to-choose-the-right-socks/).
 
 ## FAQ
 <details class="faq"><summary>Why do we wear socks?</summary><div class="a">For comfort, dryness and protection, all at once: a sock cushions the foot, takes up sweat, stops the shoe rubbing the skin raw, adds warmth, and keeps the shoe itself cleaner. Any one of those jobs alone would justify it; together they are why almost everyone wears socks with closed shoes, every day, without thinking about it.</div></details>
@@ -109,7 +109,7 @@ The full framework — height, cushion, fabric, fit and when to replace — is i
 
 <details class="faq"><summary>How old are socks?</summary><div class="a">The oldest surviving socks, found in Egypt, date to the first centuries CE, and foot coverings of skin and felt go back much further — to Ötzi the Iceman in about 3300 BCE and the felt piloi Hesiod recommended in the 8th to 7th centuries BCE. The full story is in the history section above.</div></details>
 
-<details class="faq"><summary>Do I need different socks for different shoes?</summary><div class="a">Mainly it comes down to height and material. The sock should be taller than the shoe collar, so the collar rests on fabric rather than skin, and the fibre should match the activity — moisture-wicking for sport, warm for cold, thin for heat. The height trade-offs are laid out in <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
+<details class="faq"><summary>Do I need different socks for different shoes?</summary><div class="a">Mainly it comes down to height and material. The sock should be taller than the shoe collar, so the collar rests on fabric rather than skin, and the fibre should match the activity — moisture-wicking for sport, warm for cold, thin for heat. The height trade-offs are laid out in <a href="/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
 
 ## Sources
 

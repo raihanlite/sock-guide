@@ -79,7 +79,7 @@ That is the moment the sock stopped being a luxury and became an everyday item. 
 
 Machine-made socks were cheap enough to own in pairs, to wear out and replace. The sock went from something you owned one or two of to something you owned a drawerful of.
 
-The machines Brunel and Cotton patented are the ancestors of the circular knitting machines still making socks today — the full modern process, step by step, is in [How Socks Are Made](/posts/how-socks-are-made/).
+The machines Brunel and Cotton patented are the ancestors of the circular knitting machines still making socks today — the full modern process, step by step, is in [How Socks Are Made](/how-socks-are-made/).
 
 ## Nylon changes everything
 
@@ -107,7 +107,7 @@ In the 2000s computer-aided design and dye sublimation let makers print almost a
 
 Five thousand years, and the job has not changed: a soft layer between foot and shoe, taking up sweat, stopping blisters, adding warmth. The materials changed, the machines changed, the price collapsed — the sock itself is still doing what the grass in Ötzi's shoes did.
 
-The short version of this story is in [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/). The types the history produced are in [Types of Socks](/posts/types-of-socks/), the fibres are compared in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/), and how to look after the modern result is in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/).
+The short version of this story is in [What Are Socks? Why Do We Wear Socks?](/what-are-socks-why-do-we-wear-socks/). The types the history produced are in [Types of Socks](/types-of-socks/), the fibres are compared in [Cotton vs Merino Wool Socks](/cotton-vs-merino-wool-socks/), and how to look after the modern result is in [How to Take Care of Socks](/how-to-take-care-of-socks/).
 
 <table class="compare">
       <thead><tr><th>Era</th><th>Material</th><th>How made</th><th>Who wore them</th></tr></thead>

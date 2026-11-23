@@ -51,7 +51,7 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
 <h3>Dickies Dri-Tech</h3>
 <figure><img src="/img/artifact/img-15.jpg" alt="Dickies Dri-Tech Crew performance work socks in their 6-pair retail pack" /><figcaption>Photo: Dickies</figcaption></figure>
 <p>A light, moisture-managing crew that keeps summer boots bearable and costs little enough to rotate a full week of pairs.</p>
-<p>In heat, dry beats cushioned — and when boots turn into saunas by midday, <a href="/posts/why-do-socks-make-your-feet-sweat/">Why Do Socks Make Your Feet Sweat?</a> explains why, and what actually helps.</p>
+<p>In heat, dry beats cushioned — and when boots turn into saunas by midday, <a href="/why-do-socks-make-your-feet-sweat/">Why Do Socks Make Your Feet Sweat?</a> explains why, and what actually helps.</p>
 <div class="spec">
 <div><b>Material:</b> Polyester/cotton moisture-control blend</div>
 <div><b>Cushion:</b> Light to medium</div>
@@ -119,10 +119,10 @@ The short version: Darn Tough Steely Boot for steel toe, Thorlos for concrete, D
     </table>
 
 ## FAQ
-<details class="faq"><summary>Should work-boot socks be thick or thin?</summary><div class="a">Neither by default — they should match the boot's internal volume and your floor. Thick, cushioned socks suit roomy boots and concrete; thinner socks suit snug boots and heat. The test: with the sock on, you should be able to wiggle your toes freely inside the laced boot. That kind of fit check is step five of <a href="/posts/how-to-choose-the-right-socks/">How to Choose the Right Socks</a>.</div></details>
+<details class="faq"><summary>Should work-boot socks be thick or thin?</summary><div class="a">Neither by default — they should match the boot's internal volume and your floor. Thick, cushioned socks suit roomy boots and concrete; thinner socks suit snug boots and heat. The test: with the sock on, you should be able to wiggle your toes freely inside the laced boot. That kind of fit check is step five of <a href="/how-to-choose-the-right-socks/">How to Choose the Right Socks</a>.</div></details>
 
 <details class="faq"><summary>Do I need special socks for steel-toe boots?</summary><div class="a">Padding over the toes and a reinforced toe box genuinely help, because the cap creates a hard edge ordinary socks wear against. Any pick above with toe padding — Steely Boot, Carhartt Steel Toe, Fox River in our work-socks guide — covers it.</div></details>
 
-<details class="faq"><summary>Why do my socks slip down inside my boots?</summary><div class="a">Usually the sock is too short for the boot, or the elastic has died. Choose a boot-height sock with a proper heel pocket in your actual size — sizing up for "more room" is the most common cause of bunching and slip. Height matters as much as size here; see <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a> for how the lengths compare.</div></details>
+<details class="faq"><summary>Why do my socks slip down inside my boots?</summary><div class="a">Usually the sock is too short for the boot, or the elastic has died. Choose a boot-height sock with a proper heel pocket in your actual size — sizing up for "more room" is the most common cause of bunching and slip. Height matters as much as size here; see <a href="/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a> for how the lengths compare.</div></details>
 
 <details class="faq"><summary>Are women's work socks actually different?</summary><div class="a">Yes. They're knitted on a narrower last with a smaller heel pocket and less toe volume. In a women's boot, a scaled-down men's sock leaves loose fabric that folds and rubs; a women's-specific sock sits flat.</div></details>

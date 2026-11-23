@@ -25,7 +25,7 @@ Worse, it is a feedback loop: inside a closed shoe the sweat cannot evaporate, t
 
 ## Why it feels like the sock's fault
 
-**Absorbent fibres hold sweat against you.** Cotton absorbs moisture readily and keeps it in the fabric, in contact with your skin, for hours. The foot may not be producing unusual amounts of sweat — it just never gets to dry. This is the core of the [cotton vs merino](/posts/cotton-vs-merino-wool-socks/) difference: merino stores moisture inside the fibre, away from the skin, and synthetics move it outward to evaporate.
+**Absorbent fibres hold sweat against you.** Cotton absorbs moisture readily and keeps it in the fabric, in contact with your skin, for hours. The foot may not be producing unusual amounts of sweat — it just never gets to dry. This is the core of the [cotton vs merino](/cotton-vs-merino-wool-socks/) difference: merino stores moisture inside the fibre, away from the skin, and synthetics move it outward to evaporate.
 
 **Thick socks insulate.** A heavy, fully cushioned sock is a warm layer, and warmer feet sweat more. Wearing a winter-weight sock in a mild season is one of the most common and most fixable causes.
 
@@ -62,8 +62,8 @@ Fresh sweat is mostly water and nearly odourless. The smell arrives when bacteri
 
 ## What actually helps
 
-- **Change the fibre.** Switch absorbent cotton for merino or a performance synthetic. Start with [summer socks](/posts/best-socks-for-summer/) in warm weather, and the hot-weather picks in our [work socks](/posts/best-work-socks/) and [work boots](/posts/best-socks-for-work-boots/) guides. Runners: [Best Running Socks](/posts/best-running-socks/).
-- **Change the sock, midday.** On long or active days, a fresh pair at midday removes hours of moisture. It is the simplest effective habit there is; tournament players do it between matches, as our [tennis guide](/posts/best-tennis-socks/) notes.
+- **Change the fibre.** Switch absorbent cotton for merino or a performance synthetic. Start with [summer socks](/best-socks-for-summer/) in warm weather, and the hot-weather picks in our [work socks](/best-work-socks/) and [work boots](/best-socks-for-work-boots/) guides. Runners: [Best Running Socks](/best-running-socks/).
+- **Change the sock, midday.** On long or active days, a fresh pair at midday removes hours of moisture. It is the simplest effective habit there is; tournament players do it between matches, as our [tennis guide](/best-tennis-socks/) notes.
 - **Rotate shoes and let everything dry.** Shoes need a day or more to dry fully between wears; alternating two pairs keeps both drier.
 - **Wash and dry socks fully.** Socks should be washed and fully dried before re-wearing — air-drying them, as in the photograph above, is the whole routine.
 - **Match sock weight to the weather.** If your feet sweat in “normal” socks, try a thinner knit before anything else.
@@ -89,6 +89,6 @@ A doctor or podiatrist can offer treatments a sock drawer cannot. Changing socks
 
 <details class="faq"><summary>Is it better to go without socks?</summary><div class="a">In closed shoes, usually not. Without a sock, sweat goes directly into the shoe's lining, where it cannot be washed out — the shoe becomes the damp, bacteria-friendly layer instead, and friction against the lining causes its own blisters. A moisture-managing sock you can wash beats a shoe you cannot.</div></details>
 
-<details class="faq"><summary>Which socks are best for sweaty feet?</summary><div class="a">Lightweight merino or performance synthetic socks, in a height and weight matched to the season, changed when they get damp. Avoid high-cotton socks and winter-weight knits in warm conditions. The reasoning is laid out in <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>, and our picks are in <a href="/posts/best-socks-for-sweaty-feet/">Best Socks for Sweaty Feet</a>.</div></details>
+<details class="faq"><summary>Which socks are best for sweaty feet?</summary><div class="a">Lightweight merino or performance synthetic socks, in a height and weight matched to the season, changed when they get damp. Avoid high-cotton socks and winter-weight knits in warm conditions. The reasoning is laid out in <a href="/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>, and our picks are in <a href="/best-socks-for-sweaty-feet/">Best Socks for Sweaty Feet</a>.</div></details>
 
-<details class="faq"><summary>Why do my feet sweat even in winter?</summary><div class="a">Because winter footwear is the most sealed and insulated of all, and indoor heating keeps feet warm inside it. Heavy socks plus insulated boots plus a heated office is a reliable recipe. A medium-weight merino sock often beats the heaviest sock here, precisely because it manages moisture instead of only adding warmth — and for genuinely cold, still conditions, our <a href="/posts/best-heated-socks-for-hunting/">heated socks guide</a> covers the other end of the problem.</div></details>
+<details class="faq"><summary>Why do my feet sweat even in winter?</summary><div class="a">Because winter footwear is the most sealed and insulated of all, and indoor heating keeps feet warm inside it. Heavy socks plus insulated boots plus a heated office is a reliable recipe. A medium-weight merino sock often beats the heaviest sock here, precisely because it manages moisture instead of only adding warmth — and for genuinely cold, still conditions, our <a href="/best-heated-socks-for-hunting/">heated socks guide</a> covers the other end of the problem.</div></details>

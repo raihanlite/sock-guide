@@ -84,7 +84,7 @@ Check that the cast-on edge stretches over your heel and settles comfortably aro
 
 Then comes the leg: plain stockinette stitch, or a simple pattern, worked in the round until the leg reaches the length you want. An ankle sock might have a 3 to 4 inch leg after the cuff; a crew sock is longer.
 
-The type-by-type guide to lengths is in [Types of Socks](/posts/types-of-socks/) — the leg is where you decide which one you are making.
+The type-by-type guide to lengths is in [Types of Socks](/types-of-socks/) — the leg is where you decide which one you are making.
 
 Knitting the leg is the easy, rhythmic part of the sock, and it is also where a first knitter learns to keep an even tension in the round.
 
@@ -144,13 +144,13 @@ The simpler alternative is a gathered close: thread the yarn through the remaini
 
 Then weave in the ends, give the socks a gentle wash, and let them dry flat.
 
-How you wash them from here decides how long they keep their shape — the full routine is in [How to Take Care of Socks](/posts/how-to-take-care-of-socks/), and hand-knitted wool needs the gentlest version of it unless the yarn is superwash.
+How you wash them from here decides how long they keep their shape — the full routine is in [How to Take Care of Socks](/how-to-take-care-of-socks/), and hand-knitted wool needs the gentlest version of it unless the yarn is superwash.
 
 Weigh the first sock before you start the second: if it weighs more than half the skein, buy another skein from the same dye lot before you begin, or the second sock will run out of yarn.
 
 That, and knitting both socks at the same time on one long circular needle, are the two cures for second sock syndrome — the very real phenomenon where the first sock sits alone in a drawer forever.
 
-A hand-knitted sock is the oldest way socks were made. Knitting spread through Europe from the Middle Ages, and the first knitting machine — William Lee's stocking frame of 1589 — was invented to copy what hand-knitters already did; the story is in [History of Socks](/posts/history-of-socks/). The factory version is described in [How Socks Are Made](/posts/how-socks-are-made/) — same object, same parts, built by machine instead of by hand.
+A hand-knitted sock is the oldest way socks were made. Knitting spread through Europe from the Middle Ages, and the first knitting machine — William Lee's stocking frame of 1589 — was invented to copy what hand-knitters already did; the story is in [History of Socks](/history-of-socks/). The factory version is described in [How Socks Are Made](/how-socks-are-made/) — same object, same parts, built by machine instead of by hand.
 
 ## Common beginner mistakes
 

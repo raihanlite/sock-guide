@@ -80,7 +80,7 @@ Second, the fit: compression socks are sized by ankle and calf measurements, not
 
 Third, the purpose: an ordinary sock manages sweat, friction and warmth; a compression sock manages blood flow and swelling.
 
-They are different tools that happen to look alike, and the compression section of [Types of Socks](/posts/types-of-socks/) puts them in the wider picture of what socks are for.
+They are different tools that happen to look alike, and the compression section of [Types of Socks](/types-of-socks/) puts them in the wider picture of what socks are for.
 
 There are also two genuinely different categories wearing the same name.
 
@@ -100,7 +100,7 @@ The socks go on first thing in the morning, before swelling builds, and they sho
 
 If the sock slides down, cuts in at the top band, or is painful to put on, the size is wrong. A different size — or a different length, knee-high versus thigh-high — is the fix, not perseverance.
 
-The companion guide [How Long Can You Wear Compression Socks?](/posts/how-long-can-you-wear-compression-socks/) covers the daily routine, including how to put them on and when to take them off.
+The companion guide [How Long Can You Wear Compression Socks?](/how-long-can-you-wear-compression-socks/) covers the daily routine, including how to put them on and when to take them off.
 
 ## Who should check first
 
@@ -128,7 +128,7 @@ A note on this page itself: it is general information about compression socks, n
       </tbody>
     </table>
 
-If you are buying for a 12-hour shift on your feet, the nurse-specific picks are in [Best Compression Socks for Nurses](/posts/best-compression-socks-for-nurses/).
+If you are buying for a 12-hour shift on your feet, the nurse-specific picks are in [Best Compression Socks for Nurses](/best-compression-socks-for-nurses/).
 
 ## FAQ
 <details class="faq"><summary>What do compression socks actually do?</summary><div class="a">They apply graduated pressure — tightest at the ankle, easing off up the calf — which helps blood that has pooled in the leg veins return to the heart instead of sitting in the lower legs. That reduces swelling and the heavy, tired feeling that comes with it. They do not fix the veins themselves; they manage the symptoms while they are worn.</div></details>

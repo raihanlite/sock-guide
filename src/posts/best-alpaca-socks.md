@@ -66,7 +66,7 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
 <h3>Karu Quarter</h3>
 <figure><img src="/img/artifact/img-22.webp" alt="Karu alpaca wool quarter socks in black, worn on a pebble beach" /><figcaption>Photo: Karu</figcaption></figure>
 <p>45% alpaca in a quarter height — the warmest option here that still pairs naturally with trail runners and low boots.</p>
-<p>Good for cool-morning hikes where a full crew is too much sock. On genuinely hot days, though, even a quarter height is a compromise — <a href="/posts/best-socks-for-summer/">What Are the Best Socks for Summer?</a> covers the lightweight end of the range.</p>
+<p>Good for cool-morning hikes where a full crew is too much sock. On genuinely hot days, though, even a quarter height is a compromise — <a href="/best-socks-for-summer/">What Are the Best Socks for Summer?</a> covers the lightweight end of the range.</p>
 <div class="spec">
 <div><b>Material:</b> 45% alpaca</div>
 <div><b>Cushion:</b> Medium</div>
@@ -121,7 +121,7 @@ The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the p
     </table>
 
 ## FAQ
-<details class="faq"><summary>Are alpaca socks warmer than merino?</summary><div class="a">Per gram, generally yes — alpaca fibres are hollow and trap more still air, and they absorb less water than sheep's wool. In practice, knit thickness matters as much as fibre: a heavy merino sock can out-warm a thin alpaca one. Compare both content and cushion. For the merino side of the story in full, see <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</div></details>
+<details class="faq"><summary>Are alpaca socks warmer than merino?</summary><div class="a">Per gram, generally yes — alpaca fibres are hollow and trap more still air, and they absorb less water than sheep's wool. In practice, knit thickness matters as much as fibre: a heavy merino sock can out-warm a thin alpaca one. Compare both content and cushion. For the merino side of the story in full, see <a href="/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</div></details>
 
 <details class="faq"><summary>How much alpaca should a sock contain?</summary><div class="a">Above 40% you get alpaca's characteristic warmth and odour behaviour. Blends around 33–35%, like the Paka Trail, trade some of that for durability and elasticity — a reasonable deal for hiking, less so if warmth is the whole point.</div></details>
 

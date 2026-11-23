@@ -13,7 +13,7 @@ description: "The best socks for Christmas gifts, matched to the person: a funny
 
 Socks are a good Christmas gift when the pair says something about the person. A funny pair for the friend who loves a joke, a warm slipper sock for the one who is always cold, a merino pair for the outdoorsy dad — the gift works because the design or the comfort matches the recipient, not because socks are practical.
 
-If you want the full framework for choosing any sock — height, cushion, fabric and fit — it is laid out in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/).
+If you want the full framework for choosing any sock — height, cushion, fabric and fit — it is laid out in [How to Choose the Right Socks](/how-to-choose-the-right-socks/).
 
 ## At a glance
 
@@ -76,7 +76,7 @@ If you want the full framework for choosing any sock — height, cushion, fabric
 <h3>Darn Tough Men's Number 2 Micro Crew</h3>
 <figure><img src="/img/picks/darn-tough-number-2.png" alt="Darn Tough Men&#x27;s Number 2 Micro Crew cushioned hiking sock in seafoam" /><figcaption>Photo: Darn Tough</figcaption></figure>
 <p>The quality pick of the list — real merino, a proper hiking cushion, and a lifetime guarantee; the “Number 2” name is itself a small joke for a dad gift.</p>
-<p>It is a micro crew rather than a full crew. Unconditionally guaranteed for life. For why merino handles sweat the way it does, see <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</p>
+<p>It is a micro crew rather than a full crew. Unconditionally guaranteed for life. For why merino handles sweat the way it does, see <a href="/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</p>
 <div class="spec">
 <div><b>Best for:</b> The outdoorsy dad, or anyone who hikes</div>
 <div><b>Material:</b> 63% merino wool, 35% nylon, 2% elastane</div>
@@ -152,7 +152,7 @@ Keep the cheeky lane out of work gifts entirely — profanity, alcohol and adult
       </tbody>
     </table>
 
-Choosing socks for yourself as well as for gifts? [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/) walks through height, cushion, fabric and fit step by step, and [What Are the Best Socks for Summer?](/posts/best-socks-for-summer/) covers the lightweight end of the range for when the weather turns.
+Choosing socks for yourself as well as for gifts? [How to Choose the Right Socks](/how-to-choose-the-right-socks/) walks through height, cushion, fabric and fit step by step, and [What Are the Best Socks for Summer?](/best-socks-for-summer/) covers the lightweight end of the range for when the weather turns.
 
 ## FAQ
 <details class="faq"><summary>Is socks a good gift for Christmas?</summary><div class="a">Yes, when the pair matches the person. A joke pair for a funny friend, a warm pair for someone who is always cold, a quality merino pair for someone outdoors. A plain, random pair says nothing, and that is the version people joke about.</div></details>
