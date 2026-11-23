@@ -15,6 +15,7 @@ export default function(eleventyConfig) {
       "best-heated-socks-for-hunting",
     ];
     const artifactOrder = [
+      "best-running-socks",
       "best-socks-for-christmas-gifts",
       "why-do-socks-make-your-feet-sweat",
       "crew-socks-vs-ankle-socks",
@@ -43,10 +44,11 @@ export default function(eleventyConfig) {
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long", day: "numeric" });
   });
   // Artifact date display: month-only ("November 2026") for every article
-  // except the Christmas gift guide, which shows its full date
-  // ("23 November 2026"). Display-only: underlying post dates are untouched.
+  // except the Christmas gift guide and the running guide, which show
+  // their full dates ("23 November 2026"). Display-only: underlying post
+  // dates are untouched.
   eleventyConfig.addFilter("displayDate", (date, slug) => {
-    if (slug === "best-socks-for-christmas-gifts") {
+    if (slug === "best-socks-for-christmas-gifts" || slug === "best-running-socks") {
       return "23 November 2026";
     }
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long" });

@@ -56,7 +56,7 @@ Fresh sweat is mostly water and nearly odourless. The smell arrives when bacteri
 
 ## What actually helps
 
-- **Change the fibre.** Switch absorbent cotton for merino or a performance synthetic matched to the season — start with [summer socks](/posts/best-socks-for-summer/) in warm weather and the hot-weather picks in our [work socks](/posts/best-work-socks/) and [work boots](/posts/best-socks-for-work-boots/) guides.
+- **Change the fibre.** Switch absorbent cotton for merino or a performance synthetic matched to the season — start with [summer socks](/posts/best-socks-for-summer/) in warm weather and the hot-weather picks in our [work socks](/posts/best-work-socks/) and [work boots](/posts/best-socks-for-work-boots/) guides. Runners can start with [Best Running Socks](/posts/best-running-socks/).
 - **Change the sock, midday.** On long or active days, a fresh pair at midday removes hours of accumulated moisture at once. It is the simplest effective habit there is; tournament players do it between matches, as noted in our [tennis guide](/posts/best-tennis-socks/).
 - **Rotate shoes and let everything dry.** Shoes need a day or more to dry fully between wears; alternating two pairs keeps both drier, and socks should be washed and fully dried before re-wearing — air-drying them, as in the photograph above, is the whole routine.
 - **Match sock weight to the weather.** If your feet sweat in “normal” socks, try a thinner knit before anything else.
