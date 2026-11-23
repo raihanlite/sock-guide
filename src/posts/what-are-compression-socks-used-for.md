@@ -74,6 +74,8 @@ A note on this page itself: it is general information about compression socks, n
       </tbody>
     </table>
 
+If you are buying for a 12-hour shift on your feet, the nurse-specific picks are in [Best Compression Socks for Nurses](/posts/best-compression-socks-for-nurses/).
+
 ## FAQ
 <details class="faq"><summary>What do compression socks actually do?</summary><div class="a">They apply graduated pressure — tightest at the ankle, easing off up the calf — which helps blood that has pooled in the leg veins return to the heart instead of sitting in the lower legs. That reduces swelling and the heavy, tired feeling that comes with it. They do not fix the veins themselves; they manage the symptoms while they are worn.</div></details>
 
