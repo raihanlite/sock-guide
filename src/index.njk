@@ -9,12 +9,14 @@ isHome: true
 <div class="hero">
 {% for p in collections.posts %}{% if p.fileSlug == "best-work-socks" %}
 {% set a = artifact.posts[p.fileSlug] %}
+  <a class="hero-link" href="{{ '/posts/best-work-socks/' | url }}">
   <figure><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></figure>
   <div>
     <p class="kicker">{{ artifact.heroKicker }}</p>
     <h1>{{ a.heroTitle or p.data.title }}</h1>
     <p class="excerpt">{{ a.heroExcerpt or p.data.description }}</p>
   </div>
+  </a>
 {% endif %}{% endfor %}
 </div>
 
