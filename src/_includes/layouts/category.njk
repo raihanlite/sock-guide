@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+---
+<h1 class="cat-title">{{ title }}</h1>
+<div class="cat-grid">
+{% for p in collections.posts %}{% if p.data.category == category %}
+  <article class="feature-card">
+    <a href="{{ p.url }}"><img src="/img/{{ p.data.image }}" alt="{{ p.data.imageAlt }}"></a>
+    <div class="label-box">
+      <p class="eyebrow">{{ p.data.category }}</p>
+      <h3><a href="{{ p.url }}">{{ p.data.title }}</a></h3>
+    </div>
+  </article>
+{% endif %}{% endfor %}
+</div>

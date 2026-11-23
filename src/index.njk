@@ -1,0 +1,81 @@
+---
+layout: layouts/base.njk
+title: Best Socks by Use — Work, Running, Heated & More
+description: Use-case-first roundups of the best socks for work boots, running, tennis, hunting and everyday wear.
+---
+{# Featured guide: Best Work Socks #}
+<section class="hero">
+{% for p in collections.posts %}{% if p.url == "/posts/best-work-socks/" %}
+  <a href="{{ p.url }}"><img src="/img/{{ p.data.image }}" alt="{{ p.data.imageAlt }}"></a>
+  <div>
+    <p class="eyebrow">{{ p.data.category }}</p>
+    <h1><a href="{{ p.url }}">{{ p.data.title }}</a></h1>
+    <p class="excerpt">{{ p.data.description }}</p>
+  </div>
+{% endif %}{% endfor %}
+</section>
+
+{# AdSense slot (leaderboard, after hero). Empty and hidden until a real publisher ID is added; no ad script loads. #}
+<div class="ad-slot" data-ad-slot="leaderboard" hidden aria-hidden="true"></div>
+
+{# Row of 3 cards #}
+<div class="card-row">
+{% for p in collections.posts %}{% if p.url == "/posts/best-socks-for-work-boots/" or p.url == "/posts/best-alpaca-socks/" or p.url == "/posts/best-heated-socks-for-hunting/" %}
+  <article class="feature-card">
+    <a href="{{ p.url }}"><img src="/img/{{ p.data.image }}" alt="{{ p.data.imageAlt }}"></a>
+    <div class="label-box">
+      <p class="eyebrow">{{ p.data.category }}</p>
+      <h3><a href="{{ p.url }}">{{ p.data.title }}</a></h3>
+    </div>
+  </article>
+{% endif %}{% endfor %}
+</div>
+
+{# Latest posts + sidebar #}
+<h2 class="section-title" id="latest">Latest Posts</h2>
+<div class="latest">
+  <div class="latest-list">
+  {% for p in collections.latestPosts %}
+    <article class="post-row"{% if loop.index > 3 %} style="display:none;" data-extra{% endif %}>
+      <a href="{{ p.url }}"><img src="/img/{{ p.data.image }}" alt="{{ p.data.imageAlt }}"></a>
+      <div>
+        <p class="eyebrow">{{ p.data.category }}</p>
+        <h3><a href="{{ p.url }}">{{ p.data.title }}</a></h3>
+        <p class="excerpt">{{ p.data.description }}</p>
+        <p class="meta">{{ p.date | readableDate }} · {{ p.data.category }}</p>
+      </div>
+    </article>
+  {% endfor %}
+    <div class="load-more-wrap"><button class="btn load-more" id="loadMoreBtn" type="button">Load More</button></div>
+  </div>
+  <aside>
+    <div class="sidebar-box">
+      <h3>Welcome to Sock Guide</h3>
+      <p>Sock Guide finds the right socks for each job — work, sport, cold weather, and everyday wear.</p>
+    </div>
+    {# AdSense slot (sidebar). Empty and hidden until a real publisher ID is added; no ad script loads. #}
+    <div class="ad-slot" data-ad-slot="sidebar" hidden aria-hidden="true"></div>
+    <div class="sidebar-box">
+      <h3>Subscribe to Newsletter</h3>
+      <p>Sign up for updates and never miss a post!</p>
+      <form class="newsletter-form" data-newsletter>
+        <label class="sr-only" for="sidebarEmail">Email</label>
+        <input type="email" id="sidebarEmail" name="email" placeholder="Email" required>
+        <button class="btn" type="submit">Subscribe Now</button>
+      </form>
+      <p class="form-note" hidden>Newsletter signup is not live yet — check back soon.</p>
+    </div>
+  </aside>
+</div>
+
+<script>
+(function () {
+  var btn = document.getElementById('loadMoreBtn');
+  if (!btn) return;
+  btn.addEventListener('click', function () {
+    document.querySelectorAll('[data-extra]').forEach(function (el) { el.style.display = ''; });
+    btn.style.display = 'none';
+  });
+  if (!document.querySelector('[data-extra]')) btn.style.display = 'none';
+})();
+</script>

@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+---
+<article class="post">
+<header class="post-head">
+<p class="eyebrow">{{ category }}</p>
+<h1>{{ title }}</h1>
+<p class="meta">Published {{ date | readableDate }} · {{ category }}</p>
+</header>
+{% if image %}<figure class="hero-img"><img src="/img/{{ image }}" alt="{{ imageAlt }}"><figcaption>Photo: {{ imageCredit }}</figcaption></figure>{% endif %}
+{# AdSense slot (in-article). Empty and hidden until a real publisher ID is added; no ad script loads. #}
+<div class="ad-slot" data-ad-slot="in-article" hidden aria-hidden="true"></div>
+<div class="post-body">
+{{ content | safe }}
+</div>
+</article>
