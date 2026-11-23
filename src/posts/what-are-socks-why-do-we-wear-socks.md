@@ -47,7 +47,7 @@ Knitting itself spread through the Middle East and Europe over the following cen
 
 In 1589 the English clergyman William Lee invented the stocking frame, the first knitting machine. It knitted far faster than a person could by hand and became the prototype for the machines of the Industrial Revolution, when socks went from a hand-made luxury to a mass-produced everyday item.
 
-Nylon arrived in 1938, giving socks enough stretch to stay up on their own — and making the sock garter, after centuries of service, obsolete.
+Nylon arrived in 1938, giving socks enough stretch to stay up on their own — and making the sock garter, after centuries of service, obsolete. The full story — from skins to nylon — is in [History of Socks](/posts/history-of-socks/).
 
 ## The main types of socks
 
