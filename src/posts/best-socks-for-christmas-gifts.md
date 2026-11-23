@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Socks for Christmas Gifts"
 date: 2026-11-23
-category: Guides
+category: Christmas & Gifts
 image: "artifact/img-05.jpg"
 imageAlt: "Christmas stockings hung on a mantel above a glowing fireplace"
 imageCredit: "Lindsey Turner, CC BY 2.0, via Wikimedia Commons"

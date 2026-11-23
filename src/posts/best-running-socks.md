@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Running Socks"
 date: 2026-11-23
-category: Sports
+category: Sports & Outdoor
 image: "artifact/img-43.jpg"
 imageAlt: "Runners' feet in running shoes mid-stride during a road race"
 imageCredit: "Pexels"

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Tennis Socks: Cushion for the Court, Grip in the Shoe"
 date: 2026-11-17
-category: Sports
+category: Sports & Outdoor
 image: "artifact/img-11.jpg"
 imageAlt: "A pair of Wilson tennis shoes, one magenta and one black"
 tags: posts

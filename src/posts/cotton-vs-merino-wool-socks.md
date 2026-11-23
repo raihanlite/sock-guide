@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Cotton vs Merino Wool Socks"
 date: 2026-11-19
-category: Guides
+category: Learn About Socks
 image: "artifact/img-09.jpg"
 imageAlt: "A pair of plain black cotton crew socks on a white background"
 imageCredit: "W.carter, via Wikimedia Commons (CC BY-SA 4.0)"

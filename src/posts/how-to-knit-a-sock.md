@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Knit a Sock"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-76.jpg"
 imageAlt: "Close-up of hands knitting with red yarn"
 imageCredit: "Ksenia Chernaya, via Pexels"

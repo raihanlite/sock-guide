@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Alpaca Socks: Alpaca Content Is the Number That Matters"
 date: 2026-11-14
-category: Sports
+category: Sports & Outdoor
 image: "artifact/img-03.jpg"
 imageAlt: "Thick hand-knitted wool socks in warm colours"
 tags: posts

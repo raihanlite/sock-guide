@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Basketball Socks"
 date: 2026-11-23
-category: Sports
+category: Sports & Outdoor
 image: "artifact/img-100.jpg"
 imageAlt: "Basketball players during an indoor training session on a wooden court"
 imageCredit: "Jose Ricardo Barraza Morachis, via Pexels"

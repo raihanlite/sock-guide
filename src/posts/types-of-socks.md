@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Types of Socks"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-51.jpg"
 imageAlt: "A row of mannequin legs wearing striped socks in different colours and lengths"
 imageCredit: "Jan van der Wolf, via Pexels"

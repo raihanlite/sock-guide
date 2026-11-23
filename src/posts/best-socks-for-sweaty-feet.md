@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Socks for Sweaty Feet"
 date: 2026-11-23
-category: Sports
+category: Everyday
 image: "artifact/img-52.jpg"
 imageAlt: "Close-up of a hiker's feet in boots on moss-covered rocks"
 imageCredit: "Darina Belonogova, via Pexels"

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Socks for Men"
 date: 2026-11-23
-category: Buying Guides
+category: Everyday
 image: "artifact/img-78.jpg"
 imageAlt: "A man putting on brown dress socks before wearing his leather shoes"
 imageCredit: "Pexels"

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Take Care of Socks"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-58.jpg"
 imageAlt: "Colourful socks drying on a clothesline indoors"
 imageCredit: "wal_ 172619, via Pexels"

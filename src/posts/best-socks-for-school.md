@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Socks for School"
 date: 2026-11-23
-category: Buying Guides
+category: Everyday
 image: "artifact/img-106.jpg"
 imageAlt: "A child walking down a street with a vibrant backpack on the way to school"
 imageCredit: "Sergei Starostin, via Pexels"

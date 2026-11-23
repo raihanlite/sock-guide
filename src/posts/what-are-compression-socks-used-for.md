@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "What Are Compression Socks Used For?"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-74.jpg"
 imageAlt: "An orthotic technician measuring a patient's leg for a custom-fitted garment in a healthcare setting"
 imageCredit: "ThisIsEngineering, via Pexels"

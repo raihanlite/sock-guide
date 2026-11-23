@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Choose the Right Socks"
 date: 2026-11-21
-category: Guides
+category: Learn About Socks
 image: "artifact/img-08.jpg"
 imageAlt: "A sock kiosk in a shopping mall, with colourful socks of many heights and styles hanging on display"
 imageCredit: "Michael Rivera, via Wikimedia Commons (CC BY-SA 4.0)"

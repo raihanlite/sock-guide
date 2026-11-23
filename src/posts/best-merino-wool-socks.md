@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Merino Wool Socks"
 date: 2026-11-23
-category: Buying Guides
+category: Everyday
 image: "artifact/img-59.jpg"
 imageAlt: "Warm knitted striped wool socks on a sunlit wooden floor"
 imageCredit: "Lum3n, via Pexels"

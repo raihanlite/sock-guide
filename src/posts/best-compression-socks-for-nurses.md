@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Compression Socks for Nurses"
 date: 2026-11-23
-category: Guides
+category: Work
 image: "artifact/img-113.jpg"
 imageAlt: "Two nurses in blue scrubs talking at a hospital nurses' station"
 imageCredit: "RDNE Stock project, via Pexels"

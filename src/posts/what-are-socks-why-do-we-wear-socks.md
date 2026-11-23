@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "What Are Socks? Why Do We Wear Socks?"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-50.jpg"
 imageAlt: "Neatly arranged woollen socks in a basket on a yellow surface"
 imageCredit: "Ron Lach, via Pexels"

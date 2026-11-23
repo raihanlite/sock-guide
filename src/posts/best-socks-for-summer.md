@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "What Are the Best Socks for Summer?"
 date: 2026-11-18
-category: Guides
+category: Everyday
 image: "artifact/img-10.jpg"
 imageAlt: "A low-cut summer sock with a green knitted cuff worn on a foot"
 imageCredit: "Lisa Risager, via Wikimedia Commons (CC BY-SA 2.0)"

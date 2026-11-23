@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Socks for Women"
 date: 2026-11-23
-category: Buying Guides
+category: Everyday
 image: "artifact/img-82.jpg"
 imageAlt: "Two friends lounging on a bed wearing colourful rainbow striped socks"
 imageCredit: "SHVETS production, via Pexels"

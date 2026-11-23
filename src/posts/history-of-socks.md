@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "History of Socks"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-66.jpg"
 imageAlt: "A pair of black wool knit stockings from 1910, photographed at the Missouri History Museum"
 imageCredit: "Missouri History Museum, via Wikimedia Commons"

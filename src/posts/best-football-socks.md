@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Football Socks"
 date: 2026-11-23
-category: Sports
+category: Sports & Outdoor
 image: "artifact/img-93.jpg"
 imageAlt: "Close-up of a soccer player's foot kicking a ball on a sunny field"
 imageCredit: "Mytho Digital, via Pexels"

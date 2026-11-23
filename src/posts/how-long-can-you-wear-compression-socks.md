@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How Long Can You Wear Compression Socks?"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-75.jpg"
 imageAlt: "Close-up of a person adjusting a grey athletic sock"
 imageCredit: "Willians Huerta, via Pexels"

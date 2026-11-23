@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Why Do Socks Make Your Feet Sweat?"
 date: 2026-11-22
-category: Guides
+category: Learn About Socks
 image: "artifact/img-06.jpg"
 imageAlt: "Socks and shoes hanging on a line outdoors to dry beside a lake"
 imageCredit: "Vsatinet, via Wikimedia Commons (CC BY-SA 4.0)"

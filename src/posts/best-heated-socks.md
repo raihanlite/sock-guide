@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Heated Socks"
 date: 2026-11-23
-category: Buying Guides
+category: Heated
 image: "artifact/img-67.jpg"
 imageAlt: "Winter boots with wool socks in fresh snow"
 imageCredit: "Eva Bronzini, via Pexels"

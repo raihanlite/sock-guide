@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How Socks Are Made"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-73.jpg"
 imageAlt: "A yarn production line inside a textile factory, with rows of automated machinery"
 imageCredit: "RAJESH KUMAR VERMA, via Pexels"

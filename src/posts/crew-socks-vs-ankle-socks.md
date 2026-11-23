@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Crew Socks vs Ankle Socks"
 date: 2026-11-20
-category: Guides
+category: Learn About Socks
 image: "artifact/img-07.jpg"
 imageAlt: "White crew socks with a checkerboard pattern worn with slip-on shoes"
 imageCredit: "Downtowngal, via Wikimedia Commons (CC BY-SA 4.0)"

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Best Everyday Socks"
 date: 2026-11-23
-category: Buying Guides
+category: Everyday
 image: "artifact/img-89.jpg"
 imageAlt: "Two people lying side by side wearing white crew socks with rainbow stripes"
 imageCredit: "Pexels"

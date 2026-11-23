@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Sock Fabrics"
 date: 2026-11-23
-category: Guides
+category: Learn About Socks
 image: "artifact/img-77.jpg"
 imageAlt: "A variety of colourful yarns in a woven basket"
 imageCredit: "Sami Aksu, via Pexels"
