@@ -92,7 +92,7 @@ Knowing the process gives you four quick checks in a shop. First, the toe: run a
 
 <details class="faq"><summary>How long does it take to make one sock?</summary><div class="a">The knitting itself is fast: a basic sock tube takes 20 to 40 seconds on a fast circular machine, and a complex patterned sock takes several minutes. But knitting is only one step — with washing, boarding, inspection and packing, a factory run from yarn to boxed pair takes a few hours of active production.</div></details>
 
-<details class="faq"><summary>Are handmade socks made differently?</summary><div class="a">Yes. A hand-knitted sock is built stitch by stitch on needles, shaped by hand as it grows — the knitter forms the heel and closes the toe as part of the knitting, with no separate toe-closing machine and no steam boarding. It is far slower than factory production, which is why hand-knitted socks cost more, but the result is the same object: a shaped tube with a heel pocket and a closed toe.</div></details>
+<details class="faq"><summary>Are handmade socks made differently?</summary><div class="a">Yes. A <a href="/posts/how-to-knit-a-sock/">hand-knitted sock</a> is built stitch by stitch on needles, shaped by hand as it grows — the knitter forms the heel and closes the toe as part of the knitting, with no separate toe-closing machine and no steam boarding. It is far slower than factory production, which is why hand-knitted socks cost more, but the result is the same object: a shaped tube with a heel pocket and a closed toe.</div></details>
 
 ## Sources
 
