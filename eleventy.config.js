@@ -4,6 +4,9 @@ export default function(eleventyConfig) {
   // Latest Posts: all posts newest-first, excluding the 4 featured on the
   // homepage (hero + 3 cards) so they do not repeat in the list.
   // Compare fileSlug, not url: page.url already includes the pathPrefix.
+  // Several guides share one publish month and the artifact's order is
+  // not date order (see below), so the artifact's order is applied
+  // explicitly to keep Latest Posts identical to the artifact.
   eleventyConfig.addCollection("latestPosts", (collectionApi) => {
     const featured = [
       "best-work-socks",
@@ -11,10 +14,42 @@ export default function(eleventyConfig) {
       "best-alpaca-socks",
       "best-heated-socks-for-hunting",
     ];
-    return collectionApi.getFilteredByTag("posts").filter((p) => !featured.includes(p.fileSlug)).reverse();
+    const artifactOrder = [
+      "best-socks-for-christmas-gifts",
+      "why-do-socks-make-your-feet-sweat",
+      "crew-socks-vs-ankle-socks",
+      "how-to-choose-the-right-socks",
+      "cotton-vs-merino-wool-socks",
+      "best-socks-for-summer",
+      "best-tennis-socks",
+    ];
+    // The artifact's Latest Posts order is authoritative: it is not
+    // derivable from dates alone (in the artifact Crew Socks vs Ankle
+    // Socks precedes How to Choose the Right Socks, although its publish
+    // date is earlier), so posts listed here keep exactly that order.
+    // Anything not listed falls back to newest-first by date.
+    return collectionApi.getFilteredByTag("posts")
+      .filter((p) => !featured.includes(p.fileSlug))
+      .sort((a, b) => {
+        const ia = artifactOrder.indexOf(a.fileSlug);
+        const ib = artifactOrder.indexOf(b.fileSlug);
+        if (ia !== -1 && ib !== -1) return ia - ib;
+        const byDate = b.date - a.date;
+        if (byDate !== 0) return byDate;
+        return ia === -1 ? 1 : -1;
+      });
   });
   eleventyConfig.addFilter("readableDate", (date) => {
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long", day: "numeric" });
+  });
+  // Artifact date display: month-only ("November 2026") for every article
+  // except the Christmas gift guide, which shows its full date
+  // ("23 November 2026"). Display-only: underlying post dates are untouched.
+  eleventyConfig.addFilter("displayDate", (date, slug) => {
+    if (slug === "best-socks-for-christmas-gifts") {
+      return "23 November 2026";
+    }
+    return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long" });
   });
   // Safety net for root-relative URLs written directly in post bodies
   // (raw <img> tags in Markdown): prefix them with the pathPrefix so they

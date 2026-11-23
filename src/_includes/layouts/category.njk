@@ -3,13 +3,27 @@ layout: layouts/base.njk
 ---
 <h1 class="cat-title">{{ title }}</h1>
 <div class="cat-grid">
-{% for p in collections.posts %}{% if p.data.category == category %}
-  <article class="feature-card">
-    <a href="{{ p.url }}"><img src="{{ ('/img/' ~ p.data.image) | url }}" alt="{{ p.data.imageAlt }}"></a>
+{# Category membership is an explicit slug list (artifact order) so pages
+   can group posts across frontmatter categories — e.g. Sports lists the
+   alpaca, heated and tennis guides, as in the artifact. Falls back to the
+   frontmatter `category` filter when no `slugs` list is given. Titles,
+   labels, images and search keywords come from the artifact overrides. #}
+{% set catPosts = [] %}
+{% if slugs %}
+{% for slug in slugs %}
+{% for p in collections.posts %}{% if p.fileSlug == slug %}{% set catPosts = catPosts.concat([p]) %}{% endif %}{% endfor %}
+{% endfor %}
+{% else %}
+{% for p in collections.posts %}{% if p.data.category == category %}{% set catPosts = catPosts.concat([p]) %}{% endif %}{% endfor %}
+{% endif %}
+{% for p in catPosts %}
+{% set a = artifact.posts[p.fileSlug] %}
+  <article class="feature-card"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
+    <a href="{{ p.url }}"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></a>
     <div class="label-box">
-      <p class="eyebrow">{{ p.data.category }}</p>
-      <h3><a href="{{ p.url }}">{{ p.data.title }}</a></h3>
+      <p class="eyebrow">{{ a.label or p.data.category }}</p>
+      <h3><a href="{{ p.url }}">{{ a.cardTitle or p.data.title }}</a></h3>
     </div>
   </article>
-{% endif %}{% endfor %}
+{% endfor %}
 </div>

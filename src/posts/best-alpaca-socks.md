@@ -1,87 +1,88 @@
 ---
 layout: layouts/post.njk
-title: Best Alpaca Socks (2026) — Soft, Warm & Worth the Price?
-description: The best alpaca socks for hiking and running, compared by alpaca content, cushion and price — Paka, Hollow, Karu, Warrior and Clohill.
-date: 2026-11-22
-category: Everyday
-image: hero-wool-socks.jpg
-imageAlt: Folded wool socks in navy, grey and brown
-imageCredit: “40+51 Wool Socks” by bark, CC BY, via Openverse/Flickr.
+title: "Best Alpaca Socks: Alpaca Content Is the Number That Matters"
+date: 2026-11-14
+category: Sports
+image: "artifact/img-03.jpg"
+imageAlt: "Thick hand-knitted wool socks in warm colours"
 tags: posts
+docTitle: "Best Alpaca Socks (2026): Alpaca Content Compared — Sock Guide"
+description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 46%, Karu 45%, Warrior 41%, Alpacas of Montana 35%, Paka Trail 33%. Prices as reported by Adventure Alan, Jul 2026."
 ---
-## Short answer
-Alpaca socks are softer and warmer than merino at the same weight, and they resist odour well — but they cost more, and alpaca content varies wildly (18–70% in the models below). The best value in the guides we read is **Clohill** (70% alpaca, about $18); the softest premium picks are **Karu** and **Warrior**.
-
-## How to choose alpaca socks
-- **Alpaca content matters most:** a sock labelled “alpaca” can be 33% alpaca. Above 40% is genuinely warm; above 60% is very warm.
-- **Cushion:** thin for running and warm weather, medium for hiking, thick for cold and standing still.
-- **Fit:** alpaca has less stretch than merino blends, so size up if you are between sizes (several reviewers note this).
-- **Care:** wash cold, air dry — heat damages alpaca fibre.
 
 ## The picks
 
 <div class="pick">
 <h3>1. Clohill Alpaca Socks — Best value</h3>
-<p><strong>Best for:</strong> first-time alpaca buyers. <strong>Alpaca content:</strong> 70% (per Adventure Alan's comparison table). <strong>Cushion:</strong> medium. <strong>Price as reported:</strong> about $18 a pair (Adventure Alan, Jul 2026); Clohill's own range is $14.99–$44.99, down to about $9 a pair in bundles. Lifetime warranty.</p>
-
-<p class="buy-links"><a class="btn" href="https://www.clohill.com/products/crew-socks-8-pack" target="_blank" rel="nofollow noopener">Official site</a></p>
+<img class="pick-img" src="/img/artifact/img-19.jpg" alt="Clohill men&#x27;s alpaca crew socks in navy, worn" loading="lazy">
+<p class="pick-credit">Photo: Clohill</p>
+<p><strong>Material:</strong> 70% alpaca <strong>Cushion:</strong> Medium <strong>Best for:</strong> Best value; everyday cold-weather wear <strong>Price:</strong> ~$18 (Adventure Alan, Jul 2026)</p>
+<p>The standout on paper: 70% alpaca — the highest content in this guide — at the lowest price. A soft, warm everyday and boot sock for people who want alpaca's benefits without boutique pricing.</p>
+<p class="buy-links"><a class="btn" href="https://www.clohill.com/products/mens-crew-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
 </div>
 
 <div class="pick">
-<h3>2. Paka Trail Socks — Best light cushion</h3>
-<img class="pick-img" src="/img/picks/paka-trail.jpg" alt="Paka Trail 3/4 Crew alpaca socks" loading="lazy">
-<p class="pick-credit">Photo: Paka</p>
-<p><strong>Best for:</strong> hiking and running in mild weather. <strong>Alpaca content:</strong> 33%. <strong>Cushion:</strong> thin. <strong>Price as reported:</strong> about $24 (Adventure Alan, Jul 2026); Paka averages about $25 a pair with around 40% alpaca across its range.</p>
-
+<h3>2. Paka Trail — Best for the trail</h3>
+<img class="pick-img" src="/img/artifact/img-20.webp" alt="PAKA Trail 3/4 Crew alpaca socks in grey, worn while putting on a hiking shoe" loading="lazy">
+<p class="pick-credit">Photo: PAKA</p>
+<p><strong>Material:</strong> 33% alpaca blend <strong>Cushion:</strong> Medium, targeted <strong>Best for:</strong> Hiking and trail use <strong>Price:</strong> ~$24 (Adventure Alan, Jul 2026)</p>
+<p>A 33% alpaca performance blend built for hiking — the synthetics in the knit add the abrasion resistance and spring that pure alpaca lacks. The pick if your alpaca socks will actually see trail miles.</p>
 <p class="buy-links"><a class="btn" href="https://www.pakaapparel.com/products/trail-3-4-crew-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
 </div>
 
 <div class="pick">
-<h3>3. Hollow Alpaca Socks — Best premium</h3>
-<p><strong>Best for:</strong> softness and warmth-to-weight. <strong>Alpaca content:</strong> 46% (over 40% Peruvian baby alpaca, per Clohill's brand comparison). <strong>Cushion:</strong> thin. <strong>Price as reported:</strong> about $27 (Adventure Alan); Hollow's range is $29.99–$59.99 a pair.</p>
-
-<p class="buy-links"><a class="btn" href="https://www.amazon.com/dp/B0CHLMG3QC" target="_blank" rel="nofollow noopener">Amazon</a><a class="btn" href="https://hollowsocks.com/products/crew-performance-alpaca-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
+<h3>3. Hollow Alpaca Socks — Premium warmth</h3>
+<img class="pick-img" src="/img/artifact/img-21.webp" alt="Hollow ankle performance alpaca sock in black" loading="lazy">
+<p class="pick-credit">Photo: Hollow</p>
+<p><strong>Material:</strong> 46% alpaca <strong>Cushion:</strong> Medium–full <strong>Best for:</strong> Cold weather, boots, winter everyday <strong>Price:</strong> ~$27 (Adventure Alan, Jul 2026)</p>
+<p>At 46% alpaca, Hollow sits in the sweet spot: enough alpaca for serious warmth and odour resistance, enough supporting fibre to hold shape. A favourite in outdoor round-ups for cold-weather wear.</p>
+<p class="buy-links"><a class="btn" href="https://hollowsocks.com/products/ankle-performance-alpaca-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
 </div>
 
 <div class="pick">
-<h3>4. Karu Alpaca Quarter Socks — Softest</h3>
-<p><strong>Best for:</strong> maximum softness. <strong>Alpaca content:</strong> 45%. <strong>Cushion:</strong> medium. <strong>Price as reported:</strong> about $30 (Adventure Alan, Jul 2026).</p>
-
-<p class="buy-links"><a class="btn" href="https://karusocks.com/products/alpaca-wool-quarter-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
+<h3>4. Karu Quarter — Best quarter height</h3>
+<img class="pick-img" src="/img/artifact/img-22.webp" alt="Karu alpaca wool quarter socks in black, worn on a pebble beach" loading="lazy">
+<p class="pick-credit">Photo: Karu</p>
+<p><strong>Material:</strong> 45% alpaca <strong>Cushion:</strong> Medium <strong>Best for:</strong> Quarter-height trail and everyday wear <strong>Price:</strong> ~$30 (Adventure Alan, Jul 2026)</p>
+<p>45% alpaca in a quarter height — the warmest option here that still pairs naturally with trail runners and low boots. Good for cool-morning hikes where a full crew is too much sock. On genuinely hot days, though, even a quarter height is a compromise — <a href="/posts/best-socks-for-summer/">What Are the Best Socks for Summer?</a> covers the lightweight end of the range.</p>
+<p class="buy-links"><a class="btn" href="https://karusocks.com/products/alpaca-wool-quarter-socks?color=Black&amp;quantity=3&amp;size=S" target="_blank" rel="nofollow noopener">Official site</a></p>
 </div>
 
 <div class="pick">
-<h3>5. Warrior High Performance Alpaca Cross Trainers — Best high cushion</h3>
-<img class="pick-img" src="/img/picks/warrior-crew.jpg" alt="Warrior Alpaca Cross Trainer Crew socks" loading="lazy">
+<h3>5. Warrior Cross Trainers — Best for training</h3>
+<img class="pick-img" src="/img/artifact/img-23.webp" alt="Warrior cushioned cross trainer alpaca crew socks in grey with charcoal heel and toe" loading="lazy">
 <p class="pick-credit">Photo: Warrior Alpaca Socks</p>
-<p><strong>Best for:</strong> cold weather and heavy use. <strong>Alpaca content:</strong> 41%. <strong>Cushion:</strong> thick. <strong>Price as reported:</strong> about $23 (Adventure Alan, Jul 2026).</p>
-
+<p><strong>Material:</strong> 41% alpaca <strong>Cushion:</strong> Light–medium, athletic <strong>Best for:</strong> Training, gym, active everyday <strong>Price:</strong> ~$23 (Adventure Alan, Jul 2026)</p>
+<p>41% alpaca in an athletic cut. Alpaca's odour resistance earns its keep in gym and training rotation, where socks get washed hardest and smell fastest.</p>
 <p class="buy-links"><a class="btn" href="https://www.warrioralpacasocks.com/cushioned-cross-trainer-high-performance-athletic-crew-socks/" target="_blank" rel="nofollow noopener">Official site</a></p>
 </div>
 
 <div class="pick">
-<h3>6. Alpacas of Montana — Super soft everyday pick</h3>
-<img class="pick-img" src="/img/picks/alpacas-montana-adventure.png" alt="Alpacas of Montana Adventure alpaca socks" loading="lazy">
+<h3>6. Alpacas of Montana — Small-maker pick</h3>
+<img class="pick-img" src="/img/artifact/img-24.jpg" alt="Alpacas of Montana Terrain Performance alpaca socks in charcoal with blue heel, toe and sole" loading="lazy">
 <p class="pick-credit">Photo: Alpacas of Montana</p>
-<p><strong>Best for:</strong> everyday warmth. <strong>Alpaca content:</strong> 35%. <strong>Cushion:</strong> medium. <strong>Price as reported:</strong> about $27 (Adventure Alan, Jul 2026).</p>
-
-<p class="buy-links"><a class="btn" href="https://alpacasofmontana.com/products/adventure-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
+<p><strong>Material:</strong> 35% alpaca <strong>Cushion:</strong> Medium <strong>Best for:</strong> Everyday and boot wear, buying from the source <strong>Price:</strong> ~$27 (Adventure Alan, Jul 2026)</p>
+<p>35% alpaca from a US ranch brand that raises its own animals. The blend leans on supporting fibres for durability — a practical, farm-direct option rather than a maximum-content one.</p>
+<p class="buy-links"><a class="btn" href="https://alpacasofmontana.com/collections/performance-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
 </div>
 
 ## Comparison table
-| Sock | Alpaca content | Cushion | Price as reported (Nov 2026) |
-|---|---|---|---|
-| Clohill | 70% | Medium | ~$18 |
-| Paka Trail | 33% | Thin | ~$24 |
-| Hollow | 46% | Thin | ~$27 |
-| Karu Quarter | 45% | Medium | ~$30 |
-| Warrior Cross Trainers | 41% | Thick | ~$23 |
-| Alpacas of Montana | 35% | Medium | ~$27 |
+
+| Sock | Alpaca content | Cushion | Best for | Price (Adventure Alan, Jul 2026) |
+| --- | --- | --- | --- | --- |
+| Clohill | 70% | Medium | Best value | ~$18 |
+| Paka Trail | 33% | Medium, targeted | Hiking / trail | ~$24 |
+| Hollow | 46% | Medium–full | Premium warmth | ~$27 |
+| Karu Quarter | 45% | Medium | Quarter height | ~$30 |
+| Warrior Cross Trainers | 41% | Light–medium | Training | ~$23 |
+| Alpacas of Montana | 35% | Medium | Farm-direct everyday | ~$27 |
 
 ## FAQ
-**Are alpaca socks warmer than merino?** Yes, gram for gram — alpaca fibre is hollow, so it traps more air. That is why a thin alpaca sock can feel warmer than a medium merino one.
-**Are alpaca socks itchy?** Much less than sheep's wool for most people — alpaca has no lanolin and a smoother fibre. Sensitive skin usually tolerates it well.
-**Do alpaca socks last?** Pure alpaca wears faster than blends; look for nylon reinforcement in the heel and toe, and wash cold.
-**Sources:** Adventure Alan, “Best Alpaca Socks For Hiking & Running 2026”, updated Jul 2026; Clohill, “Top 3 Alpaca Sock Brands in 2026”.
 
-Learn more: [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/) · [What Are the Best Socks for Summer?](/posts/best-socks-for-summer/)
+**Are alpaca socks warmer than merino?** Per gram, generally yes — alpaca fibres are hollow and trap more still air, and they absorb less water than sheep's wool. In practice, knit thickness matters as much as fibre: a heavy merino sock can out-warm a thin alpaca one. Compare both content and cushion. For the merino side of the story in full, see [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/).
+
+**How much alpaca should a sock contain?** Above 40% you get alpaca's characteristic warmth and odour behaviour. Blends around 33–35%, like the Paka Trail, trade some of that for durability and elasticity — a reasonable deal for hiking, less so if warmth is the whole point.
+
+**Do alpaca socks last?** Alpaca fibre itself is strong, but it lacks crimp and elasticity, so socks need nylon or wool in the blend to hold shape and resist heel wear. That is why every serious pick here is a blend, and why a very high percentage is best for lower-impact wear.
+
+**How do I wash alpaca socks?** Cool machine wash or hand wash, inside out, and dry flat or on a line. Skip the tumble dryer — heat and tumbling are what shrink and felt natural-fibre socks.

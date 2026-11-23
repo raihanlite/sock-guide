@@ -5,21 +5,35 @@ description: How to report an error in a guide, suggest a sock or a topic, or as
 ---
 # Contact Sock Guide
 
-Sock Guide is a small independent site. The fastest way to help it improve is to report mistakes — a wrong material, a discontinued model, a price that has moved a long way — so the guide can be corrected.
+Questions, corrections and guide suggestions are welcome.
 
-## Reporting an error
-When you report an error, please include:
-- the title of the guide (for example, “Best Work Socks”),
-- the product name,
-- what is wrong, and where you saw the correct information.
+Spotted a wrong price or a changed specification? Have a sock question no guide here answers yet, or a category you would like us to cover next? Write to us — reader corrections are how these guides stay accurate.
 
-Corrections are checked against the cited sources before a guide is changed. If a correction changes a recommendation, the guide is updated and the change is noted in the guide itself.
+Email: [hello@sockguide.com](mailto:hello@sockguide.com)
 
-## Suggesting a sock or a topic
-Suggestions for new guides are welcome — especially for uses the site does not cover yet, such as compression socks, hiking socks and dress socks for sweaty feet. A suggestion does not guarantee a guide: every guide still needs at least two published sources to cross-check against.
+Or use the form below — it opens your email app with your message addressed and ready to send.
 
-## Advertising
-Sock Guide currently runs no advertisements and has no sponsored content. Advertising enquiries will be considered once the site is established; any paid placement, if accepted, will be clearly labelled as advertising and will never change which products a guide recommends.
+<form class="contact-form" id="contactForm" action="mailto:hello@sockguide.com?subject=Sock%20Guide%20%E2%80%94%20message%20from%20the%20Contact%20page" method="post" enctype="text/plain">
+<label for="cfName">Your name</label>
+<input type="text" id="cfName" name="name">
+<label for="cfEmail">Your email</label>
+<input type="email" id="cfEmail" name="email">
+<label for="cfMessage">Message</label>
+<textarea id="cfMessage" name="message"></textarea>
+<button class="btn" type="submit">Send message</button>
+</form>
 
-## Contact details
-A contact email address will be published on this page when the site launches on its own domain. Until then, please send corrections and suggestions to the site owner through the channel where you found this site.
+<p class="form-note" hidden>Your email app should now open with your message ready — just press send there.</p>
+
+<script>
+document.getElementById('contactForm').addEventListener('submit', function (e) {
+  e.preventDefault();
+  var name = document.getElementById('cfName').value.trim();
+  var email = document.getElementById('cfEmail').value.trim();
+  var message = document.getElementById('cfMessage').value.trim();
+  var body = 'Name: ' + name + '\nEmail: ' + email + '\n\nMessage:\n' + message;
+  window.location.href = 'mailto:hello@sockguide.com?subject=' + encodeURIComponent('Sock Guide — message from the Contact page') + '&body=' + encodeURIComponent(body);
+  var note = document.querySelector('.form-note');
+  if (note) note.hidden = false;
+});
+</script>
