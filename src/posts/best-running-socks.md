@@ -17,7 +17,7 @@ description: "Six running socks for daily miles, racing and blister-prone feet �
 <span class="badge">Best overall</span>
 <h3>Darn Tough Run No Show Tab Ultra-Lightweight</h3>
 <figure><img src="/img/artifact/img-44.webp" alt="Darn Tough Run No Show Tab Ultra-Lightweight running sock in black" /><figcaption>Photo: Darn Tough</figcaption></figure>
-<p>The merino all-rounder for daily training up to marathon distance, and a comfortable fit on wide feet. The merino blend manages sweat and odour across long miles — the fibre-by-fibre comparison is in <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>. Made in Vermont, USA, and backed by Darn Tough's unconditional lifetime guarantee: if they wear out, the company replaces them.</p>
+<p>The merino all-rounder for daily training up to marathon distance, and a comfortable fit on wide feet. The merino blend manages sweat and odour across long miles — the fibre-by-fibre comparison is in <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>. Made in Vermont, USA, and backed by Darn Tough's unconditional lifetime guarantee: if they wear out, the company replaces them. Footballers who need grip inside the boot rather than blister protection should look at <a href="/posts/best-football-socks/">Best Football Socks</a> instead.</p>
 <div class="spec">
 <div><b>Material:</b> 48% merino wool / 48% nylon / 4% Lycra spandex (men's; women's blend is 40% merino / 56% nylon / 4% elastane — percentages vary slightly by colourway)</div>
 <div><b>Cushion:</b> Cushion, ultra-lightweight</div>

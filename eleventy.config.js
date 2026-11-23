@@ -18,6 +18,7 @@ export default function(eleventyConfig) {
       "best-heated-socks-for-hunting",
     ];
     const artifactOrder = [
+      "best-football-socks",
       "best-everyday-socks",
       "best-socks-for-women",
       "best-socks-for-men",
@@ -69,7 +70,7 @@ export default function(eleventyConfig) {
   // their full dates ("23 November 2026"). Display-only: underlying post
   // dates are untouched.
   eleventyConfig.addFilter("displayDate", (date, slug) => {
-    if (slug === "best-socks-for-christmas-gifts" || slug === "best-running-socks" || slug === "what-are-socks-why-do-we-wear-socks" || slug === "types-of-socks" || slug === "best-socks-for-sweaty-feet" || slug === "how-to-take-care-of-socks" || slug === "best-merino-wool-socks" || slug === "history-of-socks" || slug === "best-heated-socks" || slug === "how-socks-are-made" || slug === "what-are-compression-socks-used-for" || slug === "how-long-can-you-wear-compression-socks" || slug === "how-to-knit-a-sock" || slug === "sock-fabrics" || slug === "best-socks-for-men" || slug === "best-socks-for-women" || slug === "best-everyday-socks") {
+    if (slug === "best-socks-for-christmas-gifts" || slug === "best-running-socks" || slug === "what-are-socks-why-do-we-wear-socks" || slug === "types-of-socks" || slug === "best-socks-for-sweaty-feet" || slug === "how-to-take-care-of-socks" || slug === "best-merino-wool-socks" || slug === "history-of-socks" || slug === "best-heated-socks" || slug === "how-socks-are-made" || slug === "what-are-compression-socks-used-for" || slug === "how-long-can-you-wear-compression-socks" || slug === "how-to-knit-a-sock" || slug === "sock-fabrics" || slug === "best-socks-for-men" || slug === "best-socks-for-women" || slug === "best-everyday-socks" || slug === "best-football-socks") {
       return "23 November 2026";
     }
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long" });
