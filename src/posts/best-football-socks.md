@@ -77,14 +77,14 @@ The short version: TRUsox for the strongest grip, Nike's new VaporFast for Nike 
 <span class="badge">Best match sock</span>
 <h3>Nike Academy Over-the-Calf Soccer Socks</h3>
 <figure><img src="/img/artifact/img-98.jpg" alt="Nike Academy Over-the-Calf Soccer Socks in black" /><figcaption>Photo: Nike</figcaption></figure>
-<p>The standard match sock — the long sock that holds a shin pad and completes the kit. Dri-FIT fabric pulls sweat away, the arch band holds the sock in place, the heel and toe are reinforced where boots wear through first, and each sock is shaped for its own foot: left and right are different, so the arch support lands where it should. It has no grip pads, and that is by design: on match day most players wear a grip sock on the foot and cut the Academy sock at the ankle, so the grip sock does the gripping and the Academy does the shin-pad and kit job. It comes in kids' sizes too, which is why it is the usual first match sock for youth teams. The full cut-sock setup is explained in the FAQ below.</p>
+<p>The standard match sock — the long sock that holds a shin pad and completes the kit. Dri-FIT fabric pulls sweat away, the arch band holds the sock in place, the heel and toe are reinforced where boots wear through first, and each sock is shaped for its own foot: left and right are different, so the arch support lands where it should. It has no grip pads, and that is by design: on match day most players wear a grip sock on the foot and cut the Academy sock at the ankle, so the grip sock does the gripping and the Academy does the shin-pad and kit job. It comes in kids' sizes too, which is why it is the usual first match sock for youth teams. Only the Amazon link is listed here, because no verified US official product page for this exact sock was found. The full cut-sock setup is explained in the FAQ below.</p>
 <div class="spec">
 <div><b>Material:</b> 90% polyester / 10% spandex</div>
 <div><b>Cushion:</b> Light</div>
 <div><b>Best for:</b> Matches, shin pads, team kit</div>
 <div><b>Price:</b> Check current price</div>
 </div>
-<div class="buy-links"><a class="btn-buy" href="https://www.nike.com/in/t/academy-over-calf-football-socks-3LZwVZ/SX4120-001" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B00K6OY5WY" target="_blank" rel="noopener">Amazon</a></div>
+<div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B00K6OY5WY" target="_blank" rel="noopener">Amazon</a></div>
 </div>
 
 <div class="pick">
