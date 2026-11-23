@@ -71,7 +71,7 @@ body.locked{overflow:hidden}
 /* Hero */
 .hero{display:grid;grid-template-columns:1.12fr .88fr;gap:44px;align-items:center;padding:44px 0 10px}
 .hero-link{display:contents;color:inherit;text-decoration:none}
-.hero-link,.hero-link *{text-decoration:none}
+.hero-link,.hero-link *{text-decoration:none;cursor:pointer}
 .hero figure{margin:0}
 .hero figure img{aspect-ratio:4/3;object-fit:cover;width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.08)}
 figcaption{font-size:.76rem;color:var(--muted);margin-top:8px}
