@@ -12,13 +12,16 @@ description: "Best heated socks for hunting judged on runtime on low: Fieldsheer
 
 This guide judges heated socks for hunting — long sits, cold mornings, runtime on low. If you want heated socks for everyday winter wear, the commute or skiing instead, see [Best Heated Socks](/posts/best-heated-socks/).
 
+The short version: Fieldsheer Merino 2.0 runs longest at 16+ hours on low, for $99.99. Gerbing is Field &amp; Stream's best overall, and Snow Deer is the budget pick at roughly 6 hours.
+
 ## The picks
 
 <div class="pick">
 <span class="badge">Longest runtime</span>
 <h3>Fieldsheer Merino 2.0</h3>
 <figure><img src="/img/artifact/img-25.webp" alt="Fieldsheer Merino 2.0 heated socks in grey with orange and black accents" /><figcaption>Photo: Fieldsheer</figcaption></figure>
-<p>The endurance pick: a merino-blend heated sock rated at 16+ hours on low — a full day's sit plus the walk out, on one charge. At $99.99 it is also priced below the premium tier it outlasts.</p>
+<p>The endurance pick: a merino-blend heated sock rated at 16+ hours on low — a full day's sit plus the walk out, on one charge.</p>
+<p>At $99.99 it is also priced below the premium tier it outlasts.</p>
 <div class="spec">
 <div><b>Material:</b> Merino wool blend</div>
 <div><b>Cushion:</b> Medium</div>
@@ -32,7 +35,8 @@ This guide judges heated socks for hunting — long sits, cold mornings, runtime
 <span class="badge">Field &amp; Stream best overall</span>
 <h3>Gerbing 7V Wool</h3>
 <figure><img src="/img/artifact/img-26.webp" alt="Gerbing 7V Ultimate Wool heated socks in black with red branding" /><figcaption>Photo: Gerbing</figcaption></figure>
-<p>Named best overall in Field &amp; Stream's heated-sock coverage. Gerbing is a long-standing name in heated clothing, and the 7V wool sock pairs that heating system with a wool knit that still insulates when the power is off. Like every sock in this guide it is a crew height or higher — in boots that coverage is a requirement, not a style choice, as <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a> explains.</p>
+<p>Named best overall in Field &amp; Stream's heated-sock coverage. Gerbing is a long-standing name in heated clothing, and the 7V wool sock pairs that heating system with a wool knit that insulates when the power is off.</p>
+<p>Every sock here is crew height or higher — in boots that coverage is a requirement, as <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a> explains.</p>
 <div class="spec">
 <div><b>Material:</b> Wool blend</div>
 <div><b>Cushion:</b> Medium</div>
@@ -46,7 +50,8 @@ This guide judges heated socks for hunting — long sits, cold mornings, runtime
 <span class="badge">Premium pick</span>
 <h3>Fieldsheer Pro Merino</h3>
 <figure><img src="/img/artifact/img-27.webp" alt="Fieldsheer Pro Merino heated socks in grey with orange and black accents" /><figcaption>Photo: Fieldsheer</figcaption></figure>
-<p>The step-up Fieldsheer: 13+ hours on low with a heavier merino build for the coldest sits. You pay $159.99 for build and insulation quality rather than raw hours — the 2.0 above runs longer for less, so choose this for severe cold, not for value.</p>
+<p>The step-up Fieldsheer: 13+ hours on low with a heavier merino build for the coldest sits.</p>
+<p>You pay $159.99 for build and insulation quality rather than raw hours — the 2.0 above runs longer for less, so choose this for severe cold, not for value.</p>
 <div class="spec">
 <div><b>Material:</b> Merino wool blend, heavier knit</div>
 <div><b>Cushion:</b> Medium–full</div>
@@ -60,7 +65,8 @@ This guide judges heated socks for hunting — long sits, cold mornings, runtime
 <span class="badge">Budget pick</span>
 <h3>Snow Deer Heated Socks</h3>
 <figure><img src="/img/artifact/img-28.jpg" alt="Snow Deer 7.4V rechargeable heated socks in black" /><figcaption>Photo: Snow Deer</figcaption></figure>
-<p>The widely sold budget option, at roughly 6 hours of heat. That covers a morning sit or an evening hunt, not a full day — know that limit, carry the hunt you planned around it, and it is honest value.</p>
+<p>The widely sold budget option, at roughly 6 hours of heat.</p>
+<p>That covers a morning sit or an evening hunt, not a full day — know that limit, carry the hunt you planned around it, and it is honest value.</p>
 <div class="spec">
 <div><b>Material:</b> Synthetic blend</div>
 <div><b>Cushion:</b> Light–medium</div>
@@ -74,7 +80,8 @@ This guide judges heated socks for hunting — long sits, cold mornings, runtime
 <span class="badge">App control</span>
 <h3>Lenz Heat Sock 5.0</h3>
 <figure><img src="/img/artifact/img-29.webp" alt="Lenz Heat Sock 5.0 Toe Cap heated sock in black with a red toe" /><figcaption>Photo: Lenz</figcaption></figure>
-<p>Up to 14 hours of heat with Bluetooth app control, so you can change settings without unlayering in the blind — a real advantage at first light. Lenz is the premium European system, priced accordingly, with interchangeable batteries across its range.</p>
+<p>Up to 14 hours of heat with Bluetooth app control, so you can change settings without unlayering in the blind — a real advantage at first light.</p>
+<p>Lenz is the premium European system, priced accordingly, with interchangeable batteries across its range.</p>
 <div class="spec">
 <div><b>Material:</b> Wool/synthetic performance blend</div>
 <div><b>Cushion:</b> Medium</div>
@@ -88,7 +95,8 @@ This guide judges heated socks for hunting — long sits, cold mornings, runtime
 <span class="badge">Mid-range</span>
 <h3>ActionHeat 5V</h3>
 <figure><img src="/img/artifact/img-30.jpg" alt="ActionHeat 5V battery heated cotton socks in black, shown with their battery packs" /><figcaption>Photo: ActionHeat</figcaption></figure>
-<p>A 5V system rated up to 8 hours — enough for most single sits, short of an all-day blind session without a spare battery. A reasonable middle option if the Fieldsheer prices stretch the budget.</p>
+<p>A 5V system rated up to 8 hours — enough for most single sits, short of an all-day blind session without a spare battery.</p>
+<p>A reasonable middle option if the Fieldsheer prices stretch the budget.</p>
 <div class="spec">
 <div><b>Material:</b> Synthetic blend</div>
 <div><b>Cushion:</b> Light–medium</div>

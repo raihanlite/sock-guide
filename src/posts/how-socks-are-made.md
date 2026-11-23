@@ -29,7 +29,13 @@ The heart of the process is a circular knitting machine: a rotating cylinder of 
 
 The heel is not sewn on afterwards. It is knitted in as the tube is formed: the machine reverses direction and changes the number of stitches being knitted — a technique called reciprocated knitting — to create a three-dimensional pocket that follows the shape of the heel. Patterns, stripes, jacquard designs and terry cushioning are all programmed into the machine, so the structure, fit zones and patterning of the sock are decided here, not later.
 
-Two numbers define what a machine can do. The first is needle count, which sets the fineness: roughly 84 to 108 needles for athletic socks, up to 200 for sheer dress socks, with the middle ranges covering casual and sports socks. The second is speed. A basic sock tube can be knitted in 20 to 40 seconds on a fast machine; a complex patterned sock takes several minutes. One machine makes one sock at a time, so a factory's output is a matter of how many machines it runs — a line of 100 machines turns out roughly 1,500 to 4,000 pairs a day. The leading machine makers are Italian: Lonati, Sangiacomo and Stäubli.
+### Needle count and speed
+
+Two numbers define what a machine can do. The first is needle count, which sets the fineness: roughly 84 to 108 needles for athletic socks, up to 200 for sheer dress socks, with the middle ranges covering casual and sports socks.
+
+The second is speed. A basic sock tube can be knitted in 20 to 40 seconds on a fast machine; a complex patterned sock takes several minutes.
+
+One machine makes one sock at a time, so a factory's output is a matter of how many machines it runs — a line of 100 machines turns out roughly 1,500 to 4,000 pairs a day. The leading machine makers are Italian: Lonati, Sangiacomo and Stäubli.
 
 The machine itself is old technology with a long history. The circular knitting machine goes back to Marc Isambard Brunel's 1816 patent for a machine that knitted a seamless tube — the story is in [History of Socks](/posts/history-of-socks/). What changed since is control: modern machines are computerised, and the pattern, gauge and shaping are all set in software before the first sock is knitted.
 
@@ -37,7 +43,13 @@ The machine itself is old technology with a long history. The circular knitting 
 
 The sock comes off the knitting machine as a tube that is open at the toe. Closing that opening is a separate operation, and the method used is one of the things that most affects comfort.
 
-There are two main ways to do it. **Linking** joins the individual knitted loops stitch by stitch on a linking machine, producing a flat, low-bulk seam that is often sold as a "seamless toe". It takes more labour and a skilled operator. **Rosso seaming** — standard automatic toe closing — stitches the toe shut faster and suits high-volume basics, but leaves a slightly bulkier ridge. Some newer machines close the toe on the machine itself, stitch by stitch, before the sock ever comes off, which is how a seamless toe is achieved without a separate linking step.
+There are two main ways to do it.
+
+**Linking** joins the individual knitted loops stitch by stitch on a linking machine, producing a flat, low-bulk seam that is often sold as a "seamless toe". It takes more labour and a skilled operator.
+
+**Rosso seaming** — standard automatic toe closing — stitches the toe shut faster and suits high-volume basics, but leaves a slightly bulkier ridge.
+
+Some newer machines close the toe on the machine itself, stitch by stitch, before the sock ever comes off. That is how a seamless toe is achieved without a separate linking step.
 
 This is the step to remember when a sock rubs. The toe seam sits right where your toes press against the shoe, so a bulky seam is felt with every step — and it is the reason socks for blister-prone feet are sold on their flat toe. If a sock's seam bothers you, the problem was decided at this step, not at the shop.
 
@@ -79,20 +91,30 @@ Approved socks are matched into pairs, then folded, banded or tagged, put into p
 
 ## What to look for when you buy
 
-Knowing the process gives you four quick checks in a shop. First, the toe: run a finger inside the toe seam — a flat linked seam is the sign of a better-made sock, and it matters most if you get blisters. Second, the gauge: hold the sock up to the light. A fine, even knit with no dropped stitches or thin patches is a dress sock; a coarse, cushioned knit is a sports sock — the two are made on different machines, and neither is a defect. Third, the pair: hold the two socks together. If they are not the same length and shape, the boarding was sloppy. Fourth, the heel: a proper heel pocket, knitted in rather than sewn on, holds the sock on your foot instead of twisting around it. The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/), and the type-by-type guide is in [Types of Socks](/posts/types-of-socks/).
+Knowing the process gives you four quick checks in a shop.
+
+First, the toe: run a finger inside the toe seam. A flat linked seam is the sign of a better-made sock, and it matters most if you get blisters.
+
+Second, the gauge: hold the sock up to the light. A fine, even knit with no dropped stitches or thin patches is a dress sock; a coarse, cushioned knit is a sports sock. The two are made on different machines, and neither is a defect.
+
+Third, the pair: hold the two socks together. If they are not the same length and shape, the boarding was sloppy.
+
+Fourth, the heel: a proper heel pocket, knitted in rather than sewn on, holds the sock on your foot instead of twisting around it.
+
+The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/), and the type-by-type guide is in [Types of Socks](/posts/types-of-socks/).
 
 ## FAQ
-<details class="faq"><summary>How are socks made?</summary><div class="a">In six steps: yarn is spun and dyed; a circular knitting machine knits the sock as a tube, cuff to toe, with the heel knitted in; the open toe is closed by linking or machine seaming; the socks are washed and dyed; they are boarded — pulled over foot-shaped metal forms and heat-set with steam; then each sock is inspected, paired and packed. The whole run takes a few hours of active production.</div></details>
+<details class="faq"><summary>How are socks made?</summary><div class="a">In six steps: yarn is spun and dyed; a circular knitting machine knits the sock as a tube, cuff to toe, with the heel knitted in; the open toe is closed by linking or machine seaming; the socks are washed and dyed; they are boarded — pulled over foot-shaped forms and heat-set with steam; then they are inspected, paired and packed. The whole run takes a few hours of production.</div></details>
 
 <details class="faq"><summary>What is toe closing?</summary><div class="a">The sock comes off the knitting machine open at the toe, so the opening has to be closed. Linking joins the loops stitch by stitch for a flat, low-bulk seam, often sold as a "seamless toe". Standard machine closing sews the toe shut faster and suits high-volume basics but leaves a slightly bulkier ridge. Some newer machines close the toe on the machine itself, stitch by stitch.</div></details>
 
-<details class="faq"><summary>Why do socks have a seam at the toe?</summary><div class="a">Because the sock is knitted as a tube that is open at the toe end — the seam is the closure. The toe cannot be knitted shut on most machines, so it is closed in a separate step. A linked toe closes the loops one by one and leaves almost no ridge; a machine-sewn toe leaves a visible seam. If the seam rubs, look for socks sold with a flat or seamless toe.</div></details>
+<details class="faq"><summary>Why do socks have a seam at the toe?</summary><div class="a">Because the sock is knitted as a tube open at the toe end — the seam is the closure. The toe cannot be knitted shut on most machines, so it is closed in a separate step. A linked toe closes the loops one by one, with almost no ridge. A machine-sewn toe leaves a visible seam. If the seam rubs, look for socks with a flat or seamless toe.</div></details>
 
 <details class="faq"><summary>What is boarding?</summary><div class="a">Boarding is the finishing step where a washed sock is pulled onto a foot-shaped metal form and set with heat and steam. It fixes the sock's final size and shape, flattens the fabric and gives the pair its clean, retail-ready silhouette. It is also the step where size grading is locked in, so the two socks in a pair match.</div></details>
 
 <details class="faq"><summary>How long does it take to make one sock?</summary><div class="a">The knitting itself is fast: a basic sock tube takes 20 to 40 seconds on a fast circular machine, and a complex patterned sock takes several minutes. But knitting is only one step — with washing, boarding, inspection and packing, a factory run from yarn to boxed pair takes a few hours of active production.</div></details>
 
-<details class="faq"><summary>Are handmade socks made differently?</summary><div class="a">Yes. A <a href="/posts/how-to-knit-a-sock/">hand-knitted sock</a> is built stitch by stitch on needles, shaped by hand as it grows — the knitter forms the heel and closes the toe as part of the knitting, with no separate toe-closing machine and no steam boarding. It is far slower than factory production, which is why hand-knitted socks cost more, but the result is the same object: a shaped tube with a heel pocket and a closed toe.</div></details>
+<details class="faq"><summary>Are handmade socks made differently?</summary><div class="a">Yes. A <a href="/posts/how-to-knit-a-sock/">hand-knitted sock</a> is built stitch by stitch on needles, shaped by hand as it grows. The knitter forms the heel and closes the toe while knitting, with no separate toe-closing machine and no steam boarding. It is slower than factory production, which is why hand-knitted socks cost more. The result is the same object: a shaped tube with a heel pocket and a closed toe.</div></details>
 
 ## Sources
 

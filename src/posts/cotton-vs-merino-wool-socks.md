@@ -11,7 +11,9 @@ docTitle: "Cotton vs Merino Wool Socks"
 description: "Cotton vs merino wool socks compared side by side: moisture, drying, odour, temperature, feel, durability, care and price — and which fibre wins for work, travel, sport and everyday wear."
 ---
 
-Cotton and merino wool are the two fibres most socks are sold on, and around sweat they behave almost opposite ways. Cotton drinks moisture in and keeps it; merino takes moisture in too — but stores it inside the fibre, away from your skin, and lets it go again. Nearly every difference between the two socks, from blisters to odour to price, follows from that one contrast. If you are starting from the beginning — what a sock is and why we wear one at all — see [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/).
+Cotton and merino wool are the two fibres most socks are sold on, and around sweat they behave almost opposite ways. Cotton drinks moisture in and keeps it; merino stores it inside the fibre, away from your skin, and lets it go again.
+
+Nearly every difference between the two socks, from blisters to odour to price, follows from that one contrast. If you are starting from the beginning — what a sock is and why we wear one at all — see [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/).
 
 ## The comparison
 
@@ -32,7 +34,9 @@ Cotton and merino wool are the two fibres most socks are sold on, and around swe
 
 ## Where cotton still makes sense
 
-Cotton is not a bad fibre; it is a bad wet fibre. For short wear in dry conditions — around the house, a quick trip in loose shoes, low-activity days where the sock comes off before it ever gets damp — cotton is soft, cheap, easy to wash and perfectly comfortable. It also remains the base of many blended everyday socks, where synthetics in the mix handle the moisture cotton cannot. The mistake is not owning cotton socks; it is wearing them for the jobs below.
+Cotton is not a bad fibre; it is a bad wet fibre. For short wear in dry conditions — around the house, a quick trip in loose shoes, low-activity days where the sock comes off before it ever gets damp — cotton is soft, cheap, easy to wash and perfectly comfortable.
+
+It also remains the base of many blended everyday socks, where synthetics in the mix handle the moisture cotton cannot. The mistake is not owning cotton socks; it is wearing them for the jobs below.
 
 ## Where merino wins clearly
 
@@ -46,7 +50,11 @@ Cotton is not a bad fibre; it is a bad wet fibre. For short wear in dry conditio
 
 ## The blends in the middle
 
-Most good socks are neither pure cotton nor pure merino. Merino is blended with nylon for durability and elastane for fit; cotton is blended with polyester to dry faster and hold its shape. Read blends by their largest component: a “merino blend” that is mostly nylon behaves like a synthetic sock with merino benefits, and a “cotton blend” that is mostly polyester behaves like a synthetic too. And merino is not the only natural performance fibre — alpaca takes the same ideas further in warmth and odour resistance, compared in our [alpaca socks guide](/posts/best-alpaca-socks/).
+Most good socks are neither pure cotton nor pure merino. Merino is blended with nylon for durability and elastane for fit; cotton is blended with polyester to dry faster and hold its shape.
+
+Read blends by their largest component: a “merino blend” that is mostly nylon behaves like a synthetic sock with merino benefits, and a “cotton blend” that is mostly polyester behaves like a synthetic too.
+
+And merino is not the only natural performance fibre — alpaca takes the same ideas further in warmth and odour resistance, compared in our [alpaca socks guide](/posts/best-alpaca-socks/).
 
 If damp feet are your actual problem — whichever fibre you wear — [Why Do Socks Make Your Feet Sweat?](/posts/why-do-socks-make-your-feet-sweat/) explains what is going on and what helps beyond fibre choice. And if the pair is a gift rather than for your own drawer, the fibre choice is half of [Best Socks for Christmas Gifts](/posts/best-socks-for-christmas-gifts/) — a quality merino crew is the thoughtful pick there, a novelty cotton crew the funny one.
 

@@ -11,7 +11,9 @@ docTitle: "What Are the Best Socks for Summer?"
 description: "The best socks for summer explained: lightweight merino, performance synthetics, cotton, bamboo and linen compared for heat and sweat, with heights, cushion and use cases for everyday wear, sport, work boots and hiking."
 ---
 
-A summer sock has one job: get heat and sweat away from your foot faster than your shoe traps them. Most hot, damp summer feet are not a footwear problem or a personal problem — they are a materials problem. The thick cotton crew that felt fine in April becomes a warm, wet layer in July, because cotton absorbs sweat, holds it against the skin and dries slowly. Change the fibre, the knit weight and the height, and the same shoes feel completely different.
+A summer sock has one job: get heat and sweat away from your foot faster than your shoe traps them. Most hot, damp summer feet are not a footwear problem or a personal problem — they are a materials problem.
+
+The thick cotton crew that felt fine in April becomes a warm, wet layer in July, because cotton absorbs sweat, holds it against the skin and dries slowly. Change the fibre, the knit weight and the height, and the same shoes feel completely different.
 
 ## What makes a sock a summer sock
 
@@ -50,7 +52,9 @@ Five things decide whether a sock works in heat. If you are comparing the best s
 
 ## The merino myth: wool is not just for winter
 
-The most common summer mistake is ruling out wool entirely. Merino regulates temperature in both directions: its crimped fibres trap air for warmth in the cold, and in heat the moisture it has absorbed evaporates and helps cool the foot. Makers such as Darn Tough knit ultra-lightweight and even no-show merino socks specifically for summer, usually with mesh ventilation zones. The rule is not “no wool in summer” — it is “no heavyweight wool in summer”. Knit weight matters as much as fibre.
+The most common summer mistake is ruling out wool entirely. Merino regulates temperature in both directions: its crimped fibres trap air for warmth in the cold, and in heat the moisture it has absorbed evaporates and helps cool the foot.
+
+Makers such as Darn Tough knit ultra-lightweight and even no-show merino socks specifically for summer, usually with mesh ventilation zones. The rule is not “no wool in summer” — it is “no heavyweight wool in summer”. Knit weight matters as much as fibre.
 
 ## By use case
 
@@ -60,7 +64,9 @@ The most common summer mistake is ruling out wool entirely. Merino regulates tem
 
 **Running and sport.** A synthetic or merino-blend ankle sock with mesh over the instep, light targeted cushion and a snug arch fit so the sock cannot slide and bunch when wet.
 
-**Work boots in summer.** Boots are sealed, insulated environments, so the sock has to do all the moisture work. Go thinner than your winter sock, keep the boot height, and favour fast-drying or merino fibres — the hot-weather picks in [Best Socks for Work Boots](/posts/best-socks-for-work-boots/) and the Carhartt Force in [Best Work Socks](/posts/best-work-socks/) follow exactly this logic. Rotating two pairs across a long shift — changing at break time — helps more than any single fibre.
+**Work boots in summer.** Boots are sealed, insulated environments, so the sock has to do all the moisture work. Go thinner than your winter sock, keep the boot height, and favour fast-drying or merino fibres — the hot-weather picks in [Best Socks for Work Boots](/posts/best-socks-for-work-boots/) and the Carhartt Force in [Best Work Socks](/posts/best-work-socks/) follow exactly this logic.
+
+Rotating two pairs across a long shift — changing at break time — helps more than any single fibre.
 
 **Hiking and travel.** Lightweight merino is the usual answer: it handles a full day of sweat, resists odour when you cannot wash daily, and a thin knit keeps it cool. On cool mornings at altitude, a natural-fibre quarter like those in our [alpaca socks guide](/posts/best-alpaca-socks/) covers the in-between weather.
 

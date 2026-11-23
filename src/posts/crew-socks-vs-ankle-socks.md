@@ -11,7 +11,9 @@ docTitle: "Crew Socks vs Ankle Socks"
 description: "Crew socks vs ankle socks compared: coverage, protection, warmth, staying power, best shoes and best uses — plus no-show, quarter and knee-high heights explained."
 ---
 
-Sock height looks like a style choice, and it is — but it is also a functional one. Height decides how much of your leg is insulated, whether a shoe collar rubs skin or fabric, how likely the sock is to slip, and how formal the result looks. Here is what actually separates a crew from an ankle sock, and where the heights in between fit.
+Crew or ankle? Pick crew for boots and cold weather, ankle for trainers and heat. Height decides how much of your leg is insulated, whether a shoe collar rubs skin or fabric, and how likely the sock is to slip.
+
+It also decides how formal the result looks. Here is what actually separates a crew from an ankle sock, and where the heights in between fit.
 
 ## The heights, defined
 
@@ -40,7 +42,13 @@ Those measurements are approximate ranges, not standards — listed heights vary
 
 ## When crew socks win
 
-**With any boot.** A boot collar against bare skin chafes within the hour, and grit that falls into a boot stays there. Crew — or full boot height — is not a preference in boots, it is the requirement; every pick in our [work boots guide](/posts/best-socks-for-work-boots/) is a crew or higher for this reason. **In cold weather**, covered calves lose less heat, and crews stay up better under layers. For the coldest, stillest days — a hunting blind, a frozen sideline — crew is also the height every pick in our [heated socks guide](/posts/best-heated-socks-for-hunting/) uses. **With tailoring**, a crew or over-calf sock keeps skin covered when trousers ride up as you sit — the traditional rule, and still the tidy one. **For staying put**, if ankle socks keep disappearing into your shoes, a crew's longer cuff usually ends the problem.
+**With any boot.** A boot collar against bare skin chafes within the hour, and grit that falls into a boot stays there. Crew — or full boot height — is not a preference in boots, it is the requirement; every pick in our [work boots guide](/posts/best-socks-for-work-boots/) is a crew or higher for this reason.
+
+**In cold weather**, covered calves lose less heat, and crews stay up better under layers. For the coldest, stillest days — a hunting blind, a frozen sideline — crew is also the height every pick in our [heated socks guide](/posts/best-heated-socks-for-hunting/) uses.
+
+**With tailoring**, a crew or over-calf sock keeps skin covered when trousers ride up as you sit — the traditional rule, and still the tidy one.
+
+**For staying put**, if ankle socks keep disappearing into your shoes, a crew's longer cuff usually ends the problem.
 
 ## When ankle socks win
 
@@ -52,7 +60,11 @@ Quarter height is the compromise that suits the most people: it covers the ankle
 
 ## When each height fails
 
-**Ankle socks fail** when the shoe collar rubs the ankle bone or the Achilles — long walks, stiff new shoes, and any boot at all. The fix is a heel tab (the small lip of fabric at the back of many sport ankle socks) or stepping up to a quarter height. **Crew socks fail** in heat and with low-cut shoes: the extra fabric means extra warmth and extra sweat-soaked material, and a crew crammed into a low trainer looks and feels wrong. One limit applies to both: height cannot fix the wrong material. A crew sock in cotton will still soak and blister — for sweat and blisters, fibre matters more than length — and no sock height replaces an ankle brace or proper support if you need one.
+**Ankle socks fail** when the shoe collar rubs the ankle bone or the Achilles — long walks, stiff new shoes, and any boot at all. The fix is a heel tab (the small lip of fabric at the back of many sport ankle socks) or stepping up to a quarter height.
+
+**Crew socks fail** in heat and with low-cut shoes: the extra fabric means extra warmth and extra sweat-soaked material, and a crew crammed into a low trainer looks and feels wrong.
+
+One limit applies to both: height cannot fix the wrong material. A crew sock in cotton will still soak and blister — for sweat and blisters, fibre matters more than length — and no sock height replaces an ankle brace or proper support if you need one.
 
 ## The 30-second decision rule
 

@@ -29,13 +29,21 @@ It matters because it shows the problem was already understood five thousand yea
 
 The first written mention of anything like a sock comes from Greece. The poet Hesiod, active between about 750 and 650 BCE, advised guarding against the cold with felt socks called *piloi* — matted wool or fur, worn under sandals. They were not knitted and not fitted; they were felted, which is to say the fibres were pressed together into a dense mat. Crude, but warm.
 
-The Romans went a step further. By the second century AD they were wearing *udones* — foot coverings made of woollen yarn or cloth sewn together, designed to be pulled over the feet. Around 1 AD there is also written reference to a Roman foot wrapping called a *fascia*: thin bands of twill or leather wrapped around the lower leg and foot. The Roman army wore cloth socks too, which makes sense — an empire that marched its soldiers across cold northern Europe needed something between sandal and skin.
+The Romans went a step further. By the second century AD they were wearing *udones* — foot coverings made of woollen yarn or cloth sewn together, designed to be pulled over the feet.
+
+Around 1 AD there is also written reference to a Roman foot wrapping called a *fascia*: thin bands of twill or leather wrapped around the lower leg and foot.
+
+The Roman army wore cloth socks too. That makes sense — an empire that marched its soldiers across cold northern Europe needed something between sandal and skin.
 
 ## Egypt: the oldest surviving socks
 
 The oldest surviving socks in the world were found in Egypt. They are made of dyed wool, worked by nålebinding — a single-needle looping technique that predates true knitting, closer to sewing than to knitting with two needles — and they have a split toe, so they could be worn with sandals.
 
-The best-known pair, now in the Victoria and Albert Museum in London, is a pair of red wool socks excavated from the burial grounds of Oxyrhynchus, a Greek colony on the Nile. Radiocarbon dating puts them at 250–420 CE — about 1,600 years old. A child's striped sock in the same collection, red and yellow wool with a divided toe, is dated to the same period. They were found in burial grounds, so nobody knows for certain whether they were everyday wear or offerings to the dead — but the workmanship is unmistakable: three-ply wool, close-fitting, made by someone who knew exactly what a foot needs.
+The best-known pair, now in the Victoria and Albert Museum in London, is a pair of red wool socks excavated from the burial grounds of Oxyrhynchus, a Greek colony on the Nile.
+
+Radiocarbon dating puts them at 250–420 CE — about 1,600 years old. A child's striped sock in the same collection, red and yellow wool with a divided toe, is dated to the same period.
+
+They were found in burial grounds, so nobody knows for certain whether they were everyday wear or offerings to the dead. But the workmanship is unmistakable: three-ply wool, close-fitting, made by someone who knew exactly what a foot needs.
 
 ## How knitting arrived
 
@@ -53,23 +61,49 @@ This is also where the sock's long relationship with the garter began. Without e
 
 In 1589 the English clergyman William Lee of Calverton, Nottinghamshire, invented the stocking frame — the first knitting machine. It imitated the movements of a hand knitter with a row of hooked needles, and it worked far faster: a hand knitter could produce about two pairs of stockings a week, while a frame could make twenty-five to thirty.
 
-Lee showed the machine at court and asked Elizabeth I for a patent. She refused — she was worried it would take work from hand knitters, and she was disappointed by the coarseness of the first stockings. Lee improved the machine until it could knit fine silk, but the patent was refused again, this time by James I. He took his frames to France under the protection of Henri IV, and died in Paris around 1614. By the mid-1600s the Worshipful Company of Framework Knitters had been incorporated in England, and the frame — the first major step in the mechanisation of textiles — was spreading.
+Lee showed the machine at court and asked Elizabeth I for a patent. She refused — she was worried it would take work from hand knitters, and she was disappointed by the coarseness of the first stockings.
+
+Lee improved the machine until it could knit fine silk, but the patent was refused again, this time by James I. He took his frames to France under the protection of Henri IV, and died in Paris around 1614.
+
+By the mid-1600s the Worshipful Company of Framework Knitters had been incorporated in England, and the frame — the first major step in the mechanisation of textiles — was spreading.
 
 ## The Industrial Revolution: socks become cheap
 
-Lee's frame was the prototype, but it took the Industrial Revolution to make the sock cheap. In 1816 Marc Isambard Brunel patented a circular knitting machine that knitted a seamless tube instead of a flat sheet — no more seams up the back of the leg. In 1864 William Cotton of Loughborough patented a steam-powered, fully-fashioned knitting machine that could produce several shaped stockings at once. By 1864 there were already about 1,200 circular machines in use, and the hosiery centres of Leicester and Nottingham were turning out socks by the thousand.
+Lee's frame was the prototype, but it took the Industrial Revolution to make the sock cheap.
 
-That is the moment the sock stopped being a luxury and became an everyday item. Hand-knitted stockings had been expensive, darned and patched for years; machine-made socks were cheap enough to own in pairs, to wear out and replace. The sock went from something you owned one or two of to something you owned a drawerful of. The machines Brunel and Cotton patented are the ancestors of the circular knitting machines still making socks today — the full modern process, step by step, is in [How Socks Are Made](/posts/how-socks-are-made/).
+In 1816 Marc Isambard Brunel patented a circular knitting machine that knitted a seamless tube instead of a flat sheet — no more seams up the back of the leg.
+
+In 1864 William Cotton of Loughborough patented a steam-powered, fully-fashioned knitting machine that could produce several shaped stockings at once. By 1864 there were already about 1,200 circular machines in use, and the hosiery centres of Leicester and Nottingham were turning out socks by the thousand.
+
+That is the moment the sock stopped being a luxury and became an everyday item. Hand-knitted stockings had been expensive, darned and patched for years.
+
+Machine-made socks were cheap enough to own in pairs, to wear out and replace. The sock went from something you owned one or two of to something you owned a drawerful of.
+
+The machines Brunel and Cotton patented are the ancestors of the circular knitting machines still making socks today — the full modern process, step by step, is in [How Socks Are Made](/posts/how-socks-are-made/).
 
 ## Nylon changes everything
 
-The last great change came from a chemistry lab. DuPont's Wallace Carothers and his team produced the first true nylon fibre in 1935; the patent was issued in September 1938, and nylon was announced to the public on 27 October 1938. The first nylon stockings were offered to DuPont employees in October 1939, and on 15 May 1940 — "N-Day" — they went on sale across America. Millions of pairs sold on the first day, at a time when silk stockings were expensive and fragile.
+The last great change came from a chemistry lab. DuPont's Wallace Carothers and his team produced the first true nylon fibre in 1935.
 
-Nylon gave socks something no natural fibre could: stretch. A nylon sock could stay up on its own, and the garter — after centuries of service — became obsolete. During the Second World War nylon was diverted to parachutes and ropes, stockings vanished from the shops, and women drew the missing seam up the back of the calf with eyeliner. After the war, nylon and other synthetics became the default for everyday socks, and the modern sock drawer — thin, stretchy, machine-made, cheap — took shape.
+The patent was issued in September 1938, and nylon was announced to the public on 27 October 1938. The first nylon stockings were offered to DuPont employees in October 1939.
+
+On 15 May 1940 — "N-Day" — they went on sale across America. Millions of pairs sold on the first day, at a time when silk stockings were expensive and fragile.
+
+Nylon gave socks something no natural fibre could: stretch. A nylon sock could stay up on its own, and the garter — after centuries of service — became obsolete.
+
+During the Second World War nylon was diverted to parachutes and ropes. Stockings vanished from the shops, and women drew the missing seam up the back of the calf with eyeliner.
+
+After the war, nylon and other synthetics became the default for everyday socks, and the modern sock drawer — thin, stretchy, machine-made, cheap — took shape.
 
 ## The modern sock
 
-The second half of the twentieth century was about variety rather than invention. In 1959 Allen Gant Sr. of Glen Raven Mills introduced the first commercial pantyhose — stockings joined to underwear, called "Panti-Legs" — and the miniskirt of the 1960s made them standard. Stretch fibres such as elastane arrived, athletic socks boomed with running and gym culture, and merino wool came back as a premium fibre for outdoor socks. In the 2000s computer-aided design and dye sublimation let makers print almost any pattern onto a sock, which is why the sock drawer of today is full of colours and pictures that would have been impossible — or impossibly expensive — a century ago.
+The second half of the twentieth century was about variety rather than invention.
+
+In 1959 Allen Gant Sr. of Glen Raven Mills introduced the first commercial pantyhose — stockings joined to underwear, called "Panti-Legs" — and the miniskirt of the 1960s made them standard.
+
+Stretch fibres such as elastane arrived, athletic socks boomed with running and gym culture, and merino wool came back as a premium fibre for outdoor socks.
+
+In the 2000s computer-aided design and dye sublimation let makers print almost any pattern onto a sock. That is why the sock drawer of today is full of colours and pictures that would have been impossible — or impossibly expensive — a century ago.
 
 Five thousand years, and the job has not changed: a soft layer between foot and shoe, taking up sweat, stopping blisters, adding warmth. The materials changed, the machines changed, the price collapsed — the sock itself is still doing what the grass in Ötzi's shoes did.
 

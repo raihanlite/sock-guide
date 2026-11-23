@@ -11,11 +11,17 @@ docTitle: "Why Do Socks Make Your Feet Sweat?"
 description: "Why socks seem to make feet sweat: how feet sweat, why absorbent fibres trap moisture, where odour really comes from, what actually helps, and when sweaty feet are a medical matter."
 ---
 
-It feels like the socks are doing it: barefoot at home, your feet are dry; an hour into socks and shoes, they are damp. But socks do not make feet sweat — feet sweat on their own schedule, in socks or out of them. What the wrong sock does is trap that sweat against your skin instead of moving it away, and a whole day of trapped sweat is what you are actually feeling. The distinction matters, because it tells you what to fix.
+It feels like the socks are doing it: barefoot at home, your feet are dry; an hour into socks and shoes, they are damp. But socks do not make feet sweat — feet sweat on their own schedule, in socks or out of them.
+
+What the wrong sock does is trap that sweat against your skin instead of moving it away, and a whole day of trapped sweat is what you are actually feeling. The distinction matters, because it tells you what to fix.
 
 ## Why feet sweat at all
 
-Sweating is cooling: glands release moisture onto the skin, and its evaporation carries heat away. Your feet carry around a quarter of a million sweat glands between them — one of the densest concentrations anywhere on the body — and they work whenever you are warm, active, stressed — or simply sealed inside a shoe, which is most of the day. A foot inside footwear is in a warm, enclosed, increasingly humid space with almost no airflow. Some sweat in shoes is not a malfunction; it is the system working in difficult conditions. Worse, it is a feedback loop: inside a closed shoe the sweat cannot evaporate, the air around the foot saturates, the skin stays hot — so the body responds by producing still more sweat.
+Sweating is cooling: glands release moisture onto the skin, and its evaporation carries heat away. Your feet carry around a quarter of a million sweat glands between them — one of the densest concentrations anywhere on the body — and they work whenever you are warm, active, stressed — or simply sealed inside a shoe, which is most of the day.
+
+A foot inside footwear is in a warm, enclosed, increasingly humid space with almost no airflow. Some sweat in shoes is not a malfunction; it is the system working in difficult conditions.
+
+Worse, it is a feedback loop: inside a closed shoe the sweat cannot evaporate, the air around the foot saturates, the skin stays hot — so the body responds by producing still more sweat.
 
 ## Why it feels like the sock's fault
 
@@ -56,9 +62,10 @@ Fresh sweat is mostly water and nearly odourless. The smell arrives when bacteri
 
 ## What actually helps
 
-- **Change the fibre.** Switch absorbent cotton for merino or a performance synthetic matched to the season — start with [summer socks](/posts/best-socks-for-summer/) in warm weather and the hot-weather picks in our [work socks](/posts/best-work-socks/) and [work boots](/posts/best-socks-for-work-boots/) guides. Runners can start with [Best Running Socks](/posts/best-running-socks/).
-- **Change the sock, midday.** On long or active days, a fresh pair at midday removes hours of accumulated moisture at once. It is the simplest effective habit there is; tournament players do it between matches, as noted in our [tennis guide](/posts/best-tennis-socks/).
-- **Rotate shoes and let everything dry.** Shoes need a day or more to dry fully between wears; alternating two pairs keeps both drier, and socks should be washed and fully dried before re-wearing — air-drying them, as in the photograph above, is the whole routine.
+- **Change the fibre.** Switch absorbent cotton for merino or a performance synthetic. Start with [summer socks](/posts/best-socks-for-summer/) in warm weather, and the hot-weather picks in our [work socks](/posts/best-work-socks/) and [work boots](/posts/best-socks-for-work-boots/) guides. Runners: [Best Running Socks](/posts/best-running-socks/).
+- **Change the sock, midday.** On long or active days, a fresh pair at midday removes hours of moisture. It is the simplest effective habit there is; tournament players do it between matches, as our [tennis guide](/posts/best-tennis-socks/) notes.
+- **Rotate shoes and let everything dry.** Shoes need a day or more to dry fully between wears; alternating two pairs keeps both drier.
+- **Wash and dry socks fully.** Socks should be washed and fully dried before re-wearing — air-drying them, as in the photograph above, is the whole routine.
 - **Match sock weight to the weather.** If your feet sweat in “normal” socks, try a thinner knit before anything else.
 - **Wash and dry feet properly.** Dry between the toes before socks go on; starting dry delays the point where the system saturates.
 

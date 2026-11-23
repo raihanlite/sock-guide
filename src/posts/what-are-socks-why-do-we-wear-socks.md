@@ -11,11 +11,19 @@ docTitle: "What Are Socks? Why Do We Wear Socks?"
 description: "What a sock is and why we wear one: the parts of a sock, the six jobs it does, a short history from Ötzi to nylon, the main types and fabrics, and basic care."
 ---
 
-A sock is a soft covering for the foot, usually worn inside a shoe. It sounds too simple to need explaining — and that is exactly why it is worth one. The sock is the layer that decides whether a shoe feels comfortable or punishing, whether feet stay dry or blister, and whether a pair of shoes lasts a season or years. This guide covers what a sock is, why we wear one, where socks came from, the main types, what they are made of, and how to look after them.
+A sock is a soft covering for the foot, usually worn inside a shoe. It sounds too simple to need explaining — and that is exactly why it is worth one.
+
+The sock is the layer that decides whether a shoe feels comfortable or punishing, whether feet stay dry or blister, and whether a pair of shoes lasts a season or years.
+
+This guide covers what a sock is, why we wear one, where socks came from, the main types, what they are made of, and how to look after them.
 
 ## What is a sock?
 
-A sock is a knitted or woven covering for the foot, shaped to fit it and usually worn inside a shoe, covering the ankle or part of the calf. Most socks have the same parts: a cuff at the top that holds the sock up, a leg, a shaped heel pocket, a foot section, and a closed toe — often finished with a flat seam so it does not rub. The word itself is old: it comes from the Old English *socc*, from the Latin *soccus*, a light, low-heeled shoe worn by Roman comic actors. Over the centuries the meaning shifted from an outer shoe to the soft layer worn inside one.
+A sock is a knitted or woven covering for the foot, shaped to fit it and usually worn inside a shoe, covering the ankle or part of the calf.
+
+Most socks have the same parts: a cuff at the top that holds the sock up, a leg, a shaped heel pocket, a foot section, and a closed toe — often finished with a flat seam so it does not rub.
+
+The word itself is old: it comes from the Old English *socc*, from the Latin *soccus*, a light, low-heeled shoe worn by Roman comic actors. Over the centuries the meaning shifted from an outer shoe to the soft layer worn inside one.
 
 ## Why we wear socks
 

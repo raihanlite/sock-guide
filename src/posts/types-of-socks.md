@@ -28,7 +28,11 @@ The ladder is the same one in [What Are Socks? Why Do We Wear Socks?](/posts/wha
 
 ## The shoe-collar rule
 
-One rule settles most height decisions: **the sock must be taller than the shoe collar, so the collar rests on fabric, not on skin.** A collar rubbing bare skin is how blisters and raw ankles start, and it is also why a sock that is technically the right size still fails when it is the wrong height for the shoe. Low-cut trainers take no-show or ankle socks; mid-cut shoes take quarter or crew; boots take crew or taller.
+One rule settles most height decisions: **the sock must be taller than the shoe collar, so the collar rests on fabric, not on skin.**
+
+A collar rubbing bare skin is how blisters and raw ankles start. It is also why a sock that is technically the right size still fails when it is the wrong height for the shoe.
+
+Low-cut trainers take no-show or ankle socks. Mid-cut shoes take quarter or crew. Boots take crew or taller.
 
 There is a second version of the rule for trousers: **no skin should show between sock and trouser when you sit down.** When you sit and cross your legs, the trouser rides up several inches — a sock that looked long enough standing up suddenly is not. The sit test is the honest one, and it is why formal wear needs the tallest socks.
 
@@ -36,7 +40,11 @@ There is a second version of the rule for trousers: **no skin should show betwee
 
 No-show socks are designed to be invisible: they cover the heel and the foot and end below the shoe line. They exist for one look — the bare ankle — with low-cut shoes, loafers, boat shoes and slip-on trainers, and they still do the sock's basic jobs: they take up sweat, stop the shoe lining rubbing the skin, and keep the shoe cleaner than a bare foot would.
 
-Their weakness is staying put. With so little fabric above the foot, a no-show sock can slide down into the shoe, especially without a silicone grip strip at the heel. Good ones have that strip, and a heel tab on a running no-show does the same job. They are not formal wear: with a suit, the ankle shows the moment you sit down. And they are the wrong choice for any shoe with a collar above the ankle — boots, high-tops, hiking shoes — where there is nothing between collar and skin.
+Their weakness is staying put. With so little fabric above the foot, a no-show sock can slide down into the shoe — especially without a silicone grip strip at the heel.
+
+Good ones have that strip. A heel tab on a running no-show does the same job.
+
+They are not formal wear: with a suit, the ankle shows the moment you sit down. And they are the wrong choice for any shoe with a collar above the ankle — boots, high-tops, hiking shoes — where nothing sits between collar and skin.
 
 ## Ankle socks
 
@@ -46,7 +54,11 @@ Fashion has moved away from them in recent years: crew and half-crew lengths are
 
 ## Quarter socks
 
-Quarter socks sit a few inches above the ankle bone — higher than an ankle sock, lower than a crew. That extra height is not decoration: it covers the Achilles and the spot where a shoe collar meets the leg, which is exactly where low hiking boots, high-top trainers and cleats rub. Runners like them for the same reason — the collar of a running shoe rests on fabric, and the sock stays put better than an ankle sock on a long run.
+Quarter socks sit a few inches above the ankle bone — higher than an ankle sock, lower than a crew.
+
+That extra height is not decoration. It covers the Achilles and the spot where a shoe collar meets the leg — exactly where low hiking boots, high-top trainers and cleats rub.
+
+Runners like them for the same reason. The collar of a running shoe rests on fabric, and the sock stays put better than an ankle sock on a long run.
 
 If you find ankle socks sliding down or a shoe collar biting the back of your ankle, a quarter sock is usually the fix, without committing to the full height and warmth of a crew.
 
@@ -70,9 +82,19 @@ The second is practical: mountaineering, dress boots and the coldest weather, wh
 
 ## Compression socks
 
-Compression socks are not defined by height — they are defined by pressure. A compression sock applies **graduated pressure**: tightest at the ankle, progressively looser moving up the leg. That gradient is the whole point. Blood returns from the legs to the heart against gravity, helped by the calf muscles and one-way valves in the veins; the pressure at the ankle gives that return an external squeeze, and the easing pressure above it encourages flow upward rather than just constricting the leg.
+Compression socks are not defined by height — they are defined by pressure. A compression sock applies **graduated pressure**: tightest at the ankle, progressively looser moving up the leg.
 
-Pressure is measured in millimetres of mercury (mmHg) at the ankle, and products are usually labelled in bands — under 20 mmHg is mild, 20–30 mmHg is moderate, and 30 mmHg and above is firm. There are two genuinely different categories wearing the same name: medical-grade graduated compression, which is a clinical decision and usually needs a professional fitting, and athletic or travel compression, which is lighter and sold for long days on your feet, long flights and recovery after sport. They are not interchangeable — if a clinician has told you to wear compression, that is a medical matter, not a sock-guide decision. The full guide to who uses them and what each level is for is in [What Are Compression Socks Used For?](/posts/what-are-compression-socks-used-for/).
+That gradient is the whole point. Blood returns from the legs to the heart against gravity, helped by the calf muscles and one-way valves in the veins.
+
+The pressure at the ankle gives that return an external squeeze, and the easing pressure above it encourages flow upward rather than just constricting the leg.
+
+Pressure is measured in millimetres of mercury (mmHg) at the ankle. Products are usually labelled in bands: under 20 mmHg is mild, 20–30 mmHg is moderate, and 30 mmHg and above is firm.
+
+There are two genuinely different categories wearing the same name. Medical-grade graduated compression is a clinical decision and usually needs a professional fitting.
+
+Athletic or travel compression is lighter, sold for long days on your feet, long flights and recovery after sport. They are not interchangeable — if a clinician has told you to wear compression, that is a medical matter, not a sock-guide decision.
+
+The full guide to who uses them and what each level is for is in [What Are Compression Socks Used For?](/posts/what-are-compression-socks-used-for/).
 
 ## Dress socks
 
@@ -82,11 +104,19 @@ The length rule is the formal one from above: over-the-calf for suits, so no ski
 
 ## Athletic socks
 
-Athletic socks are built around the sport, not the outfit: cushioned at the heel and ball where impact and friction peak, moisture-wicking fibres that move sweat outward, and a fit that stays put. The right height depends on the sport — crew for basketball, skating and trail running, where shin coverage and staying power matter; ankle or quarter for road running, gym work and cycling, where coolness and lightness matter more. The fibre matters at least as much as the height: a crew sock in the wrong material will still soak through, and no height on its own prevents blisters.
+Athletic socks are built around the sport, not the outfit. They are cushioned at the heel and ball, where impact and friction peak. Their fibres move sweat outward, and the fit stays put.
+
+The right height depends on the sport. Crew works for basketball, skating and trail running, where shin coverage and staying power matter. Ankle or quarter suits road running, gym work and cycling, where coolness and lightness matter more.
+
+The fibre matters at least as much as the height. A crew sock in the wrong material will still soak through, and no height on its own prevents blisters.
 
 ## Slipper socks
 
-Slipper socks are thick, soft indoor socks — the middle ground between a sock and a slipper. They are usually fleece- or wool-lined for warmth, and their defining feature is the sole: rubber or silicone grips, as dots, lines or a full pattern, that add traction on smooth floors like hardwood, tile and laminate. They are also called gripper socks or non-slip socks, and the same idea shows up in hospital socks and in yoga and Pilates grip socks.
+Slipper socks are thick, soft indoor socks — the middle ground between a sock and a slipper. They are usually fleece- or wool-lined for warmth.
+
+Their defining feature is the sole: rubber or silicone grips, as dots, lines or a full pattern, that add traction on smooth floors like hardwood, tile and laminate.
+
+They are also called gripper socks or non-slip socks. The same idea shows up in hospital socks and in yoga and Pilates grip socks.
 
 Two honest caveats. First, they are indoor-only: the grip sole is not built for pavements, and wearing them outside wears the grips out fast. Second, "non-slip" is not a guarantee — the grips add traction, but they cannot make a smooth floor safe on their own.
 
@@ -117,12 +147,20 @@ They are most at home in running and hiking, where between-toe blisters are comm
 
 ## How to choose in 30 seconds
 
-Look at the shoe first: the sock must be taller than the collar. Then the activity: sport and heat point shorter and lighter, cold and boots point taller and warmer. Then the formality: the more formal the occasion, the taller the sock — over-the-calf for a suit, no exceptions worth making. If two types both fit the shoe and the occasion, pick the taller one: it fails in fewer situations. The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/), and the fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/).
+Look at the shoe first: the sock must be taller than the collar.
+
+Then the activity. Sport and heat point shorter and lighter; cold and boots point taller and warmer.
+
+Then the formality. The more formal the occasion, the taller the sock — over-the-calf for a suit, no exceptions worth making.
+
+If two types both fit the shoe and the occasion, pick the taller one: it fails in fewer situations.
+
+The full decision framework — height, cushion, fabric and fit — is in [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/), and the fibre-by-fibre comparison is in [Cotton vs Merino Wool Socks](/posts/cotton-vs-merino-wool-socks/).
 
 ## FAQ
 <details class="faq"><summary>What socks go with sneakers?</summary><div class="a">It depends on the sneaker. Low-cut trainers take ankle or no-show socks; high-tops take quarter or crew so the collar rests on fabric. For running shoes specifically, quarter socks are the sweet spot — they protect the Achilles and stay put — while road runners in hot weather often drop to ankle socks for coolness.</div></details>
 
-<details class="faq"><summary>What is the difference between crew and quarter socks?</summary><div class="a">Height, and only height. A quarter sock ends a few inches above the ankle bone, roughly 4–6 inches from the heel; a crew sock reaches the lower calf, roughly 6–8 inches. Quarter is the cooler, lighter option and the one that protects the Achilles without the warmth of a full crew; crew is the more versatile default that works with boots and trousers. The head-to-head comparison is in <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
+<details class="faq"><summary>What is the difference between crew and quarter socks?</summary><div class="a">Height, and only height. A quarter sock ends a few inches above the ankle bone, roughly 4–6 inches from the heel. A crew sock reaches the lower calf, roughly 6–8 inches. Quarter is the cooler, lighter option and protects the Achilles without a crew's warmth; crew is the more versatile default that works with boots and trousers. The head-to-head comparison is in <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a>.</div></details>
 
 <details class="faq"><summary>Are ankle socks out of style?</summary><div class="a">As a fashion statement, yes — crew and half-crew lengths are the current visible default, and ankle socks have been labelled outdated by the same trend cycle. As a functional choice, no: for sport, heat and low-cut shoes they are still the right sock, and no trend changes that. Wear crew socks when the outfit is the point; wear ankle socks when the activity is.</div></details>
 

@@ -11,13 +11,23 @@ docTitle: "What Are Compression Socks Used For?"
 description: "Compression socks squeeze the leg hardest at the ankle and ease off up the calf, helping blood return to the heart. Who uses them, what the mmHg levels mean, and when the choice is a clinician's, not a shop decision."
 ---
 
-Compression socks look like ordinary knee-high socks, but they do a different job. An ordinary sock cushions, absorbs sweat and protects the foot. A compression sock squeezes the leg with a measured pressure that is strongest at the ankle and eases off as it rises up the calf — and that squeeze is there to help blood that has pooled in the lower legs get back to the heart. They are used for travel, for long days standing or sitting, for sport recovery, in pregnancy, and as part of treatment for vein problems. This guide explains what they do, what the strength numbers mean, and where the line falls between a shop purchase and a medical decision.
+Compression socks help blood pooled in your lower legs get back to your heart. They squeeze the leg hardest at the ankle and ease off up the calf.
+
+They look like ordinary knee-high socks, but they do a different job. An ordinary sock cushions, absorbs sweat and protects the foot.
+
+They are used for travel, for long days standing or sitting, for sport recovery, in pregnancy, and as part of treatment for vein problems.
+
+This guide explains what they do, what the strength numbers mean, and where the line falls between a shop purchase and a medical decision.
 
 ## What graduated compression means
 
 The key word is **graduated**. The sock is tightest at the ankle and progressively looser moving up the leg. That gradient is the whole mechanism: blood returns from the legs to the heart against gravity, helped by the calf muscles and one-way valves in the veins, and the pressure at the ankle gives that return an external push while the easing pressure above it encourages flow upward rather than simply constricting the leg.
 
-Without the gradient, a tight sock would just be a tight sock. With it, the sock reduces the amount of blood that pools in the lower leg veins and the fluid that leaks into the surrounding tissue — which is why the standard benefits Cleveland Clinic lists are less swelling, relief for tired or heavy legs, and support for vein health. The same squeezing action is why compression socks are a standard part of treatment for chronic venous insufficiency, where the vein valves no longer close properly and blood falls back down the leg.
+Without the gradient, a tight sock would just be a tight sock. With it, the sock reduces the amount of blood that pools in the lower leg veins and the fluid that leaks into the surrounding tissue.
+
+That is why the standard benefits Cleveland Clinic lists are less swelling, relief for tired or heavy legs, and support for vein health.
+
+The same squeezing action is why compression socks are a standard part of treatment for chronic venous insufficiency, where the vein valves no longer close properly and blood falls back down the leg.
 
 ## The mmHg levels
 
@@ -32,31 +42,75 @@ The practical line is at 20 mmHg: below it, compression socks are normally sold 
 
 ## Who uses them
 
-**Travellers.** Sitting still for hours on a long flight lets blood pool in the leg veins, which is why compression socks are a standard travel recommendation. A 2021 Cochrane review of randomised trials in passengers on flights of at least four hours found that wearing compression stockings cut symptomless deep vein thrombosis sharply — 3 of the people wearing them developed one, compared with 47 who did not, among 2,637 participants with follow-up data. What the review could not settle is whether they prevent symptomatic clots, pulmonary embolism or death, or what the ideal strength is — so travel compression is a sensible precaution, not a guarantee.
+### Travellers
 
-**People on their feet all day.** Nurses, retail and hospitality staff, teachers and anyone on a long standing shift wear them for the same reason travellers do: hours upright with little movement lets fluid collect in the lower legs, and the socks keep that collection down. Cleveland Clinic notes they may also help muscles recover after a long day on your feet.
+Sitting still for hours on a long flight lets blood pool in the leg veins. That is why compression socks are a standard travel recommendation.
 
-**People who sit all day.** Desk work is the mirror image of standing work — the legs are still, the calf muscles are not pumping, and blood pools. The same 15–20 mmHg level used for travel is the usual choice here.
+A 2021 Cochrane review of randomised trials in passengers on flights of at least four hours found that wearing compression stockings cut symptomless deep vein thrombosis sharply — 3 of the people wearing them developed one, compared with 47 who did not, among 2,637 participants with follow-up data.
 
-**Athletes.** Runners and other athletes wear compression socks during and after hard effort for recovery — the idea is the same improved return of blood and reduced swelling. The evidence for performance is thinner than for travel and medical use, and the socks are a recovery aid, not a substitute for rest.
+What the review could not settle is whether they prevent symptomatic clots, pulmonary embolism or death, or what the ideal strength is. So travel compression is a sensible precaution, not a guarantee.
 
-**Pregnancy.** Pregnancy increases blood volume and the growing uterus presses on the veins returning blood from the legs, so swelling in the feet and ankles is common. Cleveland Clinic lists pregnancy among the situations where a clinician may suggest compression socks — which means the level and the fit should be discussed with the clinician, not guessed in a shop.
+### People on their feet all day
 
-**Medical recovery and vein disease.** This is the original use: varicose veins, chronic venous insufficiency, swelling after surgery, recovery from a blood clot, and lymphedema. Here the sock is part of a treatment plan, the level is prescribed, and the fit is measured — not a self-service decision.
+Nurses, retail and hospitality staff, teachers and anyone on a long standing shift wear them for the same reason travellers do: hours upright with little movement lets fluid collect in the lower legs, and the socks keep that collection down. Cleveland Clinic notes they may also help muscles recover after a long day on your feet.
+
+### People who sit all day
+
+Desk work is the mirror image of standing work — the legs are still, the calf muscles are not pumping, and blood pools. The same 15–20 mmHg level used for travel is the usual choice here.
+
+### Athletes
+
+Runners and other athletes wear compression socks during and after hard effort for recovery — the idea is the same improved return of blood and reduced swelling. The evidence for performance is thinner than for travel and medical use, and the socks are a recovery aid, not a substitute for rest.
+
+### Pregnancy
+
+Pregnancy increases blood volume and the growing uterus presses on the veins returning blood from the legs, so swelling in the feet and ankles is common. Cleveland Clinic lists pregnancy among the situations where a clinician may suggest compression socks — which means the level and the fit should be discussed with the clinician, not guessed in a shop.
+
+### Medical recovery and vein disease
+
+This is the original use: varicose veins, chronic venous insufficiency, swelling after surgery, recovery from a blood clot, and lymphedema. Here the sock is part of a treatment plan, the level is prescribed, and the fit is measured — not a self-service decision.
 
 ## How they differ from ordinary socks
 
-Three things separate a compression sock from an ordinary sock. First, the pressure gradient: an ordinary sock is roughly the same tightness all over, while a compression sock is deliberately tightest at the ankle. Second, the fit: compression socks are sized by ankle and calf measurements, not by shoe size, because the pressure on the label only holds if the sock fits the leg it was designed for. Third, the purpose: an ordinary sock manages sweat, friction and warmth; a compression sock manages blood flow and swelling. They are different tools that happen to look alike, and the compression section of [Types of Socks](/posts/types-of-socks/) puts them in the wider picture of what socks are for.
+Three things separate a compression sock from an ordinary sock.
 
-There are also two genuinely different categories wearing the same name. **Graduated compression socks** are the common kind described here, tightest at the ankle. **Anti-embolism stockings** (also called TED stockings) apply a uniform pressure throughout and are prescribed for people who are bedbound, to prevent clots while they cannot move. And **nonmedical support hosiery** is lighter still — the "support socks" sold for tired legs, with less pressure than a true graduated sock. The name on the packet matters less than the mmHg number on the label.
+First, the pressure gradient: an ordinary sock is roughly the same tightness all over, while a compression sock is deliberately tightest at the ankle.
+
+Second, the fit: compression socks are sized by ankle and calf measurements, not by shoe size, because the pressure on the label only holds if the sock fits the leg it was designed for.
+
+Third, the purpose: an ordinary sock manages sweat, friction and warmth; a compression sock manages blood flow and swelling.
+
+They are different tools that happen to look alike, and the compression section of [Types of Socks](/posts/types-of-socks/) puts them in the wider picture of what socks are for.
+
+There are also two genuinely different categories wearing the same name.
+
+**Graduated compression socks** are the common kind described here, tightest at the ankle.
+
+**Anti-embolism stockings** (also called TED stockings) apply a uniform pressure throughout and are prescribed for people who are bedbound, to prevent clots while they cannot move.
+
+And **nonmedical support hosiery** is lighter still — the "support socks" sold for tired legs, with less pressure than a true graduated sock. The name on the packet matters less than the mmHg number on the label.
 
 ## Getting the right fit
 
-A compression sock that does not fit does not compress at the level on the label. Legs should be measured — ankle circumference, calf circumference and sometimes leg length — and the size taken from the maker's chart, not from shoe size. The socks go on first thing in the morning, before swelling builds, and they should lie smooth, with no wrinkles or bunching: a wrinkle is a line of extra pressure in one place and no pressure next to it. If the sock slides down, cuts in at the top band, or is painful to put on, the size is wrong, and a different size — or a different length, knee-high versus thigh-high — is the fix, not perseverance. The companion guide [How Long Can You Wear Compression Socks?](/posts/how-long-can-you-wear-compression-socks/) covers the daily routine, including how to put them on and when to take them off.
+A compression sock that does not fit does not compress at the level on the label.
+
+Legs should be measured — ankle circumference, calf circumference and sometimes leg length — and the size taken from the maker's chart, not from shoe size.
+
+The socks go on first thing in the morning, before swelling builds, and they should lie smooth, with no wrinkles or bunching: a wrinkle is a line of extra pressure in one place and no pressure next to it.
+
+If the sock slides down, cuts in at the top band, or is painful to put on, the size is wrong. A different size — or a different length, knee-high versus thigh-high — is the fix, not perseverance.
+
+The companion guide [How Long Can You Wear Compression Socks?](/posts/how-long-can-you-wear-compression-socks/) covers the daily routine, including how to put them on and when to take them off.
 
 ## Who should check first
 
-Compression socks are safe for most people, but not for everyone, and not in every situation. Cleveland Clinic advises against wearing them over open wounds, skin infections or very fragile skin. Anyone with diabetes, reduced feeling in the legs, or a circulation problem should check with a clinician before wearing them — reduced feeling means a sock that is too tight may not be noticed, and a circulation problem means the squeeze needs to be judged, not assumed. New, painful or one-sided swelling is a reason to see a clinician first, before buying any sock: compression treats the symptom, and the cause still needs a name.
+Compression socks are safe for most people, but not for everyone, and not in every situation.
+
+Cleveland Clinic advises against wearing them over open wounds, skin infections or very fragile skin.
+
+Anyone with diabetes, reduced feeling in the legs, or a circulation problem should check with a clinician before wearing them. Reduced feeling means a sock that is too tight may not be noticed, and a circulation problem means the squeeze needs to be judged, not assumed.
+
+New, painful or one-sided swelling is a reason to see a clinician first, before buying any sock: compression treats the symptom, and the cause still needs a name.
 
 A note on this page itself: it is general information about compression socks, not medical advice. If compression has been recommended for a medical reason, the level, the fit and the wearing schedule come from the clinician who recommended it, not from a buying guide.
 

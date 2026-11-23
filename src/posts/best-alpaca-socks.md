@@ -10,13 +10,18 @@ docTitle: "Best Alpaca Socks (2026): Alpaca Content Compared"
 description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 46%, Karu 45%, Warrior 41%, Alpacas of Montana 35%, Paka Trail 33%. Prices as reported by Adventure Alan, Jul 2026."
 ---
 
+The best alpaca sock is the one with the most alpaca in it. This guide compares all six picks by that number, from 70% down to 33%.
+
+The short version: Clohill wins on value at 70% alpaca and ~$18, Hollow is the premium warmth pick at 46%, and Paka Trail is the one built for hiking.
+
 ## The picks
 
 <div class="pick">
 <span class="badge">Best value</span>
 <h3>Clohill Alpaca Socks</h3>
 <figure><img src="/img/artifact/img-19.jpg" alt="Clohill men&#x27;s alpaca crew socks in navy, worn" /><figcaption>Photo: Clohill</figcaption></figure>
-<p>The standout on paper: 70% alpaca — the highest content in this guide — at the lowest price. A soft, warm everyday and boot sock for people who want alpaca's benefits without boutique pricing.</p>
+<p>The standout on paper: 70% alpaca — the highest content in this guide — at the lowest price.</p>
+<p>A soft, warm everyday and boot sock for people who want alpaca's benefits without boutique pricing.</p>
 <div class="spec">
 <div><b>Material:</b> 70% alpaca</div>
 <div><b>Cushion:</b> Medium</div>
@@ -30,7 +35,8 @@ description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 
 <span class="badge">Best for the trail</span>
 <h3>Paka Trail</h3>
 <figure><img src="/img/artifact/img-20.webp" alt="PAKA Trail 3/4 Crew alpaca socks in grey, worn while putting on a hiking shoe" /><figcaption>Photo: PAKA</figcaption></figure>
-<p>A 33% alpaca performance blend built for hiking — the synthetics in the knit add the abrasion resistance and spring that pure alpaca lacks. The pick if your alpaca socks will actually see trail miles.</p>
+<p>A 33% alpaca performance blend built for hiking — the synthetics in the knit add the abrasion resistance and spring that pure alpaca lacks.</p>
+<p>The pick if your alpaca socks will actually see trail miles.</p>
 <div class="spec">
 <div><b>Material:</b> 33% alpaca blend</div>
 <div><b>Cushion:</b> Medium, targeted</div>
@@ -44,7 +50,8 @@ description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 
 <span class="badge">Premium warmth</span>
 <h3>Hollow Alpaca Socks</h3>
 <figure><img src="/img/artifact/img-21.webp" alt="Hollow ankle performance alpaca sock in black" /><figcaption>Photo: Hollow</figcaption></figure>
-<p>At 46% alpaca, Hollow sits in the sweet spot: enough alpaca for serious warmth and odour resistance, enough supporting fibre to hold shape. A favourite in outdoor round-ups for cold-weather wear.</p>
+<p>At 46% alpaca, Hollow sits in the sweet spot: enough alpaca for serious warmth and odour resistance, enough supporting fibre to hold shape.</p>
+<p>A favourite in outdoor round-ups for cold-weather wear.</p>
 <div class="spec">
 <div><b>Material:</b> 46% alpaca</div>
 <div><b>Cushion:</b> Medium–full</div>
@@ -58,7 +65,8 @@ description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 
 <span class="badge">Best quarter height</span>
 <h3>Karu Quarter</h3>
 <figure><img src="/img/artifact/img-22.webp" alt="Karu alpaca wool quarter socks in black, worn on a pebble beach" /><figcaption>Photo: Karu</figcaption></figure>
-<p>45% alpaca in a quarter height — the warmest option here that still pairs naturally with trail runners and low boots. Good for cool-morning hikes where a full crew is too much sock. On genuinely hot days, though, even a quarter height is a compromise — <a href="/posts/best-socks-for-summer/">What Are the Best Socks for Summer?</a> covers the lightweight end of the range.</p>
+<p>45% alpaca in a quarter height — the warmest option here that still pairs naturally with trail runners and low boots.</p>
+<p>Good for cool-morning hikes where a full crew is too much sock. On genuinely hot days, though, even a quarter height is a compromise — <a href="/posts/best-socks-for-summer/">What Are the Best Socks for Summer?</a> covers the lightweight end of the range.</p>
 <div class="spec">
 <div><b>Material:</b> 45% alpaca</div>
 <div><b>Cushion:</b> Medium</div>
@@ -72,7 +80,8 @@ description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 
 <span class="badge">Best for training</span>
 <h3>Warrior Cross Trainers</h3>
 <figure><img src="/img/artifact/img-23.webp" alt="Warrior cushioned cross trainer alpaca crew socks in grey with charcoal heel and toe" /><figcaption>Photo: Warrior Alpaca Socks</figcaption></figure>
-<p>41% alpaca in an athletic cut. Alpaca's odour resistance earns its keep in gym and training rotation, where socks get washed hardest and smell fastest.</p>
+<p>41% alpaca in an athletic cut.</p>
+<p>Alpaca's odour resistance earns its keep in gym and training rotation, where socks get washed hardest and smell fastest.</p>
 <div class="spec">
 <div><b>Material:</b> 41% alpaca</div>
 <div><b>Cushion:</b> Light–medium, athletic</div>
@@ -86,7 +95,8 @@ description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 
 <span class="badge">Small-maker pick</span>
 <h3>Alpacas of Montana</h3>
 <figure><img src="/img/artifact/img-24.jpg" alt="Alpacas of Montana Terrain Performance alpaca socks in charcoal with blue heel, toe and sole" /><figcaption>Photo: Alpacas of Montana</figcaption></figure>
-<p>35% alpaca from a US ranch brand that raises its own animals. The blend leans on supporting fibres for durability — a practical, farm-direct option rather than a maximum-content one.</p>
+<p>35% alpaca from a US ranch brand that raises its own animals.</p>
+<p>The blend leans on supporting fibres for durability — a practical, farm-direct option rather than a maximum-content one.</p>
 <div class="spec">
 <div><b>Material:</b> 35% alpaca</div>
 <div><b>Cushion:</b> Medium</div>
