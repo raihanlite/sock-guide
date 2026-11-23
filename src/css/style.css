@@ -145,7 +145,7 @@ figcaption{font-size:.76rem;color:var(--muted);margin-top:8px}
 .article-head .crumb a:hover{text-decoration:underline}
 .article-head h1{font-size:2.45rem;line-height:1.12;margin-bottom:14px}
 .pub-date{font-size:.86rem;color:var(--muted);margin:0 0 16px}
-.article-hero{margin:6px auto 4px;max-width:860px}
+.article-hero{margin:6px auto 32px;max-width:860px}
 .article-hero img{width:100%;max-height:460px;object-fit:cover;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.08)}
 .article-hero figcaption{text-align:center}
 .prose{max-width:680px;margin:0 auto}
