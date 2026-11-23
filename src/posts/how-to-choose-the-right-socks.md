@@ -33,22 +33,25 @@ Feet sweat in every shoe; the question is what the fibre does with it. Moisture-
 
 Choose socks by foot size, not shoe size — and if you fall between sizes, size down: spare fabric bunches, and bunched fabric blisters. Then, with the sock on, run this check:
 
-- Heel cup: the sock's shaped heel pocket sits exactly on your heel — not under it, not up in your arch. If it lands in the arch, the size or the cut is wrong.
-- Toe: the fabric lies flat across your toes with no spare material to fold, and the toe seam sits flat rather than on top of your toes. A flat or seamless toe join removes the ridge that rubs — worth having for sport and long days.
-- Snug, not tight: the sock hugs the foot without squeezing, and you can spread your toes.
-- No sliding: walk a few steps. The sock should not creep down at the heel or rotate in the shoe; a snug arch band keeps it in place without digging in.
-- Reinforced heel and toe in a denser weave or nylon blend is where durability is decided; that is where every sock wears out first.
+- **Heel cup:** the sock's shaped heel pocket sits exactly on your heel — not under it, not up in your arch. If it lands in the arch, the size or the cut is wrong.
+- **Toe:** the fabric lies flat across your toes with no spare material to fold, and the toe seam sits flat rather than on top of your toes. A flat or seamless toe join removes the ridge that rubs — worth having for sport and long days.
+- **Snug, not tight:** the sock hugs the foot without squeezing, and you can spread your toes.
+- **No sliding:** walk a few steps. The sock should not creep down at the heel or rotate in the shoe; a snug arch band keeps it in place without digging in.
+- **Reinforced heel and toe** in a denser weave or nylon blend is where durability is decided; that is where every sock wears out first.
 
 ## Quick reference: what to prioritise
 
-| Use | Material | Height | Cushion |
-| --- | --- | --- | --- |
-| Work boots | Merino blend or fast-drying synthetic | Crew / boot height | Medium to maximum |
-| Running & court sports | Synthetic or merino performance blend | Ankle or quarter | Light, targeted at heel & forefoot |
-| Hiking | Merino or [alpaca](/posts/best-alpaca-socks/) blend | Quarter to crew, above the boot collar | Medium |
-| Cold weather | Heavy merino or alpaca; heated socks for still, severe cold | Crew or higher | Full |
-| Everyday & office | Merino blend, cotton blend for short dry wear | Crew or ankle by shoe | Light to medium |
-| Summer | Lightweight merino or performance synthetic | Ankle or quarter | Light, with mesh panels |
+<table class="compare">
+      <thead><tr><th>Use</th><th>Material</th><th>Height</th><th>Cushion</th></tr></thead>
+      <tbody>
+        <tr><td>Work boots</td><td data-label="Material">Merino blend or fast-drying synthetic</td><td data-label="Height">Crew / boot height</td><td data-label="Cushion">Medium to maximum</td></tr>
+        <tr><td>Running &amp; court sports</td><td data-label="Material">Synthetic or merino performance blend</td><td data-label="Height">Ankle or quarter</td><td data-label="Cushion">Light, targeted at heel &amp; forefoot</td></tr>
+        <tr><td>Hiking</td><td data-label="Material">Merino or <a href="/posts/best-alpaca-socks/">alpaca</a> blend</td><td data-label="Height">Quarter to crew, above the boot collar</td><td data-label="Cushion">Medium</td></tr>
+        <tr><td>Cold weather</td><td data-label="Material">Heavy merino or alpaca; heated socks for still, severe cold</td><td data-label="Height">Crew or higher</td><td data-label="Cushion">Full</td></tr>
+        <tr><td>Everyday &amp; office</td><td data-label="Material">Merino blend, cotton blend for short dry wear</td><td data-label="Height">Crew or ankle by shoe</td><td data-label="Cushion">Light to medium</td></tr>
+        <tr><td>Summer</td><td data-label="Material">Lightweight merino or performance synthetic</td><td data-label="Height">Ankle or quarter</td><td data-label="Cushion">Light, with mesh panels</td></tr>
+      </tbody>
+    </table>
 
 ## Step 6: Own enough pairs, rotate them — and replace them on time
 
@@ -58,18 +61,17 @@ Socks are consumables, not permanent kit. As a rule, replace everyday socks ever
 
 ## Common mistakes
 
-- Buying by shoe size instead of foot size — or sizing up “for room”, which guarantees bunching and blisters.
-- 100% cotton for sport or work — it holds sweat against the skin and is the classic avoidable blister recipe.
-- A too-thick sock in a snug shoe — the padding eats the shoe's volume, the fit goes tight, and feet end up sorer, not comfier.
-- Ignoring the shoe collar — a sock shorter than the collar leaves the collar rubbing bare skin all day.
-- Judging by the fibre name alone — a “merino blend” that is mostly nylon behaves like a synthetic sock. Read the percentages on the label before you judge what you are buying.
+- **Buying by shoe size** instead of foot size — or sizing up “for room”, which guarantees bunching and blisters.
+- **100% cotton for sport or work** — it holds sweat against the skin and is the classic avoidable blister recipe.
+- **A too-thick sock in a snug shoe** — the padding eats the shoe's volume, the fit goes tight, and feet end up sorer, not comfier.
+- **Ignoring the shoe collar** — a sock shorter than the collar leaves the collar rubbing bare skin all day.
+- **Judging by the fibre name alone** — a “merino blend” that is mostly nylon behaves like a synthetic sock. Read the percentages on the label before you judge what you are buying.
 
 ## FAQ
+<details class="faq"><summary>What is the single most important factor?</summary><div class="a">Fit to the shoe. The right fibre in the wrong height or size still blisters, slips or overheats. Start with the shoe and the job, then work through height, cushion and fabric — that is why this guide is ordered the way it is.</div></details>
 
-**What is the single most important factor?** Fit to the shoe. The right fibre in the wrong height or size still blisters, slips or overheats. Start with the shoe and the job, then work through height, cushion and fabric — that is why this guide is ordered the way it is.
+<details class="faq"><summary>Are expensive socks actually better?</summary><div class="a">Up to a point. Price usually buys better fibres, shaped fits, reinforced wear zones and, in the case of brands like Darn Tough in our <a href="/posts/best-work-socks/">work socks guide</a>, a lifetime replacement guarantee. Past a certain level you are paying for small refinements — but the jump from a basic cotton multi-pack to a proper activity sock is real and noticeable.</div></details>
 
-**Are expensive socks actually better?** Up to a point. Price usually buys better fibres, shaped fits, reinforced wear zones and, in the case of brands like Darn Tough in our [work socks guide](/posts/best-work-socks/), a lifetime replacement guarantee. Past a certain level you are paying for small refinements — but the jump from a basic cotton multi-pack to a proper activity sock is real and noticeable.
+<details class="faq"><summary>How can I tell a sock's quality in the shop?</summary><div class="a">Check the fibre percentages on the label, look for a shaped heel pocket and flat toe seam, feel whether the heel and toe are knitted denser than the body, and stretch the cuff — it should recover crisply, not stay stretched.</div></details>
 
-**How can I tell a sock's quality in the shop?** Check the fibre percentages on the label, look for a shaped heel pocket and flat toe seam, feel whether the heel and toe are knitted denser than the body, and stretch the cuff — it should recover crisply, not stay stretched.
-
-**Should I buy socks a size up for thick winter pairs?** No — buy your size and make sure the shoe has room for the thicker sock. A sock that is too large folds underfoot; a shoe that is too small for its sock restricts circulation and makes feet colder, not warmer.
+<details class="faq"><summary>Should I buy socks a size up for thick winter pairs?</summary><div class="a">No — buy your size and make sure the shoe has room for the thicker sock. A sock that is too large folds underfoot; a shoe that is too small for its sock restricts circulation and makes feet colder, not warmer.</div></details>

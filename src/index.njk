@@ -3,73 +3,74 @@ docTitle: "Sock Guide — Best Socks by Job, Sport & Weather"
 layout: layouts/base.njk
 title: Best Socks by Use — Work, Running, Heated & More
 description: "Sock Guide helps you choose the right socks for the job: best work socks, socks for work boots, alpaca socks, heated socks for hunting and tennis socks — plus buying guides on summer socks, cotton vs merino wool, sock heights, choosing the right socks and sweaty feet."
+isHome: true
 ---
 {# Featured guide: Best Work Socks (artifact hero copy/image) #}
-<section class="hero">
+<div class="hero">
 {% for p in collections.posts %}{% if p.fileSlug == "best-work-socks" %}
 {% set a = artifact.posts[p.fileSlug] %}
-  <a href="{{ p.url }}"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></a>
+  <figure><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></figure>
   <div>
-    <p class="eyebrow">{{ artifact.heroKicker }}</p>
-    <h1><a href="{{ p.url }}">{{ a.heroTitle or p.data.title }}</a></h1>
+    <p class="kicker">{{ artifact.heroKicker }}</p>
+    <h1>{{ a.heroTitle or p.data.title }}</h1>
     <p class="excerpt">{{ a.heroExcerpt or p.data.description }}</p>
   </div>
 {% endif %}{% endfor %}
-</section>
+</div>
 
 {# AdSense slot (leaderboard, after hero). Empty and hidden until a real publisher ID is added; no ad script loads. #}
 <div class="ad-slot" data-ad-slot="leaderboard" hidden aria-hidden="true"></div>
 
 {# Row of 3 cards, in artifact order: Work Boots, Alpaca, Heated #}
-<div class="card-row">
+<div class="feat-row">
 {% for slug in ["best-socks-for-work-boots", "best-alpaca-socks", "best-heated-socks-for-hunting"] %}
 {% for p in collections.posts %}{% if p.fileSlug == slug %}
 {% set a = artifact.posts[p.fileSlug] %}
-  <article class="feature-card"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
-    <a href="{{ p.url }}"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></a>
+  <a class="feat-card" href="{{ p.url }}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
+    <div class="ph"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></div>
     <div class="label-box">
-      <p class="eyebrow">{{ a.label or p.data.category }}</p>
-      <h3><a href="{{ p.url }}">{{ a.cardTitle or p.data.title }}</a></h3>
+      <p class="kicker">{{ a.label or p.data.category }}</p>
+      <h3>{{ a.cardTitle or p.data.title }}</h3>
     </div>
-  </article>
+  </a>
 {% endif %}{% endfor %}
 {% endfor %}
 </div>
 
 {# Latest posts + sidebar #}
-<h2 class="section-title" id="latest">Latest Posts</h2>
 <div class="latest">
-  <div class="latest-list">
-    <p id="searchNote" class="search-note" hidden></p>
-    <p id="noResults" class="no-results" hidden>No guides match that search yet. Try “work”, “summer”, “merino”, “heated” or “tennis”.</p>
+  <div>
+    <div class="section-head" id="latest"><h2>LATEST POSTS</h2></div>
+    <div class="post-list" id="postList">
   {% for p in collections.latestPosts %}
 {% set a = artifact.posts[p.fileSlug] %}
-    <article class="post-row{% if loop.index > 3 %} extra{% endif %}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
-      <a href="{{ p.url }}"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></a>
-      <div>
-        <p class="eyebrow">{{ a.label or p.data.category }}</p>
-        <h3><a href="{{ p.url }}">{{ a.cardTitle or p.data.title }}</a></h3>
-        <p class="excerpt">{{ a.excerpt or p.data.description }}</p>
-      </div>
-    </article>
+      <a class="post-item{% if loop.index > 3 %} extra{% endif %}" href="{{ p.url }}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
+        <img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}">
+        <div>
+          <p class="kicker">{{ a.label or p.data.category }}</p>
+          <h3>{{ a.cardTitle or p.data.title }}</h3>
+          <p>{{ a.excerpt or p.data.description }}</p>
+        </div>
+      </a>
   {% endfor %}
-    <div class="load-more-wrap"><button class="btn load-more" id="loadMoreBtn" type="button">Load More</button></div>
+      <p class="no-results" id="noResults">No guides match that search yet. Try “work”, “summer”, “merino”, “heated” or “tennis”.</p>
+    </div>
+    <div class="load-more-wrap"><button class="btn-load" id="loadMoreBtn" type="button">LOAD MORE</button></div>
   </div>
   <aside>
-    <div class="sidebar-box">
+    <div class="side-box">
       <h3>Welcome to Sock Guide</h3>
       <p>Sock Guide collects plain, practical guides to choosing the right socks for work, sport and cold weather.</p>
     </div>
     {# AdSense slot (sidebar). Empty and hidden until a real publisher ID is added; no ad script loads. #}
     <div class="ad-slot" data-ad-slot="sidebar" hidden aria-hidden="true"></div>
-    <div class="sidebar-box">
+    <div class="side-box">
       <h3>Subscribe to Newsletter</h3>
-      <form class="newsletter-form" data-newsletter>
-        <label class="sr-only" for="sidebarEmail">Your email address</label>
-        <input type="email" id="sidebarEmail" name="email" placeholder="Your email address" required>
-        <button class="btn" type="submit">Subscribe</button>
+      <form class="news-form" data-newsletter>
+        <input type="email" id="newsletter-email-sidebar" name="email" placeholder="Your email address" required aria-label="Email address">
+        <button class="btn-black" type="submit">Subscribe</button>
       </form>
-      <p class="form-note" hidden>Your email app is opening — send the message there to finish subscribing.</p>
+      <p class="news-done" role="status">Your email app is opening — send the message there to finish subscribing.</p>
     </div>
   </aside>
 </div>
@@ -77,12 +78,12 @@ description: "Sock Guide helps you choose the right socks for the job: best work
 <script>
 (function () {
   var btn = document.getElementById('loadMoreBtn');
-  var list = document.querySelector('.latest-list');
+  var list = document.querySelector('.post-list');
   if (!btn || !list) return;
   btn.addEventListener('click', function () {
     list.classList.add('show-all');
     btn.style.display = 'none';
   });
-  if (!document.querySelector('.post-row.extra')) btn.style.display = 'none';
+  if (!document.querySelector('.post-item.extra')) btn.style.display = 'none';
 })();
 </script>

@@ -13,76 +13,108 @@ description: "Best heated socks for hunting judged on runtime on low: Fieldsheer
 ## The picks
 
 <div class="pick">
-<h3>1. Fieldsheer Merino 2.0 — Longest runtime</h3>
-<img class="pick-img" src="/img/artifact/img-25.webp" alt="Fieldsheer Merino 2.0 heated socks in grey with orange and black accents" loading="lazy">
-<p class="pick-credit">Photo: Fieldsheer</p>
-<p><strong>Material:</strong> Merino wool blend <strong>Cushion:</strong> Medium <strong>Runtime:</strong> 16+ hours on low <strong>Price:</strong> $99.99 (reported Nov 2026)</p>
+<span class="badge">Longest runtime</span>
+<h3>Fieldsheer Merino 2.0</h3>
+<figure><img src="/img/artifact/img-25.webp" alt="Fieldsheer Merino 2.0 heated socks in grey with orange and black accents" /><figcaption>Photo: Fieldsheer</figcaption></figure>
 <p>The endurance pick: a merino-blend heated sock rated at 16+ hours on low — a full day's sit plus the walk out, on one charge. At $99.99 it is also priced below the premium tier it outlasts.</p>
-<p class="buy-links"><a class="btn" href="https://fieldsheer.com/products/merino-2-0-heated-socks-unisex?variant=52509345251696" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Material:</b> Merino wool blend</div>
+<div><b>Cushion:</b> Medium</div>
+<div><b>Runtime:</b> 16+ hours on low</div>
+<div><b>Price:</b> $99.99 (reported Nov 2026)</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://fieldsheer.com/products/merino-2-0-heated-socks-unisex?variant=52509345251696" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 <div class="pick">
-<h3>2. Gerbing 7V Wool — Field &amp; Stream best overall</h3>
-<img class="pick-img" src="/img/artifact/img-26.webp" alt="Gerbing 7V Ultimate Wool heated socks in black with red branding" loading="lazy">
-<p class="pick-credit">Photo: Gerbing</p>
-<p><strong>Material:</strong> Wool blend <strong>Cushion:</strong> Medium <strong>Best for:</strong> All-round hunting use <strong>Price:</strong> Check current price</p>
+<span class="badge">Field &amp; Stream best overall</span>
+<h3>Gerbing 7V Wool</h3>
+<figure><img src="/img/artifact/img-26.webp" alt="Gerbing 7V Ultimate Wool heated socks in black with red branding" /><figcaption>Photo: Gerbing</figcaption></figure>
 <p>Named best overall in Field &amp; Stream's heated-sock coverage. Gerbing is a long-standing name in heated clothing, and the 7V wool sock pairs that heating system with a wool knit that still insulates when the power is off. Like every sock in this guide it is a crew height or higher — in boots that coverage is a requirement, not a style choice, as <a href="/posts/crew-socks-vs-ankle-socks/">Crew Socks vs Ankle Socks</a> explains.</p>
-<p class="buy-links"><a class="btn" href="https://www.gerbing.com/collections/battery-heated-socks-and-insoles/products/gerbing-7v-ultimate-wool-heated-socks?variant=44873747595555" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Material:</b> Wool blend</div>
+<div><b>Cushion:</b> Medium</div>
+<div><b>Best for:</b> All-round hunting use</div>
+<div><b>Price:</b> Check current price</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://www.gerbing.com/collections/battery-heated-socks-and-insoles/products/gerbing-7v-ultimate-wool-heated-socks?variant=44873747595555" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 <div class="pick">
-<h3>3. Fieldsheer Pro Merino — Premium pick</h3>
-<img class="pick-img" src="/img/artifact/img-27.webp" alt="Fieldsheer Pro Merino heated socks in grey with orange and black accents" loading="lazy">
-<p class="pick-credit">Photo: Fieldsheer</p>
-<p><strong>Material:</strong> Merino wool blend, heavier knit <strong>Cushion:</strong> Medium–full <strong>Runtime:</strong> 13+ hours on low <strong>Price:</strong> $159.99 (reported Nov 2026)</p>
+<span class="badge">Premium pick</span>
+<h3>Fieldsheer Pro Merino</h3>
+<figure><img src="/img/artifact/img-27.webp" alt="Fieldsheer Pro Merino heated socks in grey with orange and black accents" /><figcaption>Photo: Fieldsheer</figcaption></figure>
 <p>The step-up Fieldsheer: 13+ hours on low with a heavier merino build for the coldest sits. You pay $159.99 for build and insulation quality rather than raw hours — the 2.0 above runs longer for less, so choose this for severe cold, not for value.</p>
-<p class="buy-links"><a class="btn" href="https://fieldsheer.com/products/pro-merino-heated-socks-unisex" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Material:</b> Merino wool blend, heavier knit</div>
+<div><b>Cushion:</b> Medium–full</div>
+<div><b>Runtime:</b> 13+ hours on low</div>
+<div><b>Price:</b> $159.99 (reported Nov 2026)</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://fieldsheer.com/products/pro-merino-heated-socks-unisex" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 <div class="pick">
-<h3>4. Snow Deer Heated Socks — Budget pick</h3>
-<img class="pick-img" src="/img/artifact/img-28.jpg" alt="Snow Deer 7.4V rechargeable heated socks in black" loading="lazy">
-<p class="pick-credit">Photo: Snow Deer</p>
-<p><strong>Material:</strong> Synthetic blend <strong>Cushion:</strong> Light–medium <strong>Runtime:</strong> ~6 hours <strong>Price:</strong> Budget tier — check current price</p>
+<span class="badge">Budget pick</span>
+<h3>Snow Deer Heated Socks</h3>
+<figure><img src="/img/artifact/img-28.jpg" alt="Snow Deer 7.4V rechargeable heated socks in black" /><figcaption>Photo: Snow Deer</figcaption></figure>
 <p>The widely sold budget option, at roughly 6 hours of heat. That covers a morning sit or an evening hunt, not a full day — know that limit, carry the hunt you planned around it, and it is honest value.</p>
-<p class="buy-links"><a class="btn" href="https://www.amazon.com/dp/B07SZQ31FN" target="_blank" rel="nofollow noopener">Amazon</a></p>
+<div class="spec">
+<div><b>Material:</b> Synthetic blend</div>
+<div><b>Cushion:</b> Light–medium</div>
+<div><b>Runtime:</b> ~6 hours</div>
+<div><b>Price:</b> Budget tier — check current price</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://www.amazon.com/dp/B07SZQ31FN" target="_blank" rel="noopener">Amazon</a></div>
 </div>
 
 <div class="pick">
-<h3>5. Lenz Heat Sock 5.0 — App control</h3>
-<img class="pick-img" src="/img/artifact/img-29.webp" alt="Lenz Heat Sock 5.0 Toe Cap heated sock in black with a red toe" loading="lazy">
-<p class="pick-credit">Photo: Lenz</p>
-<p><strong>Material:</strong> Wool/synthetic performance blend <strong>Cushion:</strong> Medium <strong>Runtime:</strong> Up to 14 hours; app-controlled <strong>Price:</strong> Premium tier — check current price</p>
+<span class="badge">App control</span>
+<h3>Lenz Heat Sock 5.0</h3>
+<figure><img src="/img/artifact/img-29.webp" alt="Lenz Heat Sock 5.0 Toe Cap heated sock in black with a red toe" /><figcaption>Photo: Lenz</figcaption></figure>
 <p>Up to 14 hours of heat with Bluetooth app control, so you can change settings without unlayering in the blind — a real advantage at first light. Lenz is the premium European system, priced accordingly, with interchangeable batteries across its range.</p>
-<p class="buy-links"><a class="btn" href="https://lenzproducts.com/en/products/heat-sock-5-0-toe-cap-slim-fit" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Material:</b> Wool/synthetic performance blend</div>
+<div><b>Cushion:</b> Medium</div>
+<div><b>Runtime:</b> Up to 14 hours; app-controlled</div>
+<div><b>Price:</b> Premium tier — check current price</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://lenzproducts.com/en/products/heat-sock-5-0-toe-cap-slim-fit" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 <div class="pick">
-<h3>6. ActionHeat 5V — Mid-range</h3>
-<img class="pick-img" src="/img/artifact/img-30.jpg" alt="ActionHeat 5V battery heated cotton socks in black, shown with their battery packs" loading="lazy">
-<p class="pick-credit">Photo: ActionHeat</p>
-<p><strong>Material:</strong> Synthetic blend <strong>Cushion:</strong> Light–medium <strong>Runtime:</strong> Up to 8 hours <strong>Price:</strong> Check current price</p>
+<span class="badge">Mid-range</span>
+<h3>ActionHeat 5V</h3>
+<figure><img src="/img/artifact/img-30.jpg" alt="ActionHeat 5V battery heated cotton socks in black, shown with their battery packs" /><figcaption>Photo: ActionHeat</figcaption></figure>
 <p>A 5V system rated up to 8 hours — enough for most single sits, short of an all-day blind session without a spare battery. A reasonable middle option if the Fieldsheer prices stretch the budget.</p>
-<p class="buy-links"><a class="btn" href="https://actionheat.com/products/actionheat-5v-battery-heated-socks-cotton" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Material:</b> Synthetic blend</div>
+<div><b>Cushion:</b> Light–medium</div>
+<div><b>Runtime:</b> Up to 8 hours</div>
+<div><b>Price:</b> Check current price</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://actionheat.com/products/actionheat-5v-battery-heated-socks-cotton" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 ## Comparison table
 
-| Sock | Runtime (low / stated) | Material | Standout | Price (reported Nov 2026) |
-| --- | --- | --- | --- | --- |
-| Fieldsheer Merino 2.0 | 16+ hrs on low | Merino blend | Longest runtime | $99.99 |
-| Gerbing 7V Wool | See maker specs | Wool blend | Field & Stream best overall | Check current price |
-| Fieldsheer Pro Merino | 13+ hrs on low | Merino blend, heavy | Premium build | $159.99 |
-| Snow Deer | ~6 hrs | Synthetic blend | Budget | Check current price |
-| Lenz Heat Sock 5.0 | Up to 14 hrs | Wool/synthetic blend | App control | Check current price |
-| ActionHeat 5V | Up to 8 hrs | Synthetic blend | Mid-range | Check current price |
+<table class="compare">
+      <thead><tr><th>Sock</th><th>Runtime (low / stated)</th><th>Material</th><th>Standout</th><th>Price (reported Nov 2026)</th></tr></thead>
+      <tbody>
+        <tr><td>Fieldsheer Merino 2.0</td><td data-label="Runtime">16+ hrs on low</td><td data-label="Material">Merino blend</td><td data-label="Standout">Longest runtime</td><td data-label="Price">$99.99</td></tr>
+        <tr><td>Gerbing 7V Wool</td><td data-label="Runtime">See maker specs</td><td data-label="Material">Wool blend</td><td data-label="Standout">Field &amp; Stream best overall</td><td data-label="Price">Check current price</td></tr>
+        <tr><td>Fieldsheer Pro Merino</td><td data-label="Runtime">13+ hrs on low</td><td data-label="Material">Merino blend, heavy</td><td data-label="Standout">Premium build</td><td data-label="Price">$159.99</td></tr>
+        <tr><td>Snow Deer</td><td data-label="Runtime">~6 hrs</td><td data-label="Material">Synthetic blend</td><td data-label="Standout">Budget</td><td data-label="Price">Check current price</td></tr>
+        <tr><td>Lenz Heat Sock 5.0</td><td data-label="Runtime">Up to 14 hrs</td><td data-label="Material">Wool/synthetic blend</td><td data-label="Standout">App control</td><td data-label="Price">Check current price</td></tr>
+        <tr><td>ActionHeat 5V</td><td data-label="Runtime">Up to 8 hrs</td><td data-label="Material">Synthetic blend</td><td data-label="Standout">Mid-range</td><td data-label="Price">Check current price</td></tr>
+      </tbody>
+    </table>
 
 ## FAQ
+<details class="faq"><summary>How long do heated socks actually last on a hunt?</summary><div class="a">On low — the setting you will use most — from about 6 hours for budget models to 16+ hours for the Fieldsheer Merino 2.0. High settings can cut those figures to a third. Plan your hunt around the low figure and treat anything above it as warm-up time.</div></details>
 
-**How long do heated socks actually last on a hunt?** On low — the setting you will use most — from about 6 hours for budget models to 16+ hours for the Fieldsheer Merino 2.0. High settings can cut those figures to a third. Plan your hunt around the low figure and treat anything above it as warm-up time.
+<details class="faq"><summary>Are heated socks safe and washable?</summary><div class="a">They are low-voltage battery systems designed to be worn against the skin. Follow the maker's washing instructions — typically batteries out, gentle wash, air dry — and never wear a sock with a damaged heating element or swollen battery.</div></details>
 
-**Are heated socks safe and washable?** They are low-voltage battery systems designed to be worn against the skin. Follow the maker's washing instructions — typically batteries out, gentle wash, air dry — and never wear a sock with a damaged heating element or swollen battery.
+<details class="faq"><summary>Heated socks or better boots?</summary><div class="a">Both solve different halves of the problem. Insulated boots slow heat loss; heated socks add heat your body is not generating while sitting still. If your feet go numb on long sits despite decent boots, heated socks are the missing half. <a href="/posts/how-to-choose-the-right-socks/">How to Choose the Right Socks</a> walks through that shoe-first decision — height, cushion, fabric, fit — in full.</div></details>
 
-**Heated socks or better boots?** Both solve different halves of the problem. Insulated boots slow heat loss; heated socks add heat your body is not generating while sitting still. If your feet go numb on long sits despite decent boots, heated socks are the missing half. [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/) walks through that shoe-first decision — height, cushion, fabric, fit — in full.
-
-**Should I buy spare batteries?** If your sits run past your sock's low-setting runtime, yes — spares are the cheapest way to double your day, and they let you run a higher setting during the coldest first hour without rationing power.
+<details class="faq"><summary>Should I buy spare batteries?</summary><div class="a">If your sits run past your sock's low-setting runtime, yes — spares are the cheapest way to double your day, and they let you run a higher setting during the coldest first hour without rationing power.</div></details>

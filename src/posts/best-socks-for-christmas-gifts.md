@@ -15,67 +15,97 @@ Socks are a good Christmas gift when the pair says something about the person. A
 
 ## At a glance
 
-- Best overall funny gift: Socksmith Significant Otter
-- For the dog person: Sock It to Me Corgi Love
-- For the cozy one: Sock It to Me Magic Mushrooms slipper socks
-- For the outdoorsy one / dad: Darn Tough Number 2 Micro Crew
-- For kids: Socksmith Kids' Significant Otter
-- For the office Secret Santa: Socksmith Cocoa Christmas
+- **Best overall funny gift:** Socksmith Significant Otter
+- **For the dog person:** Sock It to Me Corgi Love
+- **For the cozy one:** Sock It to Me Magic Mushrooms slipper socks
+- **For the outdoorsy one / dad:** Darn Tough Number 2 Micro Crew
+- **For kids:** Socksmith Kids' Significant Otter
+- **For the office Secret Santa:** Socksmith Cocoa Christmas
 
 ## The picks
 
 <div class="pick">
-<h3>1. Socksmith Significant Otter — Best overall funny gift</h3>
-<img class="pick-img" src="/img/picks/socksmith-significant-otter.jpg" alt="Socksmith Significant Otter women&#x27;s crew socks with otters holding paws" loading="lazy">
-<p class="pick-credit">Photo: Socksmith</p>
-<p><strong>Best for:</strong> The animal lover, or anyone who likes a joke gift <strong>Material:</strong> 45% cotton, 52% nylon, 3% spandex (women's version) <strong>Cushion:</strong> Not stated — described as a midweight feel <strong>Height:</strong> Crew</p>
+<span class="badge">Best overall funny gift</span>
+<h3>Socksmith Significant Otter</h3>
+<figure><img src="/img/picks/socksmith-significant-otter.jpg" alt="Socksmith Significant Otter women&#x27;s crew socks with otters holding paws" /><figcaption>Photo: Socksmith</figcaption></figure>
 <p>The pun (“significant otter”) and the otters holding paws are readable at a glance, which is what makes a novelty sock work as a gift. It is a novelty cotton crew, not a warm or performance sock — buy it for the joke, not for cold feet. A men's version exists with the same design.</p>
-<p class="buy-links"><a class="btn" href="https://www.socksmith.com/products/womens-otter-socks" target="_blank" rel="nofollow noopener">Official site</a><a class="btn" href="https://www.amazon.com/dp/B01B28W1Z0" target="_blank" rel="nofollow noopener">Amazon</a></p>
+<div class="spec">
+<div><b>Best for:</b> The animal lover, or anyone who likes a joke gift</div>
+<div><b>Material:</b> 45% cotton, 52% nylon, 3% spandex (women's version)</div>
+<div><b>Cushion:</b> Not stated — described as a midweight feel</div>
+<div><b>Height:</b> Crew</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://www.socksmith.com/products/womens-otter-socks" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B01B28W1Z0" target="_blank" rel="noopener">Amazon</a></div>
 </div>
 
 <div class="pick">
-<h3>2. Sock It to Me Corgi Love — For the dog person</h3>
-<img class="pick-img" src="/img/picks/sockittome-corgi-love.jpg" alt="Sock It to Me Corgi Love quarter socks with a corgi design, worn" loading="lazy">
-<p class="pick-credit">Photo: Sock It to Me</p>
-<p><strong>Best for:</strong> The corgi lover, or any dog person <strong>Material:</strong> 65% cotton, 32% polyester, 3% elastane, with a reinforced 2-ply heel and toe <strong>Cushion:</strong> Not stated <strong>Height:</strong> Quarter</p>
+<span class="badge">For the dog person</span>
+<h3>Sock It to Me Corgi Love</h3>
+<figure><img src="/img/picks/sockittome-corgi-love.jpg" alt="Sock It to Me Corgi Love quarter socks with a corgi design, worn" /><figcaption>Photo: Sock It to Me</figcaption></figure>
 <p>This is a quarter sock, sitting just over the ankle, not a classic crew — good for trainers and low shoes, a poor pick for someone who wants a tall crew sock. Design by artist Rachel Rosenkoetter.</p>
-<p class="buy-links"><a class="btn" href="https://www.sockittome.com/products/corgi-love-quarter-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Best for:</b> The corgi lover, or any dog person</div>
+<div><b>Material:</b> 65% cotton, 32% polyester, 3% elastane, with a reinforced 2-ply heel and toe</div>
+<div><b>Cushion:</b> Not stated</div>
+<div><b>Height:</b> Quarter</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://www.sockittome.com/products/corgi-love-quarter-socks" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 <div class="pick">
-<h3>3. Sock It to Me Magic Mushrooms Slipper Socks — For the cozy one</h3>
-<img class="pick-img" src="/img/picks/sockittome-magic-mushrooms-slipper.jpg" alt="Sock It to Me Magic Mushrooms women&#x27;s slipper socks, worn" loading="lazy">
-<p class="pick-credit">Photo: Sock It to Me</p>
-<p><strong>Best for:</strong> The person who is always cold at home <strong>Material:</strong> 99% polyester, 1% elastane, fuzzy plush construction, with non-slip silicone grippers on the footbed <strong>Cushion:</strong> Not stated <strong>Height:</strong> Slipper sock (house wear)</p>
+<span class="badge">For the cozy one</span>
+<h3>Sock It to Me Magic Mushrooms Slipper Socks</h3>
+<figure><img src="/img/picks/sockittome-magic-mushrooms-slipper.jpg" alt="Sock It to Me Magic Mushrooms women&#x27;s slipper socks, worn" /><figcaption>Photo: Sock It to Me</figcaption></figure>
 <p>Genuinely the cosiest pick here — plush, warm, and the grippers work on hard floors. It is a house sock, not for wearing with shoes outdoors. Also featured in Sock It to Me's own 2025 Holiday Gift Guide for the cozy homebody.</p>
-<p class="buy-links"><a class="btn" href="https://www.sockittome.com/products/magic-mushrooms-slipper-socks-cz0015" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Best for:</b> The person who is always cold at home</div>
+<div><b>Material:</b> 99% polyester, 1% elastane, fuzzy plush construction, with non-slip silicone grippers on the footbed</div>
+<div><b>Cushion:</b> Not stated</div>
+<div><b>Height:</b> Slipper sock (house wear)</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://www.sockittome.com/products/magic-mushrooms-slipper-socks-cz0015" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 <div class="pick">
-<h3>4. Darn Tough Men's Number 2 Micro Crew — For the outdoorsy one</h3>
-<img class="pick-img" src="/img/picks/darn-tough-number-2.png" alt="Darn Tough Men&#x27;s Number 2 Micro Crew cushioned hiking sock in seafoam" loading="lazy">
-<p class="pick-credit">Photo: Darn Tough</p>
-<p><strong>Best for:</strong> The outdoorsy dad, or anyone who hikes <strong>Material:</strong> 63% merino wool, 35% nylon, 2% elastane <strong>Cushion:</strong> Midweight, with terry loops underfoot and targeted protection over the ankle and Achilles <strong>Height:</strong> Micro crew</p>
+<span class="badge">For the outdoorsy one</span>
+<h3>Darn Tough Men's Number 2 Micro Crew</h3>
+<figure><img src="/img/picks/darn-tough-number-2.png" alt="Darn Tough Men&#x27;s Number 2 Micro Crew cushioned hiking sock in seafoam" /><figcaption>Photo: Darn Tough</figcaption></figure>
 <p>The quality pick of the list — real merino, a proper hiking cushion, and a lifetime guarantee; the “Number 2” name is itself a small joke for a dad gift. It is a micro crew rather than a full crew. Unconditionally guaranteed for life. For why merino handles sweat the way it does, see <a href="/posts/cotton-vs-merino-wool-socks/">Cotton vs Merino Wool Socks</a>.</p>
-<p class="buy-links"><a class="btn" href="https://darntough.com/products/mens-merino-wool-number-2-micro-crew-cushioned-midweight-hiking-socks?variant=37874215354554" target="_blank" rel="nofollow noopener">Official site</a><a class="btn" href="https://www.amazon.com/dp/B07N1TM2SJ" target="_blank" rel="nofollow noopener">Amazon</a></p>
+<div class="spec">
+<div><b>Best for:</b> The outdoorsy dad, or anyone who hikes</div>
+<div><b>Material:</b> 63% merino wool, 35% nylon, 2% elastane</div>
+<div><b>Cushion:</b> Midweight, with terry loops underfoot and targeted protection over the ankle and Achilles</div>
+<div><b>Height:</b> Micro crew</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://darntough.com/products/mens-merino-wool-number-2-micro-crew-cushioned-midweight-hiking-socks?variant=37874215354554" target="_blank" rel="noopener">Official site</a><a class="btn-buy alt" href="https://www.amazon.com/dp/B07N1TM2SJ" target="_blank" rel="noopener">Amazon</a></div>
 </div>
 
 <div class="pick">
-<h3>5. Socksmith Kids' Significant Otter — For kids</h3>
-<img class="pick-img" src="/img/picks/socksmith-kids-otter.jpg" alt="Socksmith Kids&#x27; Significant Otter cotton crew socks" loading="lazy">
-<p class="pick-credit">Photo: Socksmith</p>
-<p><strong>Best for:</strong> Kids aged about 2–7 years, and for matching family gifts <strong>Material:</strong> 62% cotton, 37% nylon, 1% spandex <strong>Cushion:</strong> Not stated <strong>Height:</strong> Classic crew</p>
+<span class="badge">For kids</span>
+<h3>Socksmith Kids' Significant Otter</h3>
+<figure><img src="/img/picks/socksmith-kids-otter.jpg" alt="Socksmith Kids&#x27; Significant Otter cotton crew socks" /><figcaption>Photo: Socksmith</figcaption></figure>
 <p>The same otter design as the adult pick, in kids' sizes — works on its own, or as a matching pair with the adult version. That is also the honest caveat: it is a repeat of the first pick, not a different design. Sizes for 2–4 years and 4–7 years.</p>
-<p class="buy-links"><a class="btn" href="https://www.socksmith.com/products/kids-significant-otter-cotton-crew-socks" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Best for:</b> Kids aged about 2–7 years, and for matching family gifts</div>
+<div><b>Material:</b> 62% cotton, 37% nylon, 1% spandex</div>
+<div><b>Cushion:</b> Not stated</div>
+<div><b>Height:</b> Classic crew</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://www.socksmith.com/products/kids-significant-otter-cotton-crew-socks" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 <div class="pick">
-<h3>6. Socksmith Cocoa Christmas — For the office Secret Santa</h3>
-<img class="pick-img" src="/img/picks/socksmith-cocoa-christmas.jpg" alt="Socksmith Cocoa Christmas cotton crew socks with hot cocoa and candy canes" loading="lazy">
-<p class="pick-credit">Photo: Socksmith</p>
-<p><strong>Best for:</strong> A Secret Santa or stocking stuffer <strong>Material:</strong> 48% cotton, 50% nylon, 2% spandex <strong>Cushion:</strong> Not stated — described as a midweight feel <strong>Height:</strong> Crew</p>
+<span class="badge">For the office Secret Santa</span>
+<h3>Socksmith Cocoa Christmas</h3>
+<figure><img src="/img/picks/socksmith-cocoa-christmas.jpg" alt="Socksmith Cocoa Christmas cotton crew socks with hot cocoa and candy canes" /><figcaption>Photo: Socksmith</figcaption></figure>
 <p>The most on-theme pick — actual Christmas imagery (hot cocoa and candy canes) in a single pair. Say the sizing plainly: this one is women's sizing only (women's shoe 6–10.5).</p>
-<p class="buy-links"><a class="btn" href="https://www.socksmith.com/products/cocoa-christmas-cotton-crew" target="_blank" rel="nofollow noopener">Official site</a></p>
+<div class="spec">
+<div><b>Best for:</b> A Secret Santa or stocking stuffer</div>
+<div><b>Material:</b> 48% cotton, 50% nylon, 2% spandex</div>
+<div><b>Cushion:</b> Not stated — described as a midweight feel</div>
+<div><b>Height:</b> Crew</div>
+</div>
+<div class="buy-links"><a class="btn-buy" href="https://www.socksmith.com/products/cocoa-christmas-cotton-crew" target="_blank" rel="noopener">Official site</a></div>
 </div>
 
 ## Christmas sock design types
@@ -102,34 +132,36 @@ Keep the cheeky lane out of work gifts entirely — profanity, alcohol and adult
 
 ## Comparison table
 
-| Sock | Best for | Material | Cushion | Height |
-| --- | --- | --- | --- | --- |
-| Socksmith Significant Otter | Best overall funny gift — the animal lover, or anyone who likes a joke gift | 45% cotton, 52% nylon, 3% spandex (women's version) | Not stated — midweight feel | Crew |
-| Sock It to Me Corgi Love | The corgi lover, or any dog person | 65% cotton, 32% polyester, 3% elastane; reinforced 2-ply heel and toe | Not stated | Quarter |
-| Sock It to Me Magic Mushrooms Slipper Socks | The person who is always cold at home | 99% polyester, 1% elastane; fuzzy plush, non-slip silicone grippers | Not stated | Slipper sock (house wear) |
-| Darn Tough Men's Number 2 Micro Crew | The outdoorsy dad, or anyone who hikes | 63% merino wool, 35% nylon, 2% elastane | Midweight — terry loops underfoot, targeted ankle and Achilles protection | Micro crew |
-| Socksmith Kids' Significant Otter | Kids aged about 2–7 years; matching family gifts | 62% cotton, 37% nylon, 1% spandex | Not stated | Classic crew |
-| Socksmith Cocoa Christmas | A Secret Santa or stocking stuffer | 48% cotton, 50% nylon, 2% spandex | Not stated — midweight feel | Crew |
+<table class="compare">
+      <thead><tr><th>Sock</th><th>Best for</th><th>Material</th><th>Cushion</th><th>Height</th></tr></thead>
+      <tbody>
+        <tr><td>Socksmith Significant Otter</td><td data-label="Best for">Best overall funny gift — the animal lover, or anyone who likes a joke gift</td><td data-label="Material">45% cotton, 52% nylon, 3% spandex (women's version)</td><td data-label="Cushion">Not stated — midweight feel</td><td data-label="Height">Crew</td></tr>
+        <tr><td>Sock It to Me Corgi Love</td><td data-label="Best for">The corgi lover, or any dog person</td><td data-label="Material">65% cotton, 32% polyester, 3% elastane; reinforced 2-ply heel and toe</td><td data-label="Cushion">Not stated</td><td data-label="Height">Quarter</td></tr>
+        <tr><td>Sock It to Me Magic Mushrooms Slipper Socks</td><td data-label="Best for">The person who is always cold at home</td><td data-label="Material">99% polyester, 1% elastane; fuzzy plush, non-slip silicone grippers</td><td data-label="Cushion">Not stated</td><td data-label="Height">Slipper sock (house wear)</td></tr>
+        <tr><td>Darn Tough Men's Number 2 Micro Crew</td><td data-label="Best for">The outdoorsy dad, or anyone who hikes</td><td data-label="Material">63% merino wool, 35% nylon, 2% elastane</td><td data-label="Cushion">Midweight — terry loops underfoot, targeted ankle and Achilles protection</td><td data-label="Height">Micro crew</td></tr>
+        <tr><td>Socksmith Kids' Significant Otter</td><td data-label="Best for">Kids aged about 2–7 years; matching family gifts</td><td data-label="Material">62% cotton, 37% nylon, 1% spandex</td><td data-label="Cushion">Not stated</td><td data-label="Height">Classic crew</td></tr>
+        <tr><td>Socksmith Cocoa Christmas</td><td data-label="Best for">A Secret Santa or stocking stuffer</td><td data-label="Material">48% cotton, 50% nylon, 2% spandex</td><td data-label="Cushion">Not stated — midweight feel</td><td data-label="Height">Crew</td></tr>
+      </tbody>
+    </table>
 
 Choosing socks for yourself as well as for gifts? [How to Choose the Right Socks](/posts/how-to-choose-the-right-socks/) walks through height, cushion, fabric and fit step by step, and [What Are the Best Socks for Summer?](/posts/best-socks-for-summer/) covers the lightweight end of the range for when the weather turns.
 
 ## FAQ
+<details class="faq"><summary>Is socks a good gift for Christmas?</summary><div class="a">Yes, when the pair matches the person. A joke pair for a funny friend, a warm pair for someone who is always cold, a quality merino pair for someone outdoors. A plain, random pair says nothing, and that is the version people joke about.</div></details>
 
-**Is socks a good gift for Christmas?** Yes, when the pair matches the person. A joke pair for a funny friend, a warm pair for someone who is always cold, a quality merino pair for someone outdoors. A plain, random pair says nothing, and that is the version people joke about.
+<details class="faq"><summary>What are the best Christmas socks?</summary><div class="a">The ones that fit the recipient: classic Fair Isle or Nordic for family, cute animals for kids and pet lovers, punny designs for friends, a quality merino crew for someone outdoors. For a single all-round pick, a funny novelty crew like the Significant Otter is the safest bet; for warmth, a slipper sock or a merino crew.</div></details>
 
-**What are the best Christmas socks?** The ones that fit the recipient: classic Fair Isle or Nordic for family, cute animals for kids and pet lovers, punny designs for friends, a quality merino crew for someone outdoors. For a single all-round pick, a funny novelty crew like the Significant Otter is the safest bet; for warmth, a slipper sock or a merino crew.
+<details class="faq"><summary>What to pair with socks for Christmas gift?</summary><div class="a">Pair with something small that matches the theme: a mug and hot chocolate with a cocoa design, a book with a reading-themed pair, a treat for the actual pet with a dog or cat pair, or slippers with a slipper sock.</div></details>
 
-**What to pair with socks for Christmas gift?** Pair with something small that matches the theme: a mug and hot chocolate with a cocoa design, a book with a reading-themed pair, a treat for the actual pet with a dog or cat pair, or slippers with a slipper sock.
+<details class="faq"><summary>How to present socks as a gift?</summary><div class="a">Roll the pair, tie it with ribbon, and put it in a stocking, a small gift box, or a mug. A rolled pair inside a Christmas stocking is the classic presentation. Avoid handing over a flat pair in its shop packaging with nothing around it.</div></details>
 
-**How to present socks as a gift?** Roll the pair, tie it with ribbon, and put it in a stocking, a small gift box, or a mug. A rolled pair inside a Christmas stocking is the classic presentation. Avoid handing over a flat pair in its shop packaging with nothing around it.
+<details class="faq"><summary>How to give socks for Christmas?</summary><div class="a">As a stocking stuffer, as part of a small themed bundle, or as the Secret Santa gift itself. If the pair is a joke design, give it in person so you see the reaction. For a quality pair like merino, a gift receipt matters more than wrapping, in case the size is wrong.</div></details>
 
-**How to give socks for Christmas?** As a stocking stuffer, as part of a small themed bundle, or as the Secret Santa gift itself. If the pair is a joke design, give it in person so you see the reaction. For a quality pair like merino, a gift receipt matters more than wrapping, in case the size is wrong.
+<details class="faq"><summary>Is gifting socks a good idea?</summary><div class="a">Yes, as long as the pair is chosen for the person, not bought at random. Socks are useful, easy to size roughly, and a design-led pair carries a message — funny, cozy, or thoughtful. The bad reputation comes from gifting plain socks with no thought behind them.</div></details>
 
-**Is gifting socks a good idea?** Yes, as long as the pair is chosen for the person, not bought at random. Socks are useful, easy to size roughly, and a design-led pair carries a message — funny, cozy, or thoughtful. The bad reputation comes from gifting plain socks with no thought behind them.
+<details class="faq"><summary>What size socks should I buy as a gift?</summary><div class="a">Buy the recipient's shoe size; if unsure between two sizes, size up. For kids, buy by age range and shoe size together.</div></details>
 
-**What size socks should I buy as a gift?** Buy the recipient's shoe size; if unsure between two sizes, size up. For kids, buy by age range and shoe size together.
-
-**Can you gift socks for Secret Santa?** Yes — one of the best Secret Santa gifts: cheap as a single pair, easy to wrap, and a funny design does the work of a joke gift. Keep it office-safe and avoid cheeky adult-humour designs.
+<details class="faq"><summary>Can you gift socks for Secret Santa?</summary><div class="a">Yes — one of the best Secret Santa gifts: cheap as a single pair, easy to wrap, and a funny design does the work of a joke gift. Keep it office-safe and avoid cheeky adult-humour designs.</div></details>
 
 ## Sources
 

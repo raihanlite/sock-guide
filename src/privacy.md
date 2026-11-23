@@ -1,12 +1,11 @@
 ---
-layout: layouts/base.njk
+layout: layouts/page.njk
 title: Privacy Policy
 description: What data Sock Guide collects, what cookies it uses, and how advertising works on this site.
+crumbHome: true
+pubDate: "Last updated: November 2026"
+legal: true
 ---
-# Privacy Policy
-
-Last updated: November 2026.
-
 This Privacy Policy explains what information Sock Guide collects when you visit the site, how it is used, and the choices you have. Sock Guide is a buying-guide website; reading it requires no account and no sign-up.
 
 ## Information we collect
