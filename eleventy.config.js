@@ -1,6 +1,9 @@
 export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy("src/sitemap.xml");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
+  // YYYY-MM-DD for Article JSON-LD datePublished (front matter date).
   // Latest Posts: all posts newest-first, excluding the 4 featured on the
   // homepage (hero + 3 cards) so they do not repeat in the list.
   // Compare fileSlug, not url: page.url already includes the pathPrefix.
@@ -42,6 +45,9 @@ export default function(eleventyConfig) {
   });
   eleventyConfig.addFilter("readableDate", (date) => {
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long", day: "numeric" });
+  });
+  eleventyConfig.addFilter("isoDate", (date) => {
+    return new Date(date).toISOString().slice(0, 10);
   });
   // Artifact date display: month-only ("November 2026") for every article
   // except the Christmas gift guide and the running guide, which show

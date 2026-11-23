@@ -13,3 +13,7 @@ layout: layouts/base.njk
 <div class="prose">
 {{ content | safe }}
 </div>
+{# Per-article structured data. No visible author name: author and publisher are both the Sock Guide organisation. #}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ title | dump | safe }},"image":"https://raihanlite.github.io/sock-guide/img/{{ image }}","datePublished":"{{ date | isoDate }}","author":{"@type":"Organization","name":"Sock Guide"},"publisher":{"@type":"Organization","name":"Sock Guide"}}
+</script>

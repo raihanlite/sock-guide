@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raihanlite.github.io/sock-guide/sitemap.xml
