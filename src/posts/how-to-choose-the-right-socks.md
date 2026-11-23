@@ -11,7 +11,7 @@ docTitle: "How to Choose the Right Socks — Sock Guide"
 description: "How to choose the right socks in six steps: start with the shoe, then height, cushion, fabric and fit, with a fit-check checklist, common mistakes, replacement guidance and a quick-reference table for work, sport, hiking, cold weather and summer."
 ---
 
-Most sock problems — blisters, damp feet, socks sliding down, heels wearing through in a month — are not bad luck. They are the result of choosing a sock on colour or price while the five things that decide comfort went unexamined. Start by knowing the shoe and the job; after that, work in the order outfitters like REI use: height first, then cushioning, then fabric, then fit.
+Most sock problems — blisters, damp feet, socks sliding down, heels wearing through in a month — are not bad luck. They are the result of choosing a sock on colour or price while the five things that decide comfort went unexamined. Start by knowing the shoe and the job; after that, work in the order outfitters like REI use: height first, then cushioning, then fabric, then fit. New to socks altogether? Start with [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/) — what a sock is, the main types, and why we wear one.
 
 ## Step 1: Start with the shoe and the job
 

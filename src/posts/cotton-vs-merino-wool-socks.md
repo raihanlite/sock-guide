@@ -11,7 +11,7 @@ docTitle: "Cotton vs Merino Wool Socks — Sock Guide"
 description: "Cotton vs merino wool socks compared side by side: moisture, drying, odour, temperature, feel, durability, care and price — and which fibre wins for work, travel, sport and everyday wear."
 ---
 
-Cotton and merino wool are the two fibres most socks are sold on, and around sweat they behave almost opposite ways. Cotton drinks moisture in and keeps it; merino takes moisture in too — but stores it inside the fibre, away from your skin, and lets it go again. Nearly every difference between the two socks, from blisters to odour to price, follows from that one contrast.
+Cotton and merino wool are the two fibres most socks are sold on, and around sweat they behave almost opposite ways. Cotton drinks moisture in and keeps it; merino takes moisture in too — but stores it inside the fibre, away from your skin, and lets it go again. Nearly every difference between the two socks, from blisters to odour to price, follows from that one contrast. If you are starting from the beginning — what a sock is and why we wear one at all — see [What Are Socks? Why Do We Wear Socks?](/posts/what-are-socks-why-do-we-wear-socks/).
 
 ## The comparison
 

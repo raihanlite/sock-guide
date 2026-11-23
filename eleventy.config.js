@@ -18,6 +18,7 @@ export default function(eleventyConfig) {
       "best-heated-socks-for-hunting",
     ];
     const artifactOrder = [
+      "what-are-socks-why-do-we-wear-socks",
       "best-running-socks",
       "best-socks-for-christmas-gifts",
       "why-do-socks-make-your-feet-sweat",
@@ -54,7 +55,7 @@ export default function(eleventyConfig) {
   // their full dates ("23 November 2026"). Display-only: underlying post
   // dates are untouched.
   eleventyConfig.addFilter("displayDate", (date, slug) => {
-    if (slug === "best-socks-for-christmas-gifts" || slug === "best-running-socks") {
+    if (slug === "best-socks-for-christmas-gifts" || slug === "best-running-socks" || slug === "what-are-socks-why-do-we-wear-socks") {
       return "23 November 2026";
     }
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long" });
