@@ -7,7 +7,7 @@ image: "artifact/img-05.jpg"
 imageAlt: "Christmas stockings hung on a mantel above a glowing fireplace"
 imageCredit: "Lindsey Turner, CC BY 2.0, via Wikimedia Commons"
 tags: posts
-docTitle: "Best Socks for Christmas Gifts — Sock Guide"
+docTitle: "Best Socks for Christmas Gifts"
 description: "The best socks for Christmas gifts, matched to the person: a funny Socksmith Significant Otter, Sock It to Me Corgi Love and Magic Mushrooms slipper socks, a Darn Tough merino crew, a kids' pair and a Secret Santa pick — plus Christmas sock design types and what to avoid for the office."
 ---
 

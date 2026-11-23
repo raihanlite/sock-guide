@@ -6,7 +6,7 @@ category: Sports
 image: "artifact/img-11.jpg"
 imageAlt: "A pair of Wilson tennis shoes, one magenta and one black"
 tags: posts
-docTitle: "Best Tennis Socks (2026): Cushion, Grip, No Blisters — Sock Guide"
+docTitle: "Best Tennis Socks (2026): Cushion, Grip, No Blisters"
 description: "Best tennis socks: Thorlos Tennis Crew Thick Cushion, Feetures High Performance, Thorlo Experia, Fitsok, adidas Cushioned Crew and Balega Blister Resist."
 ---
 

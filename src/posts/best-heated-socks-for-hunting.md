@@ -6,7 +6,7 @@ category: Heated
 image: "artifact/img-04.jpg"
 imageAlt: "An insulated winter boot standing in snow"
 tags: posts
-docTitle: "Best Heated Socks for Hunting (2026): Runtime on Low — Sock Guide"
+docTitle: "Best Heated Socks for Hunting (2026): Runtime on Low"
 description: "Best heated socks for hunting judged on runtime on low: Fieldsheer Merino 2.0 (16+ hrs), Gerbing 7V Wool, Fieldsheer Pro Merino, Lenz 5.0, ActionHeat and Snow Deer. Prices reported Nov 2026."
 ---
 

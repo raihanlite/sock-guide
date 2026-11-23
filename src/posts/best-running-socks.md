@@ -7,7 +7,7 @@ image: "artifact/img-43.jpg"
 imageAlt: "Runners' feet in running shoes mid-stride during a road race"
 imageCredit: "Pexels"
 tags: posts
-docTitle: "Best Running Socks (2026): 6 Picks for Daily Miles, Racing & No Blisters — Sock Guide"
+docTitle: "Best Running Socks (2026): 6 Picks for Daily Miles, Racing & No Blisters"
 description: "Six running socks for daily miles, racing and blister-prone feet — merino, compression, toe socks and a budget six-pack."
 ---
 

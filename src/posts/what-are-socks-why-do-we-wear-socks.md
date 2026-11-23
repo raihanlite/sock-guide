@@ -7,7 +7,7 @@ image: "artifact/img-50.jpg"
 imageAlt: "Neatly arranged woollen socks in a basket on a yellow surface"
 imageCredit: "Ron Lach, via Pexels"
 tags: posts
-docTitle: "What Are Socks? Why Do We Wear Socks? "
+docTitle: "What Are Socks? Why Do We Wear Socks?"
 description: "What a sock is and why we wear one: the parts of a sock, the six jobs it does, a short history from Ötzi to nylon, the main types and fabrics, and basic care."
 ---
 

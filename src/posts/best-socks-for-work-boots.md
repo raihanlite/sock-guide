@@ -6,7 +6,7 @@ category: Work
 image: "artifact/img-02.jpg"
 imageAlt: "A tan Caterpillar steel-toe work boot photographed from the side"
 tags: posts
-docTitle: "Best Socks for Work Boots (2026): One Pick per Job — Sock Guide"
+docTitle: "Best Socks for Work Boots (2026): One Pick per Job"
 description: "Best socks for work boots, one pick per job: steel toe, concrete, hot weather, cold weather, a budget multi-pack and a women's fit. Prices reported Nov 2026."
 ---
 

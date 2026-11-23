@@ -7,7 +7,7 @@ image: "artifact/img-06.jpg"
 imageAlt: "Socks and shoes hanging on a line outdoors to dry beside a lake"
 imageCredit: "Vsatinet, via Wikimedia Commons (CC BY-SA 4.0)"
 tags: posts
-docTitle: "Why Do Socks Make Your Feet Sweat? — Sock Guide"
+docTitle: "Why Do Socks Make Your Feet Sweat?"
 description: "Why socks seem to make feet sweat: how feet sweat, why absorbent fibres trap moisture, where odour really comes from, what actually helps, and when sweaty feet are a medical matter."
 ---
 

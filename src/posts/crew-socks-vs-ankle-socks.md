@@ -7,7 +7,7 @@ image: "artifact/img-07.jpg"
 imageAlt: "White crew socks with a checkerboard pattern worn with slip-on shoes"
 imageCredit: "Downtowngal, via Wikimedia Commons (CC BY-SA 4.0)"
 tags: posts
-docTitle: "Crew Socks vs Ankle Socks "
+docTitle: "Crew Socks vs Ankle Socks"
 description: "Crew socks vs ankle socks compared: coverage, protection, warmth, staying power, best shoes and best uses — plus no-show, quarter and knee-high heights explained."
 ---
 

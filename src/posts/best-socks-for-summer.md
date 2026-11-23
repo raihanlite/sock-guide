@@ -7,7 +7,7 @@ image: "artifact/img-10.jpg"
 imageAlt: "A low-cut summer sock with a green knitted cuff worn on a foot"
 imageCredit: "Lisa Risager, via Wikimedia Commons (CC BY-SA 2.0)"
 tags: posts
-docTitle: "What Are the Best Socks for Summer? — Sock Guide"
+docTitle: "What Are the Best Socks for Summer?"
 description: "The best socks for summer explained: lightweight merino, performance synthetics, cotton, bamboo and linen compared for heat and sweat, with heights, cushion and use cases for everyday wear, sport, work boots and hiking."
 ---
 

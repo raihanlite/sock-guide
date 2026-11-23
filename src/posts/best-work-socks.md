@@ -6,7 +6,7 @@ category: Work
 image: "artifact/img-01.jpg"
 imageAlt: "A pair of black steel-toe work boots on a wooden floor"
 tags: posts
-docTitle: "Best Work Socks (2026): 6 Picks for Long Shifts — Sock Guide"
+docTitle: "Best Work Socks (2026): 6 Picks for Long Shifts"
 description: "The best work socks for long shifts and hard floors: Darn Tough Steely Boot, Thorlos 12-Hour Shift, Carhartt Force, Dickies Dri-Tech, Smartwool Work Heavy and Fox River Steel-Toe. Prices reported Nov 2026."
 ---
 

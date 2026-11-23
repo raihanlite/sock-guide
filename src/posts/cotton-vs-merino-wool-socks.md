@@ -7,7 +7,7 @@ image: "artifact/img-09.jpg"
 imageAlt: "A pair of plain black cotton crew socks on a white background"
 imageCredit: "W.carter, via Wikimedia Commons (CC BY-SA 4.0)"
 tags: posts
-docTitle: "Cotton vs Merino Wool Socks — Sock Guide"
+docTitle: "Cotton vs Merino Wool Socks"
 description: "Cotton vs merino wool socks compared side by side: moisture, drying, odour, temperature, feel, durability, care and price — and which fibre wins for work, travel, sport and everyday wear."
 ---
 

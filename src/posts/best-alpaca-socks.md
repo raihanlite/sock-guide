@@ -6,7 +6,7 @@ category: Sports
 image: "artifact/img-03.jpg"
 imageAlt: "Thick hand-knitted wool socks in warm colours"
 tags: posts
-docTitle: "Best Alpaca Socks (2026): Alpaca Content Compared — Sock Guide"
+docTitle: "Best Alpaca Socks (2026): Alpaca Content Compared"
 description: "Best alpaca socks compared by alpaca content: Clohill 70%, Hollow 46%, Karu 45%, Warrior 41%, Alpacas of Montana 35%, Paka Trail 33%. Prices as reported by Adventure Alan, Jul 2026."
 ---
 

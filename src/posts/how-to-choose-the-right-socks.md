@@ -7,7 +7,7 @@ image: "artifact/img-08.jpg"
 imageAlt: "A sock kiosk in a shopping mall, with colourful socks of many heights and styles hanging on display"
 imageCredit: "Michael Rivera, via Wikimedia Commons (CC BY-SA 4.0)"
 tags: posts
-docTitle: "How to Choose the Right Socks — Sock Guide"
+docTitle: "How to Choose the Right Socks"
 description: "How to choose the right socks in six steps: start with the shoe, then height, cushion, fabric and fit, with a fit-check checklist, common mistakes, replacement guidance and a quick-reference table for work, sport, hiking, cold weather and summer."
 ---
 
