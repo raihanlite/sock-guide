@@ -3,6 +3,15 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/sitemap.xml");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
+  // Favicon set (sock icon, brand magenta #e0218a) — served from site root.
+  eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("src/favicon.svg");
+  eleventyConfig.addPassthroughCopy("src/favicon-16x16.png");
+  eleventyConfig.addPassthroughCopy("src/favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
+  eleventyConfig.addPassthroughCopy("src/android-chrome-192x192.png");
+  eleventyConfig.addPassthroughCopy("src/android-chrome-512x512.png");
+  eleventyConfig.addPassthroughCopy("src/site.webmanifest");
   // YYYY-MM-DD for Article JSON-LD datePublished (front matter date).
   // Latest Posts: all posts newest-first, excluding the 4 featured on the
   // homepage (hero + 3 cards) so they do not repeat in the list.
