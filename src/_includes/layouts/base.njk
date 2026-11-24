@@ -69,14 +69,24 @@
     </div>
   </div>
   <div class="accent-line" aria-hidden="true"></div>
-  <div class="searchbar" id="searchBar">
+</header>
+
+<div class="search-overlay" id="searchOverlay" role="dialog" aria-modal="true" aria-label="Search guides">
+  <button class="search-overlay-close" id="searchOverlayClose" aria-label="Close search">&times;</button>
+  <div class="search-overlay-inner">
     <form id="searchForm" role="search">
       <input type="search" id="searchInput" name="search" placeholder="Search guides — try “work boots”, “alpaca”, “tennis”…" aria-label="Search guides">
       <button class="btn-black" type="submit">Search</button>
     </form>
-    <p class="search-note" id="searchNote" role="status"></p>
+    <div class="search-chips" id="searchOverlayChips">
+      <button type="button" data-q="work boots">Work boots</button>
+      <button type="button" data-q="merino">Merino</button>
+      <button type="button" data-q="running">Running</button>
+      <button type="button" data-q="sweaty feet">Sweaty feet</button>
+      <button type="button" data-q="heated">Heated</button>
+    </div>
   </div>
-</header>
+</div>
 
 <div class="overlay" id="overlay"></div>
 <aside class="drawer" id="drawer" aria-label="Site menu">
@@ -165,75 +175,32 @@
   drawer.querySelectorAll('a').forEach(function (a) { a.addEventListener('click', function () { openDrawer(false); }); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') openDrawer(false); });
 
-  var searchBtn = document.getElementById('searchBtn'), searchBar = document.getElementById('searchBar'),
-      searchForm = document.getElementById('searchForm'), searchInput = document.getElementById('searchInput');
-  searchBtn.addEventListener('click', function () {
-    var open = searchBar.classList.toggle('open');
-    searchBtn.setAttribute('aria-expanded', open);
-    if (open) searchInput.focus();
-  });
-  // Artifact search behaviour: live on input; the query is lower-cased and
-  // matched as a substring against each post row / featured card's
-  // data-search attribute plus its visible text. Non-matches get class
-  // "filtered-out". While a query is active the post list gets class
-  // "show-all" and Load More is hidden; clearing restores the default view.
-  // Only post rows (not featured cards) are counted in the match count.
-  function applySearch() {
-    // The dedicated search page owns its own filtering; the header
-    // searchbar only navigates there (see the submit handler below).
-    if (document.getElementById('searchResults')) return;
-    var raw = searchInput.value.trim();
-    var q = raw.toLowerCase();
-    var list = document.querySelector('.post-list');
-    var grid = document.querySelector('.feat-grid2');
-    var loadMoreBtn = document.getElementById('loadMoreBtn');
-    var note = document.getElementById('searchNote');
-    var noResults = document.getElementById('noResults');
-    var rows = document.querySelectorAll('.post-item');
-    var cards = document.querySelectorAll('.feat-card');
-    function haystack(el) {
-      return ((el.getAttribute('data-search') || '') + ' ' + el.textContent).toLowerCase();
-    }
-    if (!q) {
-      rows.forEach(function (el) { el.classList.remove('filtered-out'); });
-      cards.forEach(function (el) { el.classList.remove('filtered-out'); });
-      if (list) list.classList.remove('show-all');
-      if (grid) grid.classList.remove('show-all');
-      if (loadMoreBtn && document.querySelector('.post-item.extra:not(.revealed), .feat-card.extra:not(.revealed)')) loadMoreBtn.style.display = '';
-      if (note) note.classList.remove('show');
-      if (noResults) noResults.classList.remove('show');
-      return;
-    }
-    if (list) list.classList.add('show-all');
-    if (grid) grid.classList.add('show-all');
-    if (loadMoreBtn) loadMoreBtn.style.display = 'none';
-    var matches = 0;
-    rows.forEach(function (el) {
-      var hit = haystack(el).indexOf(q) !== -1;
-      el.classList.toggle('filtered-out', !hit);
-      if (hit) matches++;
-    });
-    cards.forEach(function (el) {
-      el.classList.toggle('filtered-out', haystack(el).indexOf(q) === -1);
-    });
-    // The match note / no-results line only live on the homepage list.
-    if (note && list) {
-      note.classList.add('show');
-      note.textContent = matches === 0
-        ? 'No guides match \u201c' + raw + '\u201d yet.'
-        : matches === 1
-          ? '1 guide matches \u201c' + raw + '\u201d.'
-          : matches + ' guides match \u201c' + raw + '\u201d.';
-    }
-    if (noResults && list) noResults.classList.toggle('show', matches === 0);
+  var searchBtn = document.getElementById('searchBtn'), searchOverlay = document.getElementById('searchOverlay'),
+      searchForm = document.getElementById('searchForm'), searchInput = document.getElementById('searchInput'),
+      searchClose = document.getElementById('searchOverlayClose'), searchChips = document.getElementById('searchOverlayChips');
+  // Full-screen search overlay: the page behind is blurred while the
+  // overlay is open. Enter or the Search button goes to the dedicated
+  // results page; chips jump straight there too.
+  function openSearch(o) {
+    searchOverlay.classList.toggle('open', o);
+    searchBtn.setAttribute('aria-expanded', o);
+    document.body.classList.toggle('locked', o);
+    if (o) searchInput.focus();
   }
-  searchInput.addEventListener('input', applySearch);
-  // Submit (Enter) goes to the dedicated search page with the query.
+  searchBtn.addEventListener('click', function () { openSearch(true); });
+  searchClose.addEventListener('click', function () { openSearch(false); });
+  searchOverlay.addEventListener('click', function (e) { if (e.target === searchOverlay) openSearch(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') openSearch(false); });
   searchForm.addEventListener('submit', function (e) {
     e.preventDefault();
     var q = searchInput.value.trim();
     if (!q) return;
     window.location.href = "{{ '/search/' | url }}?q=" + encodeURIComponent(q);
+  });
+  searchChips.addEventListener('click', function (e) {
+    var b = e.target.closest('button');
+    if (!b) return;
+    window.location.href = "{{ '/search/' | url }}?q=" + encodeURIComponent(b.getAttribute('data-q'));
   });
 
   // Newsletter (sidebar + footer): opens the reader's email app with a
