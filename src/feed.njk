@@ -1,0 +1,24 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Sock Guide</title>
+<link>https://raihanlite.github.io/sock-guide/</link>
+<description>{{ site.description }}</description>
+<language>en</language>
+<lastBuildDate>{{ (collections.posts | last).date | rssDate }}</lastBuildDate>
+{% for p in collections.posts | reverse %}
+<item>
+<title>{{ p.data.docTitle or p.data.title }}</title>
+<link>https://raihanlite.github.io{{ p.url | url }}</link>
+<guid isPermaLink="true">https://raihanlite.github.io{{ p.url | url }}</guid>
+<pubDate>{{ p.date | rssDate }}</pubDate>
+<description>{{ p.data.description }}</description>
+<content:encoded><![CDATA[{{ p.templateContent | absoluteUrls | safe }}]]></content:encoded>
+</item>
+{% endfor %}
+</channel>
+</rss>

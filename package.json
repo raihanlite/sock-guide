@@ -1,13 +1,14 @@
 {
   "name": "sock-guide",
   "version": "1.0.0",
-  "description": "Sock Guide \u2014 use-case-first roundups of the best socks for work, sport, cold weather and everyday wear.",
+  "description": "Sock Guide — use-case-first roundups of the best socks for work, sport, cold weather and everyday wear.",
   "type": "module",
   "scripts": {
     "build": "eleventy",
     "dev": "eleventy --serve"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.8"
+    "@11ty/eleventy": "^3.1.8",
+    "@11ty/eleventy-img": "^7.1.1"
   }
 }

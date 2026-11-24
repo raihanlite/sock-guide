@@ -8,7 +8,7 @@ layout: layouts/base.njk
   <h1>{{ title }}</h1>
   <p class="pub-date">{{ date | displayDate(page.fileSlug) }}</p>
 </header>
-{% if image %}<figure class="article-hero"><img src="{{ ('/img/' ~ image) | url }}" alt="{{ imageAlt }}">{% if imageCredit %}<figcaption>Photo: {{ imageCredit }}</figcaption>{% endif %}</figure>{% endif %}
+{% if image %}{% set imgSrc = 'img/' ~ image %}<figure class="article-hero">{% respImg imgSrc, imageAlt, "articleHero" %}{% if imageCredit %}<figcaption>Photo: {{ imageCredit }}</figcaption>{% endif %}</figure>{% endif %}
 {# AdSense slot (in-article). Empty and hidden until a real publisher ID is added; no ad script loads. #}
 <div class="ad-slot" data-ad-slot="in-article" hidden aria-hidden="true"></div>
 <div class="prose">

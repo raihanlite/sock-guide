@@ -1,7 +1,67 @@
+import { createHash } from "node:crypto";
+import { readFileSync } from "node:fs";
+import path from "node:path";
+import Image from "@11ty/eleventy-img";
+
+// Short content hash of the stylesheet, for cache-busting the <link> tag:
+// the file is cached 10 minutes by the host and a changed hash forces
+// browsers to fetch the new stylesheet instead of a stale copy.
+const cssHash = createHash("sha256")
+  .update(readFileSync(new URL("./src/css/style.css", import.meta.url)))
+  .digest("hex")
+  .slice(0, 8);
+
+// Responsive images (eleventy-img): generated WebP + JPEG at the widths
+// each slot actually displays, with srcset/sizes and width/height. The
+// generated files live under _site/img/ with /sock-guide/img/ URLs, so
+// the prefixUrls transform leaves them alone. Widths larger than the
+// source are replaced by the source width (no upscaling).
+const IMG_URL_PATH = "/sock-guide/img/";
+const IMG_OUTPUT_DIR = "./_site/img/";
+const IMG_PRESETS = {
+  hero: { widths: [400, 800, 1200], sizes: "(max-width: 820px) 100vw, 540px", loading: "eager" },
+  articleHero: { widths: [400, 800, 1200], sizes: "(max-width: 900px) 100vw, 860px", loading: "eager" },
+  card: { widths: [400, 800], sizes: "(max-width: 820px) 100vw, 330px", loading: "lazy" },
+  catCard: { widths: [400, 800], sizes: "(max-width: 820px) 100vw, 500px", loading: "lazy" },
+  thumb: { widths: [200, 400], sizes: "(max-width: 560px) 150px, 190px", loading: "lazy" },
+};
+
+async function responsiveImage(src, alt, preset) {
+  const p = IMG_PRESETS[preset] || IMG_PRESETS.card;
+  const metadata = await Image(path.join("src", String(src).replace(/^\//, "")), {
+    widths: p.widths,
+    formats: ["webp", "jpeg"],
+    urlPath: IMG_URL_PATH,
+    outputDir: IMG_OUTPUT_DIR,
+    filenameFormat: (id, src, width, format) => {
+      const name = path.basename(src, path.extname(src));
+      return `${name}-${width}w.${format}`;
+    },
+  });
+  return Image.generateHTML(metadata, {
+    alt: alt || "",
+    sizes: p.sizes,
+    loading: p.loading,
+    decoding: "async",
+  });
+}
+
+// Strip HTML tags and decode the few entities used in post bodies, for
+// plain-text answers in FAQPage JSON-LD.
+function stripTags(s) {
+  return String(s)
+    .replace(/<[^>]*>/g, "")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, " ");
+}
+
 export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/img");
-  eleventyConfig.addPassthroughCopy("src/sitemap.xml");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   // Favicon set (sock icon, brand magenta #e0218a) — served from site root.
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
@@ -71,6 +131,17 @@ export default function(eleventyConfig) {
         return ia === -1 ? 1 : -1;
       });
   });
+  eleventyConfig.addGlobalData("cssHash", cssHash);
+  eleventyConfig.addFilter("rssDate", (date) => {
+    return new Date(date).toUTCString();
+  });
+  // Make root-relative URLs in feed content absolute, so feed readers
+  // resolve post links and images against the live site.
+  eleventyConfig.addFilter("absoluteUrls", (html) => {
+    return String(html)
+      .replaceAll('href="/', 'href="https://raihanlite.github.io/sock-guide/')
+      .replaceAll('src="/', 'src="https://raihanlite.github.io/sock-guide/');
+  });
   eleventyConfig.addFilter("readableDate", (date) => {
     return new Date(date).toLocaleDateString("en-GB", { year: "numeric", month: "long", day: "numeric" });
   });
@@ -98,6 +169,96 @@ export default function(eleventyConfig) {
     return content
       .replace(/(src|href)="\/(?!sock-guide\/)/g, '$1="/sock-guide/')
       .replace(/(src|href)='\/((?!sock-guide\/))/g, "$1='/sock-guide/$2");
+  });
+  // FAQPage JSON-LD: posts carry their FAQs as
+  // <details class="faq"><summary>Q</summary><div class="a">A</div></details>.
+  // Extract the pairs from the rendered HTML, strip tags to plain text,
+  // and inject a valid FAQPage script before </body>. Post pages only;
+  // pages without FAQ blocks are left untouched.
+  eleventyConfig.addTransform("faqJsonLd", function (content) {
+    if (!this.page || !this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
+      return content;
+    }
+    if (!(this.page.inputPath || "").includes("/posts/")) {
+      return content;
+    }
+    const faqs = [];
+    const re = /<details class="faq">\s*<summary>([\s\S]*?)<\/summary>\s*<div class="a">([\s\S]*?)<\/div>\s*<\/details>/g;
+    let m;
+    while ((m = re.exec(content)) !== null) {
+      const q = stripTags(m[1]).trim().replace(/\s+/g, " ");
+      const a = stripTags(m[2]).trim().replace(/\s+/g, " ");
+      if (q && a) {
+        faqs.push({
+          "@type": "Question",
+          name: q,
+          acceptedAnswer: { "@type": "Answer", text: a },
+        });
+      }
+    }
+    if (!faqs.length) return content;
+    const json = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: faqs,
+    });
+    return content.replace(
+      "</body>",
+      `<script type="application/ld+json">${json}</script>\n</body>`
+    );
+  });
+  // Responsive template images: {% respImg src, alt, "preset" %} renders a
+  // <picture> with WebP + JPEG srcsets. Presets: hero, articleHero, card,
+  // catCard, thumb (see IMG_PRESETS).
+  eleventyConfig.addNunjucksAsyncShortcode("respImg", responsiveImage);
+  // Pick photos: the 17 product posts carry raw <img> tags in their
+  // Markdown. Rewrite them to responsive <picture> markup (WebP + the
+  // original format, widths 400/800, width/height from the source file),
+  // keeping the existing alt text and eager loading. Hero images are
+  // already <picture> markup from the shortcode (their srcs carry a
+  // "-<width>w." suffix) and are left alone; so are images outside posts.
+  eleventyConfig.addTransform("pickImages", async function (content) {
+    if (!this.page || !this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
+      return content;
+    }
+    if (!(this.page.inputPath || "").includes("/posts/")) {
+      return content;
+    }
+    const re = /<img\s[^>]*?src="((?:\/sock-guide)?\/img\/(?:artifact|picks)\/([^"]+?))"[^>]*?>/g;
+    const matches = [...content.matchAll(re)];
+    if (!matches.length) return content;
+    let out = content;
+    for (const m of matches) {
+      const [tag, src, basename] = m;
+      if (/-\d+w\./.test(basename)) continue; // already a generated file
+      const altMatch = tag.match(/alt="([^"]*)"/);
+      const alt = altMatch ? altMatch[1] : "";
+      const ext = (basename.split(".").pop() || "jpeg").toLowerCase();
+      const origFormat = ext === "jpg" ? "jpeg" : ext;
+      const formats = origFormat === "webp" ? ["webp"] : ["webp", origFormat];
+      const srcPath = path.join("src", src.replace(/^\/(sock-guide\/)?/, ""));
+      try {
+        const metadata = await Image(srcPath, {
+          widths: [400, 800],
+          formats,
+          urlPath: IMG_URL_PATH,
+          outputDir: IMG_OUTPUT_DIR,
+          filenameFormat: (id, src, width, format) => {
+            const name = path.basename(src, path.extname(src));
+            return `${name}-${width}w.${format}`;
+          },
+        });
+        const html = Image.generateHTML(metadata, {
+          alt,
+          sizes: "(max-width: 720px) 100vw, 680px",
+          decoding: "async",
+        });
+        out = out.replace(tag, html);
+      } catch (e) {
+        console.warn(`[pickImages] could not optimize ${src}: ${e.message}`);
+      }
+    }
+    return out;
   });
   return {
     dir: { input: "src", output: "_site", includes: "_includes", data: "_data" },

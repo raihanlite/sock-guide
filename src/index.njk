@@ -9,8 +9,10 @@ isHome: true
 <section class="hero" aria-label="Featured guide">
 {% for p in collections.posts %}{% if p.fileSlug == "best-work-socks" %}
 {% set a = artifact.posts[p.fileSlug] %}
+{% set imgSrc = a.image or ('img/' ~ p.data.image) %}
+{% set imgAlt = a.imageAlt or p.data.imageAlt %}
   <a class="hero-link" href="{{ '/best-work-socks/' | url }}">
-  <figure><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></figure>
+  <figure>{% respImg imgSrc, imgAlt, "hero" %}</figure>
   <div>
     <p class="kicker">{{ artifact.heroKicker }}</p>
     <h1>{{ a.heroTitle or p.data.title }}</h1>
@@ -28,8 +30,10 @@ isHome: true
 {% for slug in ["best-socks-for-work-boots", "best-alpaca-socks", "best-heated-socks-for-hunting"] %}
 {% for p in collections.posts %}{% if p.fileSlug == slug %}
 {% set a = artifact.posts[p.fileSlug] %}
+{% set imgSrc = a.image or ('img/' ~ p.data.image) %}
+{% set imgAlt = a.imageAlt or p.data.imageAlt %}
   <a class="feat-card" href="{{ p.url }}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
-    <div class="ph"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}" loading="lazy"></div>
+    <div class="ph">{% respImg imgSrc, imgAlt, "card" %}</div>
     <div class="label-box">
       <p class="kicker">{{ a.label or p.data.category }}</p>
       <h3>{{ a.cardTitle or p.data.title }}</h3>
@@ -46,8 +50,10 @@ isHome: true
     <div class="post-list" id="postList">
   {% for p in collections.latestPosts %}
 {% set a = artifact.posts[p.fileSlug] %}
+{% set imgSrc = a.image or ('img/' ~ p.data.image) %}
+{% set imgAlt = a.imageAlt or p.data.imageAlt %}
       <a class="post-item{% if loop.index > 3 %} extra{% endif %}" href="{{ p.url }}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
-        <img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}" loading="lazy">
+        {% respImg imgSrc, imgAlt, "thumb" %}
         <div>
           <p class="kicker">{{ a.label or p.data.category }}</p>
           <h3>{{ a.cardTitle or p.data.title }}</h3>

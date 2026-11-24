@@ -18,8 +18,10 @@ layout: layouts/base.njk
 {% endif %}
 {% for p in catPosts %}
 {% set a = artifact.posts[p.fileSlug] %}
+{% set imgSrc = a.image or ('img/' ~ p.data.image) %}
+{% set imgAlt = a.imageAlt or p.data.imageAlt %}
   <a class="feat-card{% if loop.index > 10 %} extra{% endif %}" href="{{ p.url }}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
-    <div class="ph"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}" loading="lazy"></div>
+    <div class="ph">{% respImg imgSrc, imgAlt, "catCard" %}</div>
     <div class="label-box">
       <p class="kicker">{{ a.label or p.data.category }}</p>
       <h3>{{ a.cardTitle or p.data.title }}</h3>

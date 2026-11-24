@@ -1,0 +1,18 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+{% set siteDate = (collections.posts | last).date -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for p in collections.all %}{% if p.url == "/" %}
+  <url><loc>https://raihanlite.github.io{{ p.url | url }}</loc><lastmod>{{ siteDate | isoDate }}</lastmod></url>
+{% endif %}{% endfor %}
+{% for p in collections.posts %}
+  <url><loc>https://raihanlite.github.io{{ p.url | url }}</loc><lastmod>{{ p.date | isoDate }}</lastmod></url>
+{% endfor %}
+{% set extraPages = ["/work/", "/sports/", "/heated/", "/guides/", "/everyday/", "/gifts/", "/about/", "/contact/", "/privacy/"] %}
+{% for u in extraPages %}{% for p in collections.all %}{% if p.url == u %}
+  <url><loc>https://raihanlite.github.io{{ p.url | url }}</loc><lastmod>{{ siteDate | isoDate }}</lastmod></url>
+{% endif %}{% endfor %}{% endfor %}
+</urlset>

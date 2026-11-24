@@ -242,3 +242,7 @@ footer.site::before{content:"";position:absolute;top:0;left:0;right:0;height:1px
 .nf-links a.alt{background:#fff;color:var(--ink)}
 .nf-links a.alt:hover{background:#fff;border-color:var(--accent);color:var(--accent)}
 @media (max-width:560px){.nf-num{font-size:4.5rem}.notfound{padding:48px 0 56px}}
+
+/* Responsive <picture> wrappers (eleventy-img): keep the layout identical
+   to the plain <img> they replace. */
+.post-item picture, .feat-card picture, .article-hero picture, .hero picture, .pick figure picture{display:contents}
