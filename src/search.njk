@@ -51,10 +51,8 @@ permalink: /search/
       results.innerHTML = '';
       meta.textContent = index ? 'Search all ' + index.length + ' guides.' : 'Search every guide on the site.';
       noResults.classList.remove('show');
-      chips.style.display = '';
       return;
     }
-    chips.style.display = 'none';
     var scored = [];
     index.forEach(function (item, i) {
       var hay = haystack(item);
