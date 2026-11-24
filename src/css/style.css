@@ -109,6 +109,9 @@ figcaption{font-size:.76rem;color:var(--muted);margin-top:8px}
 .post-item.extra{display:none}
 .post-list.show-all .post-item.extra{display:flex}
 .post-list .post-item.extra.revealed{display:flex}
+.feat-card.extra{display:none}
+.feat-grid2.show-all .feat-card.extra{display:block}
+.feat-grid2 .feat-card.extra.revealed{display:block}
 .post-item.filtered-out,.feat-card.filtered-out{display:none !important}
 @media (max-width:560px){.post-item{gap:14px}.post-item img{width:150px}}
 .load-more-wrap{padding:28px 0 38px}
