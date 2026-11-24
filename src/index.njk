@@ -29,7 +29,7 @@ isHome: true
 {% for p in collections.posts %}{% if p.fileSlug == slug %}
 {% set a = artifact.posts[p.fileSlug] %}
   <a class="feat-card" href="{{ p.url }}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
-    <div class="ph"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}"></div>
+    <div class="ph"><img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}" loading="lazy"></div>
     <div class="label-box">
       <p class="kicker">{{ a.label or p.data.category }}</p>
       <h3>{{ a.cardTitle or p.data.title }}</h3>
@@ -47,7 +47,7 @@ isHome: true
   {% for p in collections.latestPosts %}
 {% set a = artifact.posts[p.fileSlug] %}
       <a class="post-item{% if loop.index > 3 %} extra{% endif %}" href="{{ p.url }}"{% if a.dataSearch %} data-search="{{ a.dataSearch }}"{% endif %}>
-        <img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}">
+        <img src="{{ ('/' ~ (a.image or ('img/' ~ p.data.image))) | url }}" alt="{{ a.imageAlt or p.data.imageAlt }}" loading="lazy">
         <div>
           <p class="kicker">{{ a.label or p.data.category }}</p>
           <h3>{{ a.cardTitle or p.data.title }}</h3>
