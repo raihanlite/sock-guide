@@ -82,10 +82,21 @@ isHome: true
   var btn = document.getElementById('loadMoreBtn');
   var list = document.querySelector('.post-list');
   if (!btn || !list) return;
+  // Load More in batches of 10: each click reveals the next 10 hidden
+  // rows; the button hides when nothing is left hidden. Rows after the
+  // first 3 carry class "extra" (hidden by CSS) until they get "revealed".
+  // Search still uses the list's "show-all" class to show every match,
+  // and removing it restores this batched view.
+  function hiddenRows() {
+    return list.querySelectorAll('.post-item.extra:not(.revealed)');
+  }
   btn.addEventListener('click', function () {
-    list.classList.add('show-all');
-    btn.style.display = 'none';
+    var rows = hiddenRows();
+    for (var i = 0; i < 10 && i < rows.length; i++) {
+      rows[i].classList.add('revealed');
+    }
+    if (hiddenRows().length === 0) btn.style.display = 'none';
   });
-  if (!document.querySelector('.post-item.extra')) btn.style.display = 'none';
+  if (hiddenRows().length === 0) btn.style.display = 'none';
 })();
 </script>

@@ -177,7 +177,7 @@
       rows.forEach(function (el) { el.classList.remove('filtered-out'); });
       cards.forEach(function (el) { el.classList.remove('filtered-out'); });
       if (list) list.classList.remove('show-all');
-      if (loadMoreBtn && document.querySelector('.post-item.extra')) loadMoreBtn.style.display = '';
+      if (loadMoreBtn && document.querySelector('.post-item.extra:not(.revealed)')) loadMoreBtn.style.display = '';
       if (note) note.classList.remove('show');
       if (noResults) noResults.classList.remove('show');
       return;
