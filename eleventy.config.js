@@ -60,33 +60,17 @@ function stripTags(s) {
 }
 
 export default function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/css");
-  eleventyConfig.addPassthroughCopy("src/img");
-  eleventyConfig.addPassthroughCopy("src/robots.txt");
-  // Favicon set (sock icon, brand magenta #e0218a) — served from site root.
-  eleventyConfig.addPassthroughCopy("src/favicon.ico");
-  eleventyConfig.addPassthroughCopy("src/favicon.svg");
-  eleventyConfig.addPassthroughCopy("src/favicon-16x16.png");
-  eleventyConfig.addPassthroughCopy("src/favicon-32x32.png");
-  eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
-  eleventyConfig.addPassthroughCopy("src/android-chrome-192x192.png");
-  eleventyConfig.addPassthroughCopy("src/android-chrome-512x512.png");
-  eleventyConfig.addPassthroughCopy("src/site.webmanifest");
-  // YYYY-MM-DD for Article JSON-LD datePublished (front matter date).
-  // Latest Posts: all posts newest-first, excluding the 4 featured on the
-  // homepage (hero + 3 cards) so they do not repeat in the list.
-  // Compare fileSlug, not url: page.url already includes the pathPrefix.
-  // Several guides share one publish month and the artifact's order is
-  // not date order (see below), so the artifact's order is applied
-  // explicitly to keep Latest Posts identical to the artifact.
-  eleventyConfig.addCollection("latestPosts", (collectionApi) => {
-    const featured = [
+  // Site display order: the 4 featured guides (hero + 3 cards) first,
+  // then Latest Posts order. latestPosts excludes the featured four;
+  // the search index uses the full order. New posts are prepended to
+  // artifactOrder (see the December posting schedule).
+  const featured = [
       "best-work-socks",
       "best-socks-for-work-boots",
       "best-alpaca-socks",
       "best-heated-socks-for-hunting",
     ];
-    const artifactOrder = [
+  const artifactOrder = [
       "best-compression-socks-for-nurses",
       "best-socks-for-school",
       "best-basketball-socks",
@@ -115,6 +99,26 @@ export default function(eleventyConfig) {
       "best-socks-for-summer",
       "best-tennis-socks",
     ];
+  eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
+  // Favicon set (sock icon, brand magenta #e0218a) — served from site root.
+  eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("src/favicon.svg");
+  eleventyConfig.addPassthroughCopy("src/favicon-16x16.png");
+  eleventyConfig.addPassthroughCopy("src/favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
+  eleventyConfig.addPassthroughCopy("src/android-chrome-192x192.png");
+  eleventyConfig.addPassthroughCopy("src/android-chrome-512x512.png");
+  eleventyConfig.addPassthroughCopy("src/site.webmanifest");
+  // YYYY-MM-DD for Article JSON-LD datePublished (front matter date).
+  // Latest Posts: all posts newest-first, excluding the 4 featured on the
+  // homepage (hero + 3 cards) so they do not repeat in the list.
+  // Compare fileSlug, not url: page.url already includes the pathPrefix.
+  // Several guides share one publish month and the artifact's order is
+  // not date order (see below), so the artifact's order is applied
+  // explicitly to keep Latest Posts identical to the artifact.
+  eleventyConfig.addCollection("latestPosts", (collectionApi) => {
     // The artifact's Latest Posts order is authoritative: it is not
     // derivable from dates alone (in the artifact Crew Socks vs Ankle
     // Socks precedes How to Choose the Right Socks, although its publish
@@ -125,6 +129,21 @@ export default function(eleventyConfig) {
       .sort((a, b) => {
         const ia = artifactOrder.indexOf(a.fileSlug);
         const ib = artifactOrder.indexOf(b.fileSlug);
+        if (ia !== -1 && ib !== -1) return ia - ib;
+        const byDate = b.date - a.date;
+        if (byDate !== 0) return byDate;
+        return ia === -1 ? 1 : -1;
+      });
+  });
+  // Search index order: every post in the site's display order — the 4
+  // featured guides first (hero + 3 cards), then Latest Posts order.
+  // Anything not listed falls back to newest-first by date.
+  eleventyConfig.addCollection("searchPosts", (collectionApi) => {
+    const siteOrder = [...featured, ...artifactOrder];
+    return collectionApi.getFilteredByTag("posts")
+      .sort((a, b) => {
+        const ia = siteOrder.indexOf(a.fileSlug);
+        const ib = siteOrder.indexOf(b.fileSlug);
         if (ia !== -1 && ib !== -1) return ia - ib;
         const byDate = b.date - a.date;
         if (byDate !== 0) return byDate;

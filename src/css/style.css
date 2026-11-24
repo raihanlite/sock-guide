@@ -256,3 +256,14 @@ footer.site::before{content:"";position:absolute;top:0;left:0;right:0;height:1px
 .post-item picture img{width:100%;height:100%;display:block}
 .article-hero picture{display:block}
 .pick figure picture{display:block}
+
+/* Search page */
+.search-page{max-width:680px;margin:0 auto}
+.search-page form{display:flex;gap:10px}
+.search-page input{flex:1;font:inherit;font-size:.95rem;padding:10px 16px;border:1px solid var(--line);border-radius:10px;background:var(--soft);color:var(--ink);min-height:44px}
+.search-page input:focus{border-color:var(--accent);background:#fff;outline:none}
+.search-meta{font-size:.85rem;color:var(--muted);margin:12px 0 0}
+.search-chips{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0}
+.search-chips button{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 14px;cursor:pointer;color:var(--ink)}
+.search-chips button:hover{border-color:var(--accent);color:var(--accent)}
+.search-page .post-list{margin-top:18px}

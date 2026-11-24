@@ -41,7 +41,7 @@
 {% set crumbs = [] %}
 {% if tags and "posts" in tags and catUrls[category] %}
 {% set crumbs = [homeCrumb, { "@type": "ListItem", "position": 2, "name": category, "item": "https://raihanlite.github.io/sock-guide" ~ catUrls[category] }, { "@type": "ListItem", "position": 3, "name": title }] %}
-{% elif page.url in ["/work/", "/sports/", "/heated/", "/everyday/", "/gifts/", "/guides/", "/about/", "/contact/", "/privacy/"] %}
+{% elif page.url in ["/work/", "/sports/", "/heated/", "/everyday/", "/gifts/", "/guides/", "/about/", "/contact/", "/privacy/", "/search/"] %}
 {% set crumbs = [homeCrumb, { "@type": "ListItem", "position": 2, "name": title }] %}
 {% endif %}
 {% if crumbs | length %}
@@ -98,6 +98,7 @@
     <a href="{{ '/about/' | url }}">About</a>
     <a href="{{ '/privacy/' | url }}">Privacy Policy</a>
     <a href="{{ '/contact/' | url }}">Contact</a>
+    <a href="{{ '/search/' | url }}">Search</a>
     <a href="{{ '/' | url }}">All Guides</a>
   </nav>
 </aside>
@@ -178,6 +179,9 @@
   // "show-all" and Load More is hidden; clearing restores the default view.
   // Only post rows (not featured cards) are counted in the match count.
   function applySearch() {
+    // The dedicated search page owns its own filtering; the header
+    // searchbar only navigates there (see the submit handler below).
+    if (document.getElementById('searchResults')) return;
     var raw = searchInput.value.trim();
     var q = raw.toLowerCase();
     var list = document.querySelector('.post-list');
@@ -224,11 +228,12 @@
     if (noResults && list) noResults.classList.toggle('show', matches === 0);
   }
   searchInput.addEventListener('input', applySearch);
-  // Submit (Enter) also scrolls to the post list, as in the artifact.
+  // Submit (Enter) goes to the dedicated search page with the query.
   searchForm.addEventListener('submit', function (e) {
     e.preventDefault();
-    var latest = document.getElementById('latest');
-    if (latest) latest.scrollIntoView();
+    var q = searchInput.value.trim();
+    if (!q) return;
+    window.location.href = "{{ '/search/' | url }}?q=" + encodeURIComponent(q);
   });
 
   // Newsletter (sidebar + footer): opens the reader's email app with a

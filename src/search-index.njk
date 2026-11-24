@@ -1,0 +1,16 @@
+---
+permalink: /search.json
+eleventyExcludeFromCollections: true
+---
+[
+{% for p in collections.searchPosts %}
+{% set a = artifact.posts[p.fileSlug] %}
+{% set imgSrc = a.image or ('img/' ~ p.data.image) %}
+{% set heroFile = (imgSrc | replace("img/artifact/", "")) %}
+{% set stem = heroFile.split('.')[0] %}
+{% set hs = ogImages[heroFile] or {"width": 1200, "height": 900} %}
+{% set h400 = (400 * hs.height / hs.width) | round %}
+{% set entry = {"title": a.cardTitle or p.data.title, "url": p.url | url, "category": a.label or p.data.category, "excerpt": a.excerpt or p.data.description, "img": stem, "alt": a.imageAlt or p.data.imageAlt, "w": 400, "h": h400, "keywords": a.dataSearch or ""} %}
+{{ entry | dump | safe }}{% if not loop.last %},{% endif %}
+{% endfor %}
+]
